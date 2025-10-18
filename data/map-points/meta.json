@@ -15,10 +15,6 @@
             "label": "Mała miejscowość",
             "color": "#ff9e4d"
         },
-        "players": {
-            "label": "Gracze",
-            "color": "#eab308"
-        },
         "kolej": {
             "label": "Stacje",
             "color": "#10b981"
