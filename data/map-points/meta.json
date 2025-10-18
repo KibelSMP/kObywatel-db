@@ -1,0 +1,52 @@
+{
+    "meta": {
+        "projection": "simple-1px-4m",
+        "unitsPerPixel": 4,
+        "origin": "center",
+        "note": "Współrzędne punktów wyrażone w metrach względem środka mapy (0,0 = środek). Używamy osi X (poziomo) i Z (pion).",
+        "updatedAt": "2025-09-25T15:17:47.050Z"
+    },
+    "categories": {
+        "miasto_duze": {
+            "label": "Duża miejscowość",
+            "color": "#ff4d4d"
+        },
+        "miasto_male": {
+            "label": "Mała miejscowość",
+            "color": "#ff9e4d"
+        },
+        "players": {
+            "label": "Gracze",
+            "color": "#eab308"
+        },
+        "kolej": {
+            "label": "Stacje",
+            "color": "#10b981"
+        },
+        "metro": {
+            "label": "Metro",
+            "color": "#8b5cf6"
+        }
+        ,
+        "airport": {
+            "label": "Lotnisko",
+            "color": "#38bdf8"
+        }
+    },
+    "points": [
+        {
+            "id": "spawn",
+            "name": "Spawn",
+            "category": "miasto",
+            "x": 0,
+            "z": 0,
+            "description": "",
+            "tags": [
+                "spawn",
+                "start"
+            ],
+            "links": [],
+            "hidden": true
+        }
+    ]
+}

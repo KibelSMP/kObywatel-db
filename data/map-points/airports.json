@@ -1,0 +1,34 @@
+{
+    "points": [
+        {
+            "id": "ap-XBA",
+            "name": "Port Lotniczy Baraharad",
+            "category": "airport",
+            "x": -2609,
+            "z": 48,
+            "description": "Woj.: Grzegórzeckie",
+            "tags": ["airport", "lotnisko"],
+            "hidden": false
+        },
+        {
+            "id": "ap-XDE",
+            "name": "Port Lotniczy Dentgino",
+            "category": "airport",
+            "x": 3520,
+            "z": 4001,
+            "description": "Woj.: Pyrskie",
+            "tags": ["airport", "lotnisko"],
+            "hidden": false
+        },
+        {
+            "id": "ap-XPE",
+            "name": "Port Lotniczy Perkelin",
+            "category": "airport",
+            "x": 1248,
+            "z": 2048,
+            "description": "Woj.: Bideckie",
+            "tags": ["airport", "lotnisko"],
+            "hidden": false
+        }
+    ]
+}

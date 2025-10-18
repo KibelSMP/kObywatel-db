@@ -1,0 +1,874 @@
+{
+  "points": [
+    {
+      "id": "loc-papaje",
+      "name": "papaje",
+      "category": "miasto_duze",
+      "x": -1793,
+      "z": -1025,
+      "description": "Woj.: Wielkokabaczckie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Wielkokabaczckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-jusznica",
+      "name": "Jusznica",
+      "category": "miasto_duze",
+      "x": -999,
+      "z": -1364,
+      "description": "Woj.: Wielkokabaczckie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Wielkokabaczckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "savanah-osada",
+      "name": "Savanah Osada",
+      "category": "miasto_duze",
+      "x": 300,
+      "z": -3082,
+      "description": "Woj.: Somsiedzkie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Somsiedzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "pledzikowo",
+      "name": "Pledzikowo",
+      "category": "miasto_duze",
+      "x": 2586,
+      "z": -2937,
+      "description": "Woj.: Somsiedzkie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Somsiedzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "piastow",
+      "name": "Piastów",
+      "category": "miasto_duze",
+      "x": 3610,
+      "z": -3727,
+      "description": "Woj.: Somsiedzkie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Somsiedzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-przedbagnie",
+      "name": "Przedbagnie",
+      "category": "miasto_duze",
+      "x": 1176,
+      "z": 1845,
+      "description": "Woj.: Międzywódzkie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Międzywódzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-wklejalin",
+      "name": "Wklejalin",
+      "category": "miasto_duze",
+      "x": -3279,
+      "z": 2787,
+      "description": "Woj.: Zasiedmiogórskie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Zasiedmiogórskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-henkukland",
+      "name": "Henkukland",
+      "category": "miasto_duze",
+      "x": -2094,
+      "z": 4157,
+      "description": "Woj.: Zasiedmiogórskie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Zasiedmiogórskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-wyspa-puci",
+      "name": "Wyspa Puci",
+      "category": "miasto_duze",
+      "x": 4357,
+      "z": 4136,
+      "description": "Woj.: Pyrskie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Pyrskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-polanica",
+      "name": "Polanica",
+      "category": "miasto_duze",
+      "x": -759,
+      "z": -1120,
+      "description": "Woj.: Wielkokabaczckie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Wielkokabaczckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-gorzyca",
+      "name": "Gorzyca",
+      "category": "miasto_duze",
+      "x": -374,
+      "z": -405,
+      "description": "Woj.: Wielkokabaczckie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Wielkokabaczckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-spawnowice",
+      "name": "Spawnowice",
+      "category": "miasto_duze",
+      "x": -220,
+      "z": -25,
+      "description": "Woj.: Międzyrzeckie, Typ: capital",
+      "tags": [
+        "type:capital",
+        "woj:Międzyrzeckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-piescirogi",
+      "name": "Pieścirogi",
+      "category": "miasto_duze",
+      "x": -625,
+      "z": -347,
+      "description": "Woj.: Wielkokabaczckie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Wielkokabaczckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-ziemiokoty",
+      "name": "Ziemiokoty",
+      "category": "miasto_duze",
+      "x": -2339,
+      "z": -2154,
+      "description": "Woj.: Złowieckie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Złowieckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-niewiedz",
+      "name": "Niewiedź",
+      "category": "miasto_duze",
+      "x": -1512,
+      "z": -2168,
+      "description": "Woj.: Złowieckie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Złowieckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-diuna",
+      "name": "Diuna",
+      "category": "miasto_duze",
+      "x": -2089,
+      "z": -1801,
+      "description": "Woj.: Złowieckie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Złowieckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-zamesie",
+      "name": "Zamesie",
+      "category": "miasto_duze",
+      "x": 65,
+      "z": -2831,
+      "description": "Woj.: Złowieckie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Złowieckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-bromberg",
+      "name": "Bromberg",
+      "category": "miasto_duze",
+      "x": 2209,
+      "z": -4240,
+      "description": "Woj.: Somsiedzkie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Somsiedzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-tomhetowo-wookskie",
+      "name": "Tomhetowo Wookskie",
+      "category": "miasto_duze",
+      "x": 1778,
+      "z": -2974,
+      "description": "Woj.: Somsiedzkie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Somsiedzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-keka-tow",
+      "name": "Kekałtów",
+      "category": "miasto_duze",
+      "x": 1100,
+      "z": -1109,
+      "description": "Woj.: Suchomeskie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Suchomeskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-drakow",
+      "name": "Draków",
+      "category": "miasto_duze",
+      "x": 2059,
+      "z": 433,
+      "description": "Woj.: Brzóskie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Brzóskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-keknia",
+      "name": "Keknia",
+      "category": "miasto_duze",
+      "x": 1636,
+      "z": 414,
+      "description": "Woj.: Brzóskie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Brzóskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-nowy-tasmansk",
+      "name": "Nowy Tasmańsk",
+      "category": "miasto_duze",
+      "x": 2370,
+      "z": -1095,
+      "description": "Woj.: Kresowickie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Kresowickie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-kanarowice",
+      "name": "Kanarowice",
+      "category": "miasto_duze",
+      "x": 1728,
+      "z": 1774,
+      "description": "Woj.: Bideckie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Bideckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-perkelin",
+      "name": "Perkelin",
+      "category": "miasto_duze",
+      "x": 1405,
+      "z": 2004,
+      "description": "Woj.: Bideckie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Bideckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-pa-kizland",
+      "name": "Pałkizland",
+      "category": "miasto_duze",
+      "x": 1877,
+      "z": 1720,
+      "description": "Woj.: Bideckie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Bideckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-bida-z-nedza",
+      "name": "Bida z Nędzą",
+      "category": "miasto_duze",
+      "x": 2244,
+      "z": 1698,
+      "description": "Woj.: Bideckie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Bideckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-rozewo",
+      "name": "Różewo",
+      "category": "miasto_duze",
+      "x": 2715,
+      "z": 1823,
+      "description": "Woj.: Bideckie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Bideckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-miedzygorze",
+      "name": "Międzygórze",
+      "category": "miasto_duze",
+      "x": -1230,
+      "z": -168,
+      "description": "Woj.: Międzywódzkie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Międzywódzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-twierdza-wiezowiec",
+      "name": "Twierdza Wieżowiec",
+      "category": "miasto_duze",
+      "x": -1437,
+      "z": -339,
+      "description": "Woj.: Międzywódzkie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Międzywódzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-podgorze",
+      "name": "Podgórze",
+      "category": "miasto_duze",
+      "x": -1125,
+      "z": 149,
+      "description": "Woj.: Międzywódzkie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Międzywódzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-nagorze",
+      "name": "Nagórze",
+      "category": "miasto_duze",
+      "x": -1358,
+      "z": 378,
+      "description": "Woj.: Międzywódzkie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Międzywódzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-nilplep",
+      "name": "Nilplep",
+      "category": "miasto_duze",
+      "x": -676,
+      "z": 150,
+      "description": "Woj.: Międzywódzkie, Typ: capital",
+      "tags": [
+        "type:capital",
+        "woj:Międzywódzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-susy",
+      "name": "Susy",
+      "category": "miasto_duze",
+      "x": -282,
+      "z": 305,
+      "description": "Woj.: Międzywódzkie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Międzywódzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-kawarda-zdroj",
+      "name": "Kawarda-Zdrój",
+      "category": "miasto_duze",
+      "x": -371,
+      "z": 536,
+      "description": "Woj.: Międzywódzkie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Międzywódzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-enkha-ganrae",
+      "name": "Enkha'ganrae",
+      "category": "miasto_duze",
+      "x": -2212,
+      "z": 656,
+      "description": "Woj.: Międzywódzkie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Międzywódzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-prot-enra-khastr",
+      "name": "Prot'enra'khastr",
+      "category": "miasto_duze",
+      "x": 48,
+      "z": 486,
+      "description": "Woj.: Międzywódzkie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Międzywódzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-ciechocinek",
+      "name": "Ciechocinek",
+      "category": "miasto_duze",
+      "x": -980,
+      "z": 1883,
+      "description": "Woj.: Międzywódzkie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Międzywódzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-srym",
+      "name": "Śrym",
+      "category": "miasto_duze",
+      "x": -374,
+      "z": 887,
+      "description": "Woj.: Międzywódzkie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Międzywódzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-przemytnica",
+      "name": "Przemytnica",
+      "category": "miasto_duze",
+      "x": 219,
+      "z": 1598,
+      "description": "Woj.: Międzywódzkie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Międzywódzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-przynorze",
+      "name": "Przynorze",
+      "category": "miasto_duze",
+      "x": -306,
+      "z": 2488,
+      "description": "Woj.: Międzywódzkie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Międzywódzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-spiulkowice-zdroj",
+      "name": "Śpiulkowice-Zdrój",
+      "category": "miasto_duze",
+      "x": -2447,
+      "z": -192,
+      "description": "Woj.: Grzegórzeckie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Grzegórzeckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-wilkowyje",
+      "name": "Wilkowyje",
+      "category": "miasto_duze",
+      "x": -2557,
+      "z": -433,
+      "description": "Woj.: Grzegórzeckie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Grzegórzeckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-baraharad",
+      "name": "Baraharad",
+      "category": "miasto_duze",
+      "x": -2902,
+      "z": 25,
+      "description": "Woj.: Grzegórzeckie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Grzegórzeckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-baraharad-bor",
+      "name": "Baraharad Bór",
+      "category": "miasto_duze",
+      "x": -2616,
+      "z": 289,
+      "description": "Woj.: Grzegórzeckie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Grzegórzeckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-jadrowo",
+      "name": "Jądrowo",
+      "category": "miasto_duze",
+      "x": -4000,
+      "z": 697,
+      "description": "Woj.: Grzegórzeckie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Grzegórzeckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-wysoki-kacik",
+      "name": "Wysoki Kącik",
+      "category": "miasto_duze",
+      "x": -3988,
+      "z": 1379,
+      "description": "Woj.: Grzegórzeckie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Grzegórzeckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-granice-zachodnie",
+      "name": "Granice Zachodnie",
+      "category": "miasto_duze",
+      "x": -2970,
+      "z": 1260,
+      "description": "Woj.: Zasiedmiogórskie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Zasiedmiogórskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-zag-ebie-dziury",
+      "name": "Zagłębie Dziury",
+      "category": "miasto_duze",
+      "x": -2698,
+      "z": 1520,
+      "description": "Woj.: Zasiedmiogórskie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Zasiedmiogórskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-kazmirz-dolny",
+      "name": "Kaźmirz Dolny",
+      "category": "miasto_duze",
+      "x": -2506,
+      "z": 1786,
+      "description": "Woj.: Zasiedmiogórskie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Zasiedmiogórskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-ksiestwo-nexonii",
+      "name": "Księstwo Nexonii",
+      "category": "miasto_duze",
+      "x": -1956,
+      "z": 2076,
+      "description": "Woj.: Zasiedmiogórskie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Zasiedmiogórskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-promno",
+      "name": "Promno",
+      "category": "miasto_duze",
+      "x": 288,
+      "z": 1321,
+      "description": "Woj.: Międzywódzkie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Międzywódzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-rudowice",
+      "name": "Rudowice",
+      "category": "miasto_duze",
+      "x": 1424,
+      "z": 1591,
+      "description": "Woj.: Międzywódzkie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Międzywódzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-ryskowice",
+      "name": "Ryśkowice",
+      "category": "miasto_duze",
+      "x": 284,
+      "z": 2088,
+      "description": "Woj.: Międzywódzkie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Międzywódzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-bordalowice",
+      "name": "Bordalowice",
+      "category": "miasto_duze",
+      "x": 727,
+      "z": 1646,
+      "description": "Woj.: Międzywódzkie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Międzywódzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-kotkowice",
+      "name": "Kotkowice",
+      "category": "miasto_duze",
+      "x": 1456,
+      "z": 1330,
+      "description": "Woj.: Międzywódzkie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Międzywódzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-bregovice",
+      "name": "Bregovice",
+      "category": "miasto_duze",
+      "x": 743,
+      "z": 3159,
+      "description": "Woj.: Kampinowskie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Kampinowskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-stawowice",
+      "name": "Stawowice",
+      "category": "miasto_duze",
+      "x": 1271,
+      "z": 3642,
+      "description": "Woj.: Kampinowskie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Kampinowskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-smrekow",
+      "name": "Smreków",
+      "category": "miasto_duze",
+      "x": 2898,
+      "z": 3692,
+      "description": "Woj.: Pyrskie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Pyrskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-dentgino",
+      "name": "Dentgino",
+      "category": "miasto_duze",
+      "x": 3310,
+      "z": 3777,
+      "description": "Woj.: Pyrskie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Pyrskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-promontorio",
+      "name": "Promontorio",
+      "category": "miasto_duze",
+      "x": 4152,
+      "z": 3509,
+      "description": "Woj.: Pyrskie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Pyrskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-wolvenhol",
+      "name": "Wolvenhol",
+      "category": "miasto_duze",
+      "x": 1993,
+      "z": 2173,
+      "description": "Woj.: Pyrskie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Pyrskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-hertzburg",
+      "name": "Hertzburg",
+      "category": "miasto_duze",
+      "x": 2359,
+      "z": 2375,
+      "description": "Woj.: Pyrskie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Pyrskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-p-aszki",
+      "name": "Płaszki",
+      "category": "miasto_duze",
+      "x": 2490,
+      "z": 930,
+      "description": "Typ: large",
+      "tags": [
+        "type:large"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-batmanowice",
+      "name": "Batmanowice",
+      "category": "miasto_duze",
+      "x": -3408,
+      "z": 1360,
+      "description": "Woj.: Grzegórzeckie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Grzegórzeckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-yuriowice",
+      "name": "Yuriowice",
+      "category": "miasto_duze",
+      "x": -1835,
+      "z": 4373,
+      "description": "Woj.: Zasiedmiogórskie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Zasiedmiogórskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-krzywy-las",
+      "name": "Krzywy Las",
+      "category": "miasto_duze",
+      "x": 2025,
+      "z": 3328,
+      "description": "Woj.: Pyrskie, Typ: large",
+      "tags": [
+        "type:large",
+        "woj:Pyrskie"
+      ],
+      "hidden": false
+    }
+  ]
+}

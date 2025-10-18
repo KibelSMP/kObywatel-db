@@ -1,0 +1,4714 @@
+[
+  {
+    "id": "wioksal_zeflik_1",
+    "product": {
+      "item": "sponge",
+      "qty": 1,
+      "name": "Gąbka",
+      "nameEn": "Sponge"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Emerald",
+      "nameEn": "Szmaragd"
+    },
+    "storeName": "Zeflik",
+    "storeLocation": "Wioksal",
+    "storeOwner": "AdminShop",
+    "x": -2524,
+    "y": 97,
+    "z": 2871
+  },
+  {
+    "id": "wioksal_zeflik_2",
+    "product": {
+      "item": "netherite_scrap",
+      "qty": 1,
+      "name": "Odłamek netherytu",
+      "nameEn": "Netherite Scrap"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "name": "50 Kibelionów",
+      "nameEn": "50 Kibelionów"
+    },
+    "price2": {
+      "item": "paper",
+      "qty": 20,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "Zeflik",
+    "storeLocation": "Wioksal",
+    "storeOwner": "AdminShop",
+    "x": -2524,
+    "y": 97,
+    "z": 2871
+  },
+  {
+    "id": "wioksal_zeflik_3",
+    "product": {
+      "item": "villager_spawn_egg",
+      "qty": 1,
+      "name": "Jajo przyzywające osadnika",
+      "nameEn": "Villager Spawn Egg"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 30,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "Zeflik",
+    "storeLocation": "Wioksal",
+    "storeOwner": "AdminShop",
+    "x": -2524,
+    "y": 97,
+    "z": 2871
+  },
+  {
+    "id": "wioksal_zeflik_4",
+    "product": {
+      "item": "leather_leggins",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Spodnie TESCO VALUE",
+      "nameEn": "Spodnie TESCO VALUE"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Zeflik",
+    "storeLocation": "Wioksal",
+    "storeOwner": "AdminShop",
+    "x": -2524,
+    "y": 97,
+    "z": 2871
+  },
+  {
+    "id": "wioksal_zeflik_5",
+    "product": {
+      "item": "glow_item_frame",
+      "qty": 1,
+      "name": "Niewidzialna świecąca ramka",
+      "nameEn": "Niewidzialna świecąca ramka"
+    },
+    "price1": {
+      "item": "glow_item_frame",
+      "qty": 1,
+      "name": "Świecąca ramka na przedmiot",
+      "nameEn": "Glow Item Frame"
+    },
+    "price2": {
+      "item": "emerald",
+      "qty": 2,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Zeflik",
+    "storeLocation": "Wioksal",
+    "storeOwner": "AdminShop",
+    "x": -2524,
+    "y": 97,
+    "z": 2871
+  },
+  {
+    "id": "wioksal_zeflik_6",
+    "product": {
+      "item": "item_frame",
+      "qty": 1,
+      "name": "Niewidzialna ramka",
+      "nameEn": "Niewidzialna ramka"
+    },
+    "price1": {
+      "item": "item_frame",
+      "qty": 1,
+      "name": "Ramka na przedmiot",
+      "nameEn": "Item Frame"
+    },
+    "price2": {
+      "item": "emerald",
+      "qty": 2,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Zeflik",
+    "storeLocation": "Wioksal",
+    "storeOwner": "AdminShop",
+    "x": -2524,
+    "y": 97,
+    "z": 2871
+  },
+  {
+    "id": "wioksal_zeflik_7",
+    "product": {
+      "item": "villager_spawn_egg",
+      "qty": 1,
+      "name": "Shopkeeper",
+      "nameEn": "Shopkeeper"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 10,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "Zeflik",
+    "storeLocation": "Wioksal",
+    "storeOwner": "AdminShop",
+    "x": -2524,
+    "y": 97,
+    "z": 2871
+  },
+  {
+    "id": "wioksal_zeflik_8",
+    "product": {
+      "item": "magenta_shulker_box",
+      "qty": 1,
+      "name": "Alfabet",
+      "nameEn": "Alfabet"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 20,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "Zeflik",
+    "storeLocation": "Wioksal",
+    "storeOwner": "AdminShop",
+    "x": -2524,
+    "y": 97,
+    "z": 2871
+  },
+  {
+    "id": "wioksal_zeflik_9",
+    "product": {
+      "item": "pink_shulker_box",
+      "qty": 1,
+      "name": "Znaki specjalne i cyfry",
+      "nameEn": "Znaki specjalne i cyfry"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 20,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "Zeflik",
+    "storeLocation": "Wioksal",
+    "storeOwner": "AdminShop",
+    "x": -2524,
+    "y": 97,
+    "z": 2871
+  },
+  {
+    "id": "wioksal_zeflik_10",
+    "product": {
+      "item": "firework_rocket",
+      "qty": 64,
+      "name": "Fajerwerk",
+      "nameEn": "Firework Rocket"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 10,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "Zeflik",
+    "storeLocation": "Wioksal",
+    "storeOwner": "AdminShop",
+    "x": -2524,
+    "y": 97,
+    "z": 2871
+  },
+  {
+    "id": "palkizland_panjan_1",
+    "product": {
+      "item": "netherite_upgrade_smithing_template",
+      "qty": 1,
+      "name": "Netherytowe ulepszenie",
+      "nameEn": "Netherite Upgrade"
+    },
+    "price1": {
+      "item": "netherite_scrap",
+      "qty": 2,
+      "name": "Odłamek netherytu",
+      "nameEn": "Netheritu Scrap"
+    },
+    "price2": {
+      "item": "skull_banner_pattern",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Obligacje skarbowe",
+      "nameEn": "Obligacje skarbowe"
+    },
+    "storeName": "Pan Jan",
+    "storeLocation": "Pałkizland",
+    "storeOwner": "AdminShop",
+    "x": 1669,
+    "y": 71,
+    "z": 1732
+  },
+  {
+    "id": "palkizland_panjan_2",
+    "product": {
+      "item": "egg",
+      "qty": 1,
+      "name": "Jajco",
+      "nameEn": "Jajco"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "Pan Jan",
+    "storeLocation": "Pałkizland",
+    "storeOwner": "AdminShop",
+    "x": 1669,
+    "y": 71,
+    "z": 1732
+  },
+  {
+    "id": "spawnowice_perlage_1",
+    "product": {
+      "item": "paper",
+      "qty": 1,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "price1": {
+      "item": "ender_pearl",
+      "qty": 16,
+      "name": "Enderperła",
+      "nameEn": "Ender Pearl"
+    },
+    "storeName": "Perlage Menczybombiusz",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -123,
+    "y": 155,
+    "z": -41
+  },
+  {
+    "id": "pieklostrada_ritoranta_1",
+    "product": {
+      "item": "paper",
+      "qty": 1,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "price1": {
+      "item": "netherrack",
+      "qty": 64,
+      "name": "Netherrack",
+      "nameEn": "Netherrack"
+    },
+    "price2": {
+      "item": "netherrack",
+      "qty": 32,
+      "name": "Netherrack",
+      "nameEn": "Netherrack"
+    },
+    "storeName": "Ritoranta",
+    "storeLocation": "Piekłostrada",
+    "storeOwner": "AdminShop"
+  },
+  {
+    "id": "debina_adam_1",
+    "product": {
+      "item": "paper",
+      "qty": 1,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "price1": {
+      "item": "copper_block",
+      "qty": 2,
+      "name": "Blok miedzi",
+      "nameEn": "Copper Block"
+    },
+    "storeName": "Adam",
+    "storeLocation": "Dębina",
+    "storeOwner": "AdminShop",
+    "x": -1368,
+    "y": 64,
+    "z": -1004
+  },
+  {
+    "id": "debina_adam_2",
+    "product": {
+      "item": "water_bottle",
+      "qty": 1,
+      "name": "Woda Vytautas",
+      "nameEn": "Woda Vytautas"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Adam",
+    "storeLocation": "Dębina",
+    "storeOwner": "AdminShop",
+    "x": -1368,
+    "y": 64,
+    "z": -1004
+  },
+  {
+    "id": "poczta_poczmistrz_1",
+    "product": {
+      "item": "writable_book",
+      "qty": 1,
+      "name": "List standard",
+      "nameEn": "List standard"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Poczmistrz",
+    "storeLocation": "Oddziały Poczty",
+    "storeOwner": "AdminShop"
+  },
+  {
+    "id": "poczta_poczmistrz_2",
+    "product": {
+      "item": "writable_book",
+      "qty": 1,
+      "name": "Etykieta paczki",
+      "nameEn": "Etykieta paczki"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 3,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Poczmistrz",
+    "storeLocation": "Oddziały Poczty",
+    "storeOwner": "AdminShop"
+  },
+  {
+    "id": "dentgino_pankracy_1",
+    "product": {
+      "item": "potion_night_vision",
+      "qty": 1,
+      "name": "MOCNY FULL",
+      "nameEn": "MOCNY FULL"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Pankracy Mendelejew",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3513,
+    "y": 62,
+    "z": 3799
+  },
+  {
+    "id": "dentgino_pankracy_2",
+    "product": {
+      "item": "water_bottle",
+      "qty": 1,
+      "name": "Woda Vytautas",
+      "nameEn": "Woda Vytautas"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Pankracy Mendelejew",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3513,
+    "y": 62,
+    "z": 3799
+  },
+  {
+    "id": "dentgino_pankracy_3",
+    "product": {
+      "item": "potion_harming",
+      "qty": 1,
+      "name": "Gensty Glut",
+      "nameEn": "Gensty Glut"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 4,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Pankracy Mendelejew",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3513,
+    "y": 62,
+    "z": 3799
+  },
+  {
+    "id": "dentgino_pankracy_4",
+    "product": {
+      "item": "potion_strength",
+      "qty": 1,
+      "name": "Wywar z baloryby",
+      "nameEn": "Wywar z baloryby"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 2,
+      "name": "Talon promocyjny",
+      "nameEn": "Talon promocyjny"
+    },
+    "storeName": "Pankracy Mendelejew",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3513,
+    "y": 62,
+    "z": 3799
+  },
+  {
+    "id": "dentgino_pankracy_5",
+    "product": {
+      "item": "dirt",
+      "qty": 1,
+      "name": "Jadalna ziemia",
+      "nameEn": "Jadalna ziemia"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 5,
+      "name": "Talon promocyjny",
+      "nameEn": "Talon promocyjny"
+    },
+    "storeName": "Pankracy Mendelejew",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3513,
+    "y": 62,
+    "z": 3799
+  },
+  {
+    "id": "dentgino_pankracy_6",
+    "product": {
+      "item": "coal",
+      "qty": 1,
+      "name": "Kopalniok",
+      "nameEn": "Kopalniok"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 5,
+      "name": "Talon promocyjny",
+      "nameEn": "Talon promocyjny"
+    },
+    "storeName": "Pankracy Mendelejew",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3513,
+    "y": 62,
+    "z": 3799
+  },
+  {
+    "id": "dentgino_pankracy_7",
+    "product": {
+      "item": "wooden_axe",
+      "qty": 1,
+      "name": "Czekoladowa siekierka",
+      "nameEn": "Czekoladowa siekierka"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 5,
+      "name": "Talon promocyjny",
+      "nameEn": "Talon promocyjny"
+    },
+    "storeName": "Pankracy Mendelejew",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3513,
+    "y": 62,
+    "z": 3799
+  },
+  {
+    "id": "dentgino_pankracy_8",
+    "product": {
+      "item": "sea_pickle",
+      "qty": 1,
+      "name": "Ogórek",
+      "nameEn": "Ogórek"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 4,
+      "name": "Talon promocyjny",
+      "nameEn": "Talon promocyjny"
+    },
+    "storeName": "Pankracy Mendelejew",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3513,
+    "y": 62,
+    "z": 3799
+  },
+  {
+    "id": "dentgino_pankracy_9",
+    "product": {
+      "item": "dark_oak_trapdoor",
+      "qty": 1,
+      "name": "Tabliczka czekolady JUMBO",
+      "nameEn": "Tabliczka czekolady JUMBO"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 4,
+      "name": "Talon promocyjny",
+      "nameEn": "Talon promocyjny"
+    },
+    "storeName": "Pankracy Mendelejew",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3513,
+    "y": 62,
+    "z": 3799
+  },
+  {
+    "id": "ciechocinek_gustaw_1",
+    "product": {
+      "item": "angler_pottery_sherd",
+      "qty": 2,
+      "name": "Odłamek ceramiki \"Rybak\"",
+      "nameEn": "Angler Pottery Sherd"
+    },
+    "price1": {
+      "item": "angler_pottery_sherd",
+      "qty": 1,
+      "name": "Odłamek ceramiki \"Rybak\"",
+      "nameEn": "Angler Pottery Sherd"
+    },
+    "price2": {
+      "item": "brick",
+      "qty": 1,
+      "name": "Cegła",
+      "nameEn": "Brick"
+    },
+    "storeName": "Garncarz Gustaw",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -985,
+    "y": 72,
+    "z": 1886
+  },
+  {
+    "id": "ciechocinek_gustaw_2",
+    "product": {
+      "item": "archer_pottery_sherd",
+      "qty": 2,
+      "name": "Odłamek ceramiki \"Łucznik\"",
+      "nameEn": "Archer Pottery Sherd"
+    },
+    "price1": {
+      "item": "archer_pottery_sherd",
+      "qty": 1,
+      "name": "Odłamek ceramiki \"Łucznik\"",
+      "nameEn": "Archer Pottery Sherd"
+    },
+    "price2": {
+      "item": "brick",
+      "qty": 1,
+      "name": "Cegła",
+      "nameEn": "Brick"
+    },
+    "storeName": "Garncarz Gustaw",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -985,
+    "y": 72,
+    "z": 1886
+  },
+  {
+    "id": "ciechocinek_gustaw_3",
+    "product": {
+      "item": "arms_up_pottery_sherd",
+      "qty": 2,
+      "name": "Odłamek ceramiki \"Ręce w górze\"",
+      "nameEn": "Archer Pottery Sherd"
+    },
+    "price1": {
+      "item": "arms_up_pottery_sherd",
+      "qty": 1,
+      "name": "Odłamek ceramiki \"Ręce w górze\"",
+      "nameEn": "Arms Up Pottery Sherd"
+    },
+    "price2": {
+      "item": "brick",
+      "qty": 1,
+      "name": "Cegła",
+      "nameEn": "Brick"
+    },
+    "storeName": "Garncarz Gustaw",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -985,
+    "y": 72,
+    "z": 1886
+  },
+  {
+    "id": "ciechocinek_gustaw_4",
+    "product": {
+      "item": "blade_pottery_sherd",
+      "qty": 2,
+      "name": "Odłamek ceramiki \"Ostrze\"",
+      "nameEn": "Blade Pottery Sherd"
+    },
+    "price1": {
+      "item": "blade_pottery_sherd",
+      "qty": 1,
+      "name": "Odłamek ceramiki \"Ostrze\"",
+      "nameEn": "Blade Pottery Sherd"
+    },
+    "price2": {
+      "item": "brick",
+      "qty": 1,
+      "name": "Cegła",
+      "nameEn": "Brick"
+    },
+    "storeName": "Garncarz Gustaw",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -985,
+    "y": 72,
+    "z": 1886
+  },
+  {
+    "id": "ciechocinek_gustaw_5",
+    "product": {
+      "item": "brewer_pottery_sherd",
+      "qty": 2,
+      "name": "Odłamek ceramiki \"Alchemik\"",
+      "nameEn": "Brewer Pottery Sherd"
+    },
+    "price1": {
+      "item": "brewer_pottery_sherd",
+      "qty": 1,
+      "name": "Odłamek ceramiki \"Alchemik\"",
+      "nameEn": "Brewer Pottery Sherd"
+    },
+    "price2": {
+      "item": "brick",
+      "qty": 1,
+      "name": "Cegła",
+      "nameEn": "Brick"
+    },
+    "storeName": "Garncarz Gustaw",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -985,
+    "y": 72,
+    "z": 1886
+  },
+  {
+    "id": "ciechocinek_gustaw_6",
+    "product": {
+      "item": "burn_pottery_sherd",
+      "qty": 2,
+      "name": "Odłamek ceramiki \"Płomień\"",
+      "nameEn": "Burn Pottery Sherd"
+    },
+    "price1": {
+      "item": "burn_pottery_sherd",
+      "qty": 1,
+      "name": "Odłamek ceramiki \"Płomień\"",
+      "nameEn": "Burn Pottery Sherd"
+    },
+    "price2": {
+      "item": "brick",
+      "qty": 1,
+      "name": "Cegła",
+      "nameEn": "Brick"
+    },
+    "storeName": "Garncarz Gustaw",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -985,
+    "y": 72,
+    "z": 1886
+  },
+  {
+    "id": "ciechocinek_gustaw_7",
+    "product": {
+      "item": "danger_pottery_sherd",
+      "qty": 2,
+      "name": "Odłamek ceramiki \"Zagrożenie\"",
+      "nameEn": "Danger Pottery Sherd"
+    },
+    "price1": {
+      "item": "danger_pottery_sherd",
+      "qty": 1,
+      "name": "Odłamek ceramiki \"Zagrożenie\"",
+      "nameEn": "Danger Pottery Sherd"
+    },
+    "price2": {
+      "item": "brick",
+      "qty": 1,
+      "name": "Cegła",
+      "nameEn": "Brick"
+    },
+    "storeName": "Garncarz Gustaw",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -985,
+    "y": 72,
+    "z": 1886
+  },
+  {
+    "id": "ciechocinek_gustaw_8",
+    "product": {
+      "item": "explorer_pottery_sherd",
+      "qty": 2,
+      "name": "Odłamek ceramiki \"Odkrywca\"",
+      "nameEn": "Explorer Pottery Sherd"
+    },
+    "price1": {
+      "item": "explorer_pottery_sherd",
+      "qty": 1,
+      "name": "Odłamek ceramiki \"Odkrywca\"",
+      "nameEn": "Explorer Pottery Sherd"
+    },
+    "price2": {
+      "item": "brick",
+      "qty": 1,
+      "name": "Cegła",
+      "nameEn": "Brick"
+    },
+    "storeName": "Garncarz Gustaw",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -985,
+    "y": 72,
+    "z": 1886
+  },
+  {
+    "id": "ciechocinek_gustaw_9",
+    "product": {
+      "item": "flow_pottery_sherd",
+      "qty": 2,
+      "name": "Odłamek ceramiki \"Nurt\"",
+      "nameEn": "Flow Pottery Sherd"
+    },
+    "price1": {
+      "item": "flow_pottery_sherd",
+      "qty": 1,
+      "name": "Odłamek ceramiki \"Nurt\"",
+      "nameEn": "Flow Pottery Sherd"
+    },
+    "price2": {
+      "item": "brick",
+      "qty": 1,
+      "name": "Cegła",
+      "nameEn": "Brick"
+    },
+    "storeName": "Garncarz Gustaw",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -985,
+    "y": 72,
+    "z": 1886
+  },
+  {
+    "id": "ciechocinek_gustaw_10",
+    "product": {
+      "item": "friend_pottery_sherd",
+      "qty": 2,
+      "name": "Odłamek ceramiki \"Druh\"",
+      "nameEn": "Friend Pottery Sherd"
+    },
+    "price1": {
+      "item": "friend_pottery_sherd",
+      "qty": 1,
+      "name": "Odłamek ceramiki \"Druh\"",
+      "nameEn": "Friend Pottery Sherd"
+    },
+    "price2": {
+      "item": "brick",
+      "qty": 1,
+      "name": "Cegła",
+      "nameEn": "Brick"
+    },
+    "storeName": "Garncarz Gustaw",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -985,
+    "y": 72,
+    "z": 1886
+  },
+  {
+    "id": "ciechocinek_gustaw_11",
+    "product": {
+      "item": "guster_pottery_sherd",
+      "qty": 2,
+      "name": "Odłamek ceramiki \"Podmuch\"",
+      "nameEn": "Guster Pottery Sherd"
+    },
+    "price1": {
+      "item": "guster_pottery_sherd",
+      "qty": 1,
+      "name": "Odłamek ceramiki \"Podmuch\"",
+      "nameEn": "Guster Pottery Sherd"
+    },
+    "price2": {
+      "item": "brick",
+      "qty": 1,
+      "name": "Cegła",
+      "nameEn": "Brick"
+    },
+    "storeName": "Garncarz Gustaw",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -985,
+    "y": 72,
+    "z": 1886
+  },
+  {
+    "id": "ciechocinek_gustaw_12",
+    "product": {
+      "item": "heart_pottery_sherd",
+      "qty": 2,
+      "name": "Odłamek ceramiki \"Serce\"",
+      "nameEn": "Heart Pottery Sherd"
+    },
+    "price1": {
+      "item": "heart_pottery_sherd",
+      "qty": 1,
+      "name": "Odłamek ceramiki \"Serce\"",
+      "nameEn": "Heart Pottery Sherd"
+    },
+    "price2": {
+      "item": "brick",
+      "qty": 1,
+      "name": "Cegła",
+      "nameEn": "Brick"
+    },
+    "storeName": "Garncarz Gustaw",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -985,
+    "y": 72,
+    "z": 1886
+  },
+  {
+    "id": "ciechocinek_gustaw_13",
+    "product": {
+      "item": "heartbreak_pottery_sherd",
+      "qty": 2,
+      "name": "Odłamek ceramiki \"Złamane serce\"",
+      "nameEn": "Heartbreak Pottery Sherd"
+    },
+    "price1": {
+      "item": "heartbreak_pottery_sherd",
+      "qty": 1,
+      "name": "Odłamek ceramiki \"Złamane serce\"",
+      "nameEn": "Heartbreak Pottery Sherd"
+    },
+    "price2": {
+      "item": "brick",
+      "qty": 1,
+      "name": "Cegła",
+      "nameEn": "Brick"
+    },
+    "storeName": "Garncarz Gustaw",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -985,
+    "y": 72,
+    "z": 1886
+  },
+  {
+    "id": "ciechocinek_gustaw_14",
+    "product": {
+      "item": "howl_pottery_sherd",
+      "qty": 2,
+      "name": "Odłamek Ceramiki \"Skowyt\"",
+      "nameEn": "Howl Pottery Sherd"
+    },
+    "price1": {
+      "item": "howl_pottery_sherd",
+      "qty": 1,
+      "name": "Odłamek Ceramiki \"Skowyt\"",
+      "nameEn": "Howl Pottery Sherd"
+    },
+    "price2": {
+      "item": "brick",
+      "qty": 1,
+      "name": "Cegła",
+      "nameEn": "Brick"
+    },
+    "storeName": "Garncarz Gustaw",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -985,
+    "y": 72,
+    "z": 1886
+  },
+  {
+    "id": "ciechocinek_gustaw_15",
+    "product": {
+      "item": "miner_pottery_sherd",
+      "qty": 2,
+      "name": "Odłamek ceramiki \"Górnik\"",
+      "nameEn": "Miner Pottery Sherd"
+    },
+    "price1": {
+      "item": "miner_pottery_sherd",
+      "qty": 1,
+      "name": "Odłamek ceramiki \"Górnik\"",
+      "nameEn": "Miner Pottery Sherd"
+    },
+    "price2": {
+      "item": "brick",
+      "qty": 1,
+      "name": "Cegła",
+      "nameEn": "Brick"
+    },
+    "storeName": "Garncarz Gustaw",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -985,
+    "y": 72,
+    "z": 1886
+  },
+  {
+    "id": "ciechocinek_gustaw_16",
+    "product": {
+      "item": "mourner_pottery_sherd",
+      "qty": 2,
+      "name": "Odłamek ceramiki \"Żałobnik\"",
+      "nameEn": "Mourner Pottery Sherd"
+    },
+    "price1": {
+      "item": "mourner_pottery_sherd",
+      "qty": 1,
+      "name": "Odłamek ceramiki \"Żałobnik\"",
+      "nameEn": "Mourner Pottery Sherd"
+    },
+    "price2": {
+      "item": "brick",
+      "qty": 1,
+      "name": "Cegła",
+      "nameEn": "Brick"
+    },
+    "storeName": "Garncarz Gustaw",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -985,
+    "y": 72,
+    "z": 1886
+  },
+  {
+    "id": "ciechocinek_gustaw_17",
+    "product": {
+      "item": "plenty_pottery_sherd",
+      "qty": 2,
+      "name": "Odłamek ceramiki \"Dostatek\"",
+      "nameEn": "Plenty Pottery Sherd"
+    },
+    "price1": {
+      "item": "plenty_pottery_sherd",
+      "qty": 1,
+      "name": "Odłamek ceramiki \"Dostatek\"",
+      "nameEn": "Plenty Pottery Sherd"
+    },
+    "price2": {
+      "item": "brick",
+      "qty": 1,
+      "name": "Cegła",
+      "nameEn": "Brick"
+    },
+    "storeName": "Garncarz Gustaw",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -985,
+    "y": 72,
+    "z": 1886
+  },
+  {
+    "id": "ciechocinek_gustaw_18",
+    "product": {
+      "item": "prize_pottery_sherd",
+      "qty": 2,
+      "name": "Odłamek ceramiki \"Nagroda\"",
+      "nameEn": "Prize Pottery Sherd"
+    },
+    "price1": {
+      "item": "prize_pottery_sherd",
+      "qty": 1,
+      "name": "Odłamek ceramiki \"Nagroda\"",
+      "nameEn": "Prize Pottery Sherd"
+    },
+    "price2": {
+      "item": "brick",
+      "qty": 1,
+      "name": "Cegła",
+      "nameEn": "Brick"
+    },
+    "storeName": "Garncarz Gustaw",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -985,
+    "y": 72,
+    "z": 1886
+  },
+  {
+    "id": "ciechocinek_gustaw_19",
+    "product": {
+      "item": "scrape_pottery_sherd",
+      "qty": 2,
+      "name": "Odłamek ceramiki \"Skrobak\"",
+      "nameEn": "Scrape Pottery Sherd"
+    },
+    "price1": {
+      "item": "scrape_pottery_sherd",
+      "qty": 1,
+      "name": "Odłamek ceramiki \"Skrobak\"",
+      "nameEn": "Scrape Pottery Sherd"
+    },
+    "price2": {
+      "item": "brick",
+      "qty": 1,
+      "name": "Cegła",
+      "nameEn": "Brick"
+    },
+    "storeName": "Garncarz Gustaw",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -985,
+    "y": 72,
+    "z": 1886
+  },
+  {
+    "id": "ciechocinek_gustaw_20",
+    "product": {
+      "item": "sheaf_pottery_sherd",
+      "qty": 2,
+      "name": "Odłamek ceramiki \"Snop\"",
+      "nameEn": "Sheaf Pottery Sherd"
+    },
+    "price1": {
+      "item": "sheaf_pottery_sherd",
+      "qty": 1,
+      "name": "Odłamek ceramiki \"Snop\"",
+      "nameEn": "Sheaf Pottery Sherd"
+    },
+    "price2": {
+      "item": "brick",
+      "qty": 1,
+      "name": "Cegła",
+      "nameEn": "Brick"
+    },
+    "storeName": "Garncarz Gustaw",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -985,
+    "y": 72,
+    "z": 1886
+  },
+  {
+    "id": "ciechocinek_gustaw_21",
+    "product": {
+      "item": "shelter_pottery_sherd",
+      "qty": 2,
+      "name": "Odłamek ceramiki \"Ostoja\"",
+      "nameEn": "Shelter Pottery Sherd"
+    },
+    "price1": {
+      "item": "shelter_pottery_sherd",
+      "qty": 1,
+      "name": "Odłamek ceramiki \"Ostoja\"",
+      "nameEn": "Shelter Pottery Sherd"
+    },
+    "price2": {
+      "item": "brick",
+      "qty": 1,
+      "name": "Cegła",
+      "nameEn": "Brick"
+    },
+    "storeName": "Garncarz Gustaw",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -985,
+    "y": 72,
+    "z": 1886
+  },
+  {
+    "id": "ciechocinek_gustaw_22",
+    "product": {
+      "item": "skull_pottery_sherd",
+      "qty": 2,
+      "name": "Odłamek ceramiki \"Czaszka\"",
+      "nameEn": "Skull Pottery Sherd"
+    },
+    "price1": {
+      "item": "skull_pottery_sherd",
+      "qty": 1,
+      "name": "Odłamek ceramiki \"Czaszka\"",
+      "nameEn": "Skull Pottery Sherd"
+    },
+    "price2": {
+      "item": "brick",
+      "qty": 1,
+      "name": "Cegła",
+      "nameEn": "Brick"
+    },
+    "storeName": "Garncarz Gustaw",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -985,
+    "y": 72,
+    "z": 1886
+  },
+  {
+    "id": "ciechocinek_gustaw_23",
+    "product": {
+      "item": "snort_pottery_sherd",
+      "qty": 2,
+      "name": "Odłamek ceramiki \"Niuch\"",
+      "nameEn": "Snort Pottery Sherd"
+    },
+    "price1": {
+      "item": "snort_pottery_sherd",
+      "qty": 1,
+      "name": "Odłamek ceramiki \"Niuch\"",
+      "nameEn": "Snort Pottery Sherd"
+    },
+    "price2": {
+      "item": "brick",
+      "qty": 1,
+      "name": "Cegła",
+      "nameEn": "Brick"
+    },
+    "storeName": "Garncarz Gustaw",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -985,
+    "y": 72,
+    "z": 1886
+  },
+  {
+    "id": "ciechocinek_alfred_1",
+    "product": {
+      "item": "ink_sac",
+      "qty": 64,
+      "name": "Torbiel z atramentem",
+      "nameEn": "Ink Sac"
+    },
+    "price1": {
+      "item": "coal",
+      "qty": 64,
+      "name": "Węgiel",
+      "nameEn": "Coal"
+    },
+    "price2": {
+      "item": "paper",
+      "qty": 2,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "Malarz Alfred",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -984,
+    "y": 77,
+    "z": 1891
+  },
+  {
+    "id": "ciechocinek_alfred_2",
+    "product": {
+      "item": "glow_ink_sac",
+      "qty": 64,
+      "name": "Torbiel ze świecącym atramentem",
+      "nameEn": "Glow Ink Sac"
+    },
+    "price1": {
+      "item": "glowstone_dust",
+      "qty": 16,
+      "name": "Jasnopył",
+      "nameEn": "Glowstone dust"
+    },
+    "price2": {
+      "item": "paper",
+      "qty": 4,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "Malarz Alfred",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -984,
+    "y": 77,
+    "z": 1891
+  },
+  {
+    "id": "ciechocinek_alfred_3",
+    "product": {
+      "item": "white_dye",
+      "qty": 64,
+      "name": "Biały barwnik",
+      "nameEn": "White Dye"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "price2": {
+      "item": "emerald",
+      "qty": 16,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Malarz Alfred",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -984,
+    "y": 77,
+    "z": 1891
+  },
+  {
+    "id": "ciechocinek_alfred_4",
+    "product": {
+      "item": "light_gray_dye",
+      "qty": 64,
+      "name": "Jasnoszary barwnik",
+      "nameEn": "Light Gray Dye"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "price2": {
+      "item": "emerald",
+      "qty": 16,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Malarz Alfred",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -984,
+    "y": 77,
+    "z": 1891
+  },
+  {
+    "id": "ciechocinek_alfred_5",
+    "product": {
+      "item": "gray_dye",
+      "qty": 64,
+      "name": "Szary barwnik",
+      "nameEn": "Gray Dye"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "price2": {
+      "item": "emerald",
+      "qty": 16,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Malarz Alfred",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -984,
+    "y": 77,
+    "z": 1891
+  },
+  {
+    "id": "ciechocinek_alfred_6",
+    "product": {
+      "item": "black_dye",
+      "qty": 64,
+      "name": "Czarny barwnik",
+      "nameEn": "Black Dye"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "price2": {
+      "item": "emerald",
+      "qty": 16,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Malarz Alfred",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -984,
+    "y": 77,
+    "z": 1891
+  },
+  {
+    "id": "ciechocinek_alfred_7",
+    "product": {
+      "item": "brown_dye",
+      "qty": 64,
+      "name": "Brązowy barwnik",
+      "nameEn": "Brown Dye"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "price2": {
+      "item": "emerald",
+      "qty": 16,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Malarz Alfred",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -984,
+    "y": 77,
+    "z": 1891
+  },
+  {
+    "id": "ciechocinek_alfred_8",
+    "product": {
+      "item": "red_dye",
+      "qty": 64,
+      "name": "Czerwony barwnik",
+      "nameEn": "Red Dye"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "price2": {
+      "item": "emerald",
+      "qty": 16,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Malarz Alfred",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -984,
+    "y": 77,
+    "z": 1891
+  },
+  {
+    "id": "ciechocinek_alfred_9",
+    "product": {
+      "item": "orange_dye",
+      "qty": 64,
+      "name": "Pomarańczowy barwnik",
+      "nameEn": "Orange Dye"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "price2": {
+      "item": "emerald",
+      "qty": 16,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Malarz Alfred",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -984,
+    "y": 77,
+    "z": 1891
+  },
+  {
+    "id": "ciechocinek_alfred_10",
+    "product": {
+      "item": "yellow_dye",
+      "qty": 64,
+      "name": "Żółty barwnik",
+      "nameEn": "Yellow Dye"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "price2": {
+      "item": "emerald",
+      "qty": 16,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Malarz Alfred",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -984,
+    "y": 77,
+    "z": 1891
+  },
+  {
+    "id": "ciechocinek_alfred_11",
+    "product": {
+      "item": "lime_dye",
+      "qty": 64,
+      "name": "Jasnozielony barwnik",
+      "nameEn": "Lime Dye"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "price2": {
+      "item": "emerald",
+      "qty": 16,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Malarz Alfred",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -984,
+    "y": 77,
+    "z": 1891
+  },
+  {
+    "id": "ciechocinek_alfred_12",
+    "product": {
+      "item": "green_dye",
+      "qty": 64,
+      "name": "Zielony barwnik",
+      "nameEn": "Green Dye"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "price2": {
+      "item": "emerald",
+      "qty": 16,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Malarz Alfred",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -984,
+    "y": 77,
+    "z": 1891
+  },
+  {
+    "id": "ciechocinek_alfred_13",
+    "product": {
+      "item": "cyan_dye",
+      "qty": 64,
+      "name": "Błękitny barwnik",
+      "nameEn": "Cyan Dye"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "price2": {
+      "item": "emerald",
+      "qty": 16,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Malarz Alfred",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -984,
+    "y": 77,
+    "z": 1891
+  },
+  {
+    "id": "ciechocinek_alfred_14",
+    "product": {
+      "item": "light_blue_dye",
+      "qty": 64,
+      "name": "Jasnoniebieski barwnik",
+      "nameEn": "Light Blue Dye"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "price2": {
+      "item": "emerald",
+      "qty": 16,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Malarz Alfred",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -984,
+    "y": 77,
+    "z": 1891
+  },
+  {
+    "id": "ciechocinek_alfred_15",
+    "product": {
+      "item": "blue_dye",
+      "qty": 64,
+      "name": "Niebieski barwnik",
+      "nameEn": "Blue Dye"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "price2": {
+      "item": "emerald",
+      "qty": 16,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Malarz Alfred",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -984,
+    "y": 77,
+    "z": 1891
+  },
+  {
+    "id": "ciechocinek_alfred_16",
+    "product": {
+      "item": "purple_dye",
+      "qty": 64,
+      "name": "Fioletowy barwnik",
+      "nameEn": "Purple Dye"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "price2": {
+      "item": "emerald",
+      "qty": 16,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Malarz Alfred",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -984,
+    "y": 77,
+    "z": 1891
+  },
+  {
+    "id": "ciechocinek_alfred_17",
+    "product": {
+      "item": "magenta_dye",
+      "qty": 64,
+      "name": "Purpurowy barwnik",
+      "nameEn": "Magenta Dye"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "price2": {
+      "item": "emerald",
+      "qty": 16,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Malarz Alfred",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -984,
+    "y": 77,
+    "z": 1891
+  },
+  {
+    "id": "ciechocinek_alfred_18",
+    "product": {
+      "item": "pink_dye",
+      "qty": 64,
+      "name": "Różowy barwnik",
+      "nameEn": "Pink Dye"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "price2": {
+      "item": "emerald",
+      "qty": 16,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Malarz Alfred",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -984,
+    "y": 77,
+    "z": 1891
+  },
+  {
+    "id": "spawnowice_kwieczyslaw_1",
+    "product": {
+      "item": "allium",
+      "qty": 2,
+      "name": "Czosnek",
+      "nameEn": "Allium"
+    },
+    "price1": {
+      "item": "allium",
+      "qty": 1,
+      "name": "Czosnek",
+      "nameEn": "Allium"
+    },
+    "price2": {
+      "item": "bone_meal",
+      "qty": 1,
+      "name": "Mączka kostna",
+      "nameEn": "Bone Meal"
+    },
+    "storeName": "Kwieczyslaw Rosliniewski",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -170,
+    "y": 69,
+    "z": 80
+  },
+  {
+    "id": "spawnowice_kwieczyslaw_2",
+    "product": {
+      "item": "azure_bluet",
+      "qty": 2,
+      "name": "Houstonia Błękitna",
+      "nameEn": "Azure Bluet"
+    },
+    "price1": {
+      "item": "azure_bluet",
+      "qty": 1,
+      "name": "Houstonia Błękitna",
+      "nameEn": "Azure Bluet"
+    },
+    "price2": {
+      "item": "bone_meal",
+      "qty": 1,
+      "name": "Mączka kostna",
+      "nameEn": "Bone Meal"
+    },
+    "storeName": "Kwieczyslaw Rosliniewski",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -170,
+    "y": 69,
+    "z": 80
+  },
+  {
+    "id": "spawnowice_kwieczyslaw_3",
+    "product": {
+      "item": "blue_orchid",
+      "qty": 2,
+      "name": "Niebieska orchidea",
+      "nameEn": "Blue Orchid"
+    },
+    "price1": {
+      "item": "blue_orchid",
+      "qty": 1,
+      "name": "Niebieska orchidea",
+      "nameEn": "Blue Orchid"
+    },
+    "price2": {
+      "item": "bone_meal",
+      "qty": 1,
+      "name": "Mączka kostna",
+      "nameEn": "Bone Meal"
+    },
+    "storeName": "Kwieczyslaw Rosliniewski",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -170,
+    "y": 69,
+    "z": 80
+  },
+  {
+    "id": "spawnowice_kwieczyslaw_4",
+    "product": {
+      "item": "cornflower",
+      "qty": 2,
+      "name": "Chaber",
+      "nameEn": "Cornflower"
+    },
+    "price1": {
+      "item": "cornflower",
+      "qty": 1,
+      "name": "Chaber",
+      "nameEn": "Cornflower"
+    },
+    "price2": {
+      "item": "bone_meal",
+      "qty": 1,
+      "name": "Mączka kostna",
+      "nameEn": "Bone Meal"
+    },
+    "storeName": "Kwieczyslaw Rosliniewski",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -170,
+    "y": 69,
+    "z": 80
+  },
+  {
+    "id": "spawnowice_kwieczyslaw_5",
+    "product": {
+      "item": "dandelion",
+      "qty": 2,
+      "name": "Mlecz",
+      "nameEn": "Dandelion"
+    },
+    "price1": {
+      "item": "dandelion",
+      "qty": 1,
+      "name": "Mlecz",
+      "nameEn": "Dandelion"
+    },
+    "price2": {
+      "item": "bone_meal",
+      "qty": 1,
+      "name": "Mączka kostna",
+      "nameEn": "Bone Meal"
+    },
+    "storeName": "Kwieczyslaw Rosliniewski",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -170,
+    "y": 69,
+    "z": 80
+  },
+  {
+    "id": "spawnowice_kwieczyslaw_6",
+    "product": {
+      "item": "lily_of_the_valley",
+      "qty": 2,
+      "name": "Konwalia",
+      "nameEn": "Lily of the Valley"
+    },
+    "price1": {
+      "item": "lily_of_the_valley",
+      "qty": 1,
+      "name": "Konwalia",
+      "nameEn": "Lily of the Valley"
+    },
+    "price2": {
+      "item": "bone_meal",
+      "qty": 1,
+      "name": "Mączka kostna",
+      "nameEn": "Bone Meal"
+    },
+    "storeName": "Kwieczyslaw Rosliniewski",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -170,
+    "y": 69,
+    "z": 80
+  },
+  {
+    "id": "spawnowice_kwieczyslaw_7",
+    "product": {
+      "item": "oxeye_daisy",
+      "qty": 2,
+      "name": "Margaretka",
+      "nameEn": "Oxeye Daisy"
+    },
+    "price1": {
+      "item": "oxeye_daisy",
+      "qty": 1,
+      "name": "Margaretka",
+      "nameEn": "Oxeye Daisy"
+    },
+    "price2": {
+      "item": "bone_meal",
+      "qty": 1,
+      "name": "Mączka kostna",
+      "nameEn": "Bone Meal"
+    },
+    "storeName": "Kwieczyslaw Rosliniewski",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -170,
+    "y": 69,
+    "z": 80
+  },
+  {
+    "id": "spawnowice_kwieczyslaw_8",
+    "product": {
+      "item": "poppy",
+      "qty": 2,
+      "name": "Mak",
+      "nameEn": "Poppy"
+    },
+    "price1": {
+      "item": "poppy",
+      "qty": 1,
+      "name": "Mak",
+      "nameEn": "Poppy"
+    },
+    "price2": {
+      "item": "bone_meal",
+      "qty": 1,
+      "name": "Mączka kostna",
+      "nameEn": "Bone Meal"
+    },
+    "storeName": "Kwieczyslaw Rosliniewski",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -170,
+    "y": 69,
+    "z": 80
+  },
+  {
+    "id": "spawnowice_kwieczyslaw_9",
+    "product": {
+      "item": "red_tulip",
+      "qty": 2,
+      "name": "Czerwony tulipan",
+      "nameEn": "Red Tulip"
+    },
+    "price1": {
+      "item": "red_tulip",
+      "qty": 1,
+      "name": "Czerwony tulipan",
+      "nameEn": "Red Tulip"
+    },
+    "price2": {
+      "item": "bone_meal",
+      "qty": 1,
+      "name": "Mączka kostna",
+      "nameEn": "Bone Meal"
+    },
+    "storeName": "Kwieczyslaw Rosliniewski",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -170,
+    "y": 69,
+    "z": 80
+  },
+  {
+    "id": "spawnowice_kwieczyslaw_10",
+    "product": {
+      "item": "white_tulip",
+      "qty": 2,
+      "name": "Biały tulipan",
+      "nameEn": "White Tulip"
+    },
+    "price1": {
+      "item": "white_tulip",
+      "qty": 1,
+      "name": "Biały tulipan",
+      "nameEn": "White Tulip"
+    },
+    "price2": {
+      "item": "bone_meal",
+      "qty": 1,
+      "name": "Mączka kostna",
+      "nameEn": "Bone Meal"
+    },
+    "storeName": "Kwieczyslaw Rosliniewski",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -170,
+    "y": 69,
+    "z": 80
+  },
+  {
+    "id": "spawnowice_kwieczyslaw_11",
+    "product": {
+      "item": "orange_tulip",
+      "qty": 2,
+      "name": "Pomarańczowy tulipan",
+      "nameEn": "Orange Tulip"
+    },
+    "price1": {
+      "item": "orange_tulip",
+      "qty": 1,
+      "name": "Pomarańczowy tulipan",
+      "nameEn": "Orange Tulip"
+    },
+    "price2": {
+      "item": "bone_meal",
+      "qty": 1,
+      "name": "Mączka kostna",
+      "nameEn": "Bone Meal"
+    },
+    "storeName": "Kwieczyslaw Rosliniewski",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -170,
+    "y": 69,
+    "z": 80
+  },
+  {
+    "id": "spawnowice_kwieczyslaw_12",
+    "product": {
+      "item": "pink_tulip",
+      "qty": 2,
+      "name": "Różowy tulipan",
+      "nameEn": "Pink Tulip"
+    },
+    "price1": {
+      "item": "pink_tulip",
+      "qty": 1,
+      "name": "Różowy tulipan",
+      "nameEn": "Pink Tulip"
+    },
+    "price2": {
+      "item": "bone_meal",
+      "qty": 1,
+      "name": "Mączka kostna",
+      "nameEn": "Bone Meal"
+    },
+    "storeName": "Kwieczyslaw Rosliniewski",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -170,
+    "y": 69,
+    "z": 80
+  },
+  {
+    "id": "spawnowice_kwieczyslaw_13",
+    "product": {
+      "item": "closed_eyeblossom",
+      "qty": 2,
+      "name": "Zamknięta okrotka",
+      "nameEn": "Closed Eyeblossom"
+    },
+    "price1": {
+      "item": "closed_eyeblossome",
+      "qty": 1,
+      "name": "Zamknięta okrotka",
+      "nameEn": "Closed Eyeblossom"
+    },
+    "price2": {
+      "item": "bone_meal",
+      "qty": 1,
+      "name": "Mączka kostna",
+      "nameEn": "Bone Meal"
+    },
+    "storeName": "Kwieczyslaw Rosliniewski",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -170,
+    "y": 69,
+    "z": 80
+  },
+  {
+    "id": "spawnowice_kwieczyslaw_14",
+    "product": {
+      "item": "open_eyeblossom",
+      "qty": 2,
+      "name": "Otwarta okrotka",
+      "nameEn": "Open Eyeblossom"
+    },
+    "price1": {
+      "item": "open_eyeblossom",
+      "qty": 1,
+      "name": "Otwarta okrotka",
+      "nameEn": "Open Eyeblossom"
+    },
+    "price2": {
+      "item": "bone_meal",
+      "qty": 1,
+      "name": "Mączka kostna",
+      "nameEn": "Bone Meal"
+    },
+    "storeName": "Kwieczyslaw Rosliniewski",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -170,
+    "y": 69,
+    "z": 80
+  },
+  {
+    "id": "spawnowice_kwieczyslaw_15",
+    "product": {
+      "item": "small_dripleaf",
+      "qty": 2,
+      "name": "Mały spadkoliść",
+      "nameEn": "Small Dripleaf"
+    },
+    "price1": {
+      "item": "small_dripleaf",
+      "qty": 1,
+      "name": "Mały spadkoliść",
+      "nameEn": "Small Dripleaf"
+    },
+    "price2": {
+      "item": "bone_meal",
+      "qty": 1,
+      "name": "Mączka kostna",
+      "nameEn": "Bone Meal"
+    },
+    "storeName": "Kwieczyslaw Rosliniewski",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -170,
+    "y": 69,
+    "z": 80
+  },
+  {
+    "id": "spawnowice_kwieczyslaw_16",
+    "product": {
+      "item": "lily_pad",
+      "qty": 2,
+      "name": "Lilia wodna",
+      "nameEn": "Lily Pad"
+    },
+    "price1": {
+      "item": "lily_pad",
+      "qty": 1,
+      "name": "Lilia wodna",
+      "nameEn": "Lily Pad"
+    },
+    "price2": {
+      "item": "bone_meal",
+      "qty": 1,
+      "name": "Mączka kostna",
+      "nameEn": "Bone Meal"
+    },
+    "storeName": "Kwieczyslaw Rosliniewski",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -170,
+    "y": 69,
+    "z": 80
+  },
+  {
+    "id": "spawnowice_kwieczyslaw_17",
+    "product": {
+      "item": "dead_bush",
+      "qty": 2,
+      "name": "Uschnięty krzak",
+      "nameEn": "Dead Bush"
+    },
+    "price1": {
+      "item": "dead_bush",
+      "qty": 1,
+      "name": "Uschnięty krzak",
+      "nameEn": "Dead Bush"
+    },
+    "price2": {
+      "item": "bone_meal",
+      "qty": 1,
+      "name": "Mączka kostna",
+      "nameEn": "Bone Meal"
+    },
+    "storeName": "Kwieczyslaw Rosliniewski",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -170,
+    "y": 69,
+    "z": 80
+  },
+  {
+    "id": "spawnowice_kwieczyslaw_18",
+    "product": {
+      "item": "spore_blossom",
+      "qty": 2,
+      "name": "Pylikwiat",
+      "nameEn": "Spore Blossom"
+    },
+    "price1": {
+      "item": "spore_blossom",
+      "qty": 1,
+      "name": "Pylikwiat",
+      "nameEn": "Spore Blossom"
+    },
+    "price2": {
+      "item": "bone_meal",
+      "qty": 1,
+      "name": "Mączka kostna",
+      "nameEn": "Bone Meal"
+    },
+    "storeName": "Kwieczyslaw Rosliniewski",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -170,
+    "y": 69,
+    "z": 80
+  },
+  {
+    "id": "spawnowice_bank_1",
+    "product": {
+      "item": "paper",
+      "qty": 1,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "name": "Talon promocyjny",
+      "nameEn": "Talon Promocyjny"
+    },
+    "storeName": "Narodowy Bank Kiblowy",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -312,
+    "y": 70,
+    "z": -44
+  },
+  {
+    "id": "spawnowice_bank_2",
+    "product": {
+      "item": "paper",
+      "qty": 1,
+      "name": "50 Kibelionów",
+      "nameEn": "50 Kibelionów"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 50,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "Narodowy Bank Kiblowy",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -312,
+    "y": 70,
+    "z": -44
+  },
+  {
+    "id": "spawnowice_bank_3",
+    "product": {
+      "item": "paper",
+      "qty": 50,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "name": "50 Kibelionów",
+      "nameEn": "50 Kibelionów"
+    },
+    "storeName": "Narodowy Bank Kiblowy",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -312,
+    "y": 70,
+    "z": -44
+  },
+  {
+    "id": "spawnowice_bank_4",
+    "product": {
+      "item": "paper",
+      "qty": 1,
+      "name": "1000 Kibelionów",
+      "nameEn": "1000 Kibelionów"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 20,
+      "name": "50 Kibelionów",
+      "nameEn": "50 Kibelionów"
+    },
+    "storeName": "Narodowy Bank Kiblowy",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -312,
+    "y": 70,
+    "z": -44
+  },
+  {
+    "id": "spawnowice_bank_5",
+    "product": {
+      "item": "paper",
+      "qty": 20,
+      "name": "50 Kibelionów",
+      "nameEn": "50 Kibelionów"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "name": "1000 Kibelionów",
+      "nameEn": "1000 Kibelionów"
+    },
+    "storeName": "Narodowy Bank Kiblowy",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -312,
+    "y": 70,
+    "z": -44
+  },
+  {
+    "id": "spawnowice_bank_6",
+    "product": {
+      "item": "gold_block",
+      "qty": 34,
+      "name": "Blok złota",
+      "nameEn": "Block of Gold"
+    },
+    "price1": {
+      "item": "skull_banner_pattern",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Obligacje skarbowe",
+      "nameEn": "Obligacje skarbowe"
+    },
+    "storeName": "Narodowy Bank Kiblowy",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -312,
+    "y": 70,
+    "z": -44
+  },
+  {
+    "id": "spawnowice_mc_1",
+    "product": {
+      "item": "brown_bundle",
+      "qty": 1,
+      "name": "McZestaw Powiększony",
+      "nameEn": "McZestaw Powiększony"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 2,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "McDonald",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -70,
+    "y": 67,
+    "z": -174
+  },
+  {
+    "id": "spawnowice_mc_2",
+    "product": {
+      "item": "potion_harming",
+      "qty": 1,
+      "name": "Coca-Cola",
+      "nameEn": "Coca-Cola"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "McDonald",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -70,
+    "y": 67,
+    "z": -174
+  },
+  {
+    "id": "spawnowice_mc_3",
+    "product": {
+      "item": "baked_potato",
+      "qty": 1,
+      "name": "Frytki",
+      "nameEn": "Frytki"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "McDonald",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -70,
+    "y": 67,
+    "z": -174
+  },
+  {
+    "id": "spawnowice_mc_4",
+    "product": {
+      "item": "cooked_porkchop",
+      "qty": 1,
+      "name": "BigMac",
+      "nameEn": "Bigmac"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "McDonald",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -70,
+    "y": 67,
+    "z": -174
+  },
+  {
+    "id": "spawnowice_mc_5",
+    "product": {
+      "item": "brown_bundle",
+      "qty": 1,
+      "name": "McZestaw Drwala",
+      "nameEn": "McZestaw Drwala"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 4,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "McDonald",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -70,
+    "y": 67,
+    "z": -174
+  },
+  {
+    "id": "spawnowice_mc_6",
+    "product": {
+      "item": "potion_weaving",
+      "qty": 1,
+      "name": "Kawa",
+      "nameEn": "Kawa"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 2,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "McDonald",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -70,
+    "y": 67,
+    "z": -174
+  },
+  {
+    "id": "spawnowice_gfci_1",
+    "product": {
+      "item": "cooked_chicken",
+      "qty": 4,
+      "name": "Pieczony kurczak",
+      "nameEn": "Cooked Chicken"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "GFCI",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -115,
+    "y": 67,
+    "z": -90
+  },
+  {
+    "id": "spawnowice_gfci_2",
+    "product": {
+      "item": "cooked_chicken",
+      "qty": 1,
+      "name": "Kurczak GFCI",
+      "nameEn": "Kurczak GFCI"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 2,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "GFCI",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -115,
+    "y": 67,
+    "z": -90
+  },
+  {
+    "id": "spawnowice_gfci_3",
+    "product": {
+      "item": "charcoal",
+      "qty": 1,
+      "name": "Zwęglony kurczak",
+      "nameEn": "Zwęglony kurczak"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "GFCI",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -115,
+    "y": 67,
+    "z": -90
+  },
+  {
+    "id": "spawnowice_gfci_4",
+    "product": {
+      "item": "baked_potato",
+      "qty": 1,
+      "name": "Frytki",
+      "nameEn": "Frytki"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "GFCI",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -115,
+    "y": 67,
+    "z": -90
+  },
+  {
+    "id": "spawnowice_gfci_5",
+    "product": {
+      "item": "potion_harming",
+      "qty": 1,
+      "name": "Pepsi",
+      "nameEn": "Pepsi"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "GFCI",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -115,
+    "y": 67,
+    "z": -90
+  },
+  {
+    "id": "spawnowice_gfci_6",
+    "product": {
+      "item": "potion_leaping",
+      "qty": 1,
+      "name": "Fanta",
+      "nameEn": "Fanta"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "GFCI",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -115,
+    "y": 67,
+    "z": -90
+  },
+  {
+    "id": "spawnowice_gfci_7",
+    "product": {
+      "item": "potion_weaving",
+      "qty": 1,
+      "name": "Kawa",
+      "nameEn": "Kawa"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 2,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "GFCI",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -115,
+    "y": 67,
+    "z": -90
+  },
+  {
+    "id": "spawnowice_gfci_8",
+    "product": {
+      "item": "yellow_dye",
+      "qty": 1,
+      "name": "Sos musztardowy",
+      "nameEn": "Sos musztardowy"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "GFCI",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -115,
+    "y": 67,
+    "z": -90
+  },
+  {
+    "id": "spawnowice_gfci_9",
+    "product": {
+      "item": "feather",
+      "qty": 1,
+      "name": "Zastanawiające piórko",
+      "nameEn": "Zastanawiające piórko"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 8,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "GFCI",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -115,
+    "y": 67,
+    "z": -90
+  },
+  {
+    "id": "spawnowice_gfci_10",
+    "product": {
+      "item": "stone_button",
+      "qty": 1,
+      "name": "Wyłącznik różnicoprądowy",
+      "nameEn": "Wyłącznik różnicoprądowy"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 2,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "GFCI",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -115,
+    "y": 67,
+    "z": -90
+  },
+  {
+    "id": "spawnowice_kiosk_1",
+    "product": {
+      "item": "paper",
+      "qty": 1,
+      "name": "Świerszczyk",
+      "nameEn": "Świerszczyk"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 2,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Kiosk",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -102,
+    "y": 67,
+    "z": -262
+  },
+  {
+    "id": "spawnowice_barman_1",
+    "product": {
+      "item": "potion_strength",
+      "qty": 1,
+      "name": "Wywar z baloryby",
+      "nameEn": "Wywar z baloryby"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 2,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Barman Borewicz",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -53,
+    "y": 76,
+    "z": 187
+  },
+  {
+    "id": "spawnowice_barman_2",
+    "product": {
+      "item": "potion_luck",
+      "qty": 1,
+      "name": "Kwas fluoroantymonowy",
+      "nameEn": "Kwas fluoroantymonowy"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 2,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Barman Borewicz",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -53,
+    "y": 76,
+    "z": 187
+  },
+  {
+    "id": "spawnowice_barman_3",
+    "product": {
+      "item": "water_bottle",
+      "qty": 1,
+      "name": "Woda Vytautas",
+      "nameEn": "Woda Vytautas"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Barman Borewicz",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -53,
+    "y": 76,
+    "z": 187
+  },
+  {
+    "id": "spawnowice_barman_4",
+    "product": {
+      "item": "water_bottle",
+      "qty": 1,
+      "name": "Woda Vytautas",
+      "nameEn": "Woda Vytautas"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Barman Borewicz",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -53,
+    "y": 76,
+    "z": 187
+  },
+  {
+    "id": "spawnowice_barman_5",
+    "product": {
+      "item": "potion_harming",
+      "qty": 1,
+      "name": "Gensty Glut",
+      "nameEn": "Gensty Glut"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 2,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Barman Borewicz",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -53,
+    "y": 76,
+    "z": 187
+  },
+  {
+    "id": "spawnowice_barman_6",
+    "product": {
+      "item": "potion_night_vision",
+      "qty": 1,
+      "name": "MOCNY FULL",
+      "nameEn": "MOCNY FULL"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Barman Borewicz",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -53,
+    "y": 76,
+    "z": 187
+  },
+  {
+    "id": "spawnowice_barman_7",
+    "product": {
+      "item": "potion_leaping",
+      "qty": 1,
+      "name": "Bimber Wojtka",
+      "nameEn": "Bimber Wojtka"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Barman Borewicz",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -53,
+    "y": 76,
+    "z": 187
+  },
+  {
+    "id": "spawnowice_barman_8",
+    "product": {
+      "item": "potion_invisibility",
+      "qty": 1,
+      "name": "Wódka \"Frontówka\"",
+      "nameEn": "Wódka \"Frontówka\""
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 2,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Barman Borewicz",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -53,
+    "y": 76,
+    "z": 187
+  },
+  {
+    "id": "spawnowice_barman_9",
+    "product": {
+      "item": "potion_weakness",
+      "qty": 1,
+      "name": "Kozel Černý",
+      "nameEn": "Kozel Černý"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Barman Borewicz",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -53,
+    "y": 76,
+    "z": 187
+  },
+  {
+    "id": "spawnowice_barman_10",
+    "product": {
+      "item": "potion_weaving",
+      "qty": 1,
+      "name": "Kawa",
+      "nameEn": "Kawa"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 2,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Barman Borewicz",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -53,
+    "y": 76,
+    "z": 187
+  },
+  {
+    "id": "spawnowice_barman_11",
+    "product": {
+      "item": "potion_harming",
+      "qty": 1,
+      "name": "Coca-cola",
+      "nameEn": "Coca-cola"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Barman Borewicz",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -53,
+    "y": 76,
+    "z": 187
+  },
+  {
+    "id": "spawnowice_barman_12",
+    "product": {
+      "item": "potion_harming",
+      "qty": 1,
+      "name": "Pepsi",
+      "nameEn": "Pepsi"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Barman Borewicz",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -53,
+    "y": 76,
+    "z": 187
+  },
+  {
+    "id": "spawnowice_barman_13",
+    "product": {
+      "item": "potion_leaping",
+      "qty": 1,
+      "name": "Fanta",
+      "nameEn": "Fanta"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Barman Borewicz",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -53,
+    "y": 76,
+    "z": 187
+  },
+  {
+    "id": "rozmieniarka_rozmieniarka_1",
+    "product": {
+      "item": "paper",
+      "qty": 50,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "name": "50 Kibelionów",
+      "nameEn": "50 Kibelionów"
+    },
+    "storeName": "Rozmieniarka NBK",
+    "storeLocation": "Rozmieniarki NBK",
+    "storeOwner": "AdminShop"
+  },
+  {
+    "id": "rozmieniarka_rozmieniarka_2",
+    "product": {
+      "item": "paper",
+      "qty": 1,
+      "name": "50 Kibelionów",
+      "nameEn": "50 Kibelionów"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 50,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "Rozmieniarka NBK",
+    "storeLocation": "Rozmieniarki NBK",
+    "storeOwner": "AdminShop"
+  },
+  {
+    "id": "nilplep_kowal_1",
+    "product": {
+      "item": "netherite_upgrade_smithing_template",
+      "qty": 1,
+      "name": "Netherytowe ulepszenie",
+      "nameEn": "Netherite Upgrade"
+    },
+    "price1": {
+      "item": "diamond",
+      "qty": 7,
+      "name": "Diament",
+      "nameEn": "Diamond"
+    },
+    "price2": {
+      "item": "netherrack",
+      "qty": 1,
+      "name": "Netherrack",
+      "nameEn": "Netherrack"
+    },
+    "storeName": "Kowal Kamil",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "x": -745,
+    "y": 66,
+    "z": 116
+  },
+  {
+    "id": "nilplep_kowal_2",
+    "product": {
+      "item": "sentry_armor_trim_smithing_template",
+      "qty": 1,
+      "name": "Zdobienie zbroi \"Wartownik\"",
+      "nameEn": "Sentry Armor Trim"
+    },
+    "price1": {
+      "item": "diamond",
+      "qty": 7,
+      "name": "Diament",
+      "nameEn": "Diamond"
+    },
+    "price2": {
+      "item": "cobblestone",
+      "qty": 1,
+      "name": "Bruk",
+      "nameEn": "Cobblestone"
+    },
+    "storeName": "Kowal Kamil",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "x": -745,
+    "y": 66,
+    "z": 116
+  },
+  {
+    "id": "nilplep_kowal_3",
+    "product": {
+      "item": "vex_armor_trim_smithing_template",
+      "qty": 1,
+      "name": "Zdobienie zbroi \"Dręczyciel\"",
+      "nameEn": "Vex Armor Trim"
+    },
+    "price1": {
+      "item": "diamond",
+      "qty": 7,
+      "name": "Diament",
+      "nameEn": "Diamond"
+    },
+    "price2": {
+      "item": "cobblestone",
+      "qty": 1,
+      "name": "Bruk",
+      "nameEn": "Cobblestone"
+    },
+    "storeName": "Kowal Kamil",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "x": -745,
+    "y": 66,
+    "z": 116
+  },
+  {
+    "id": "nilplep_kowal_4",
+    "product": {
+      "item": "wild_armor_trim_smithing_template",
+      "qty": 1,
+      "name": "Zdobienie zbroi \"Dzicz\"",
+      "nameEn": "Wild Armor Trim"
+    },
+    "price1": {
+      "item": "diamond",
+      "qty": 7,
+      "name": "Diament",
+      "nameEn": "Diamond"
+    },
+    "price2": {
+      "item": "mossy_cobblestone",
+      "qty": 1,
+      "name": "Zamszony bruk",
+      "nameEn": "Mossy Cobllestone"
+    },
+    "storeName": "Kowal Kamil",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "x": -745,
+    "y": 66,
+    "z": 116
+  },
+  {
+    "id": "nilplep_kowal_5",
+    "product": {
+      "item": "coast_armor_trim_smithing_template",
+      "qty": 1,
+      "name": "Zdobienie zbroi \"Wybrzeże\"",
+      "nameEn": "Coast Armor Trim"
+    },
+    "price1": {
+      "item": "diamond",
+      "qty": 7,
+      "name": "Diament",
+      "nameEn": "Diamond"
+    },
+    "price2": {
+      "item": "cobblestone",
+      "qty": 1,
+      "name": "Bruk",
+      "nameEn": "Cobblestone"
+    },
+    "storeName": "Kowal Kamil",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "x": -745,
+    "y": 66,
+    "z": 116
+  },
+  {
+    "id": "nilplep_kowal_6",
+    "product": {
+      "item": "dune_armor_trim_smithing_template",
+      "qty": 1,
+      "name": "Zdobienie zbroi \"Wydma\"",
+      "nameEn": "Dune Armor Trim"
+    },
+    "price1": {
+      "item": "diamond",
+      "qty": 7,
+      "name": "Diament",
+      "nameEn": "Diamond"
+    },
+    "price2": {
+      "item": "sandstone",
+      "qty": 1,
+      "name": "Piaskowiec",
+      "nameEn": "Sandstone"
+    },
+    "storeName": "Kowal Kamil",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "x": -745,
+    "y": 66,
+    "z": 116
+  },
+  {
+    "id": "nilplep_kowal_7",
+    "product": {
+      "item": "wayfinder_armor_trim_smithing_template",
+      "qty": 1,
+      "name": "Zdobienie zbroi \"Włóczykij\"",
+      "nameEn": "Wayfinder Armor Trim"
+    },
+    "price1": {
+      "item": "diamond",
+      "qty": 7,
+      "name": "Diament",
+      "nameEn": "Diamond"
+    },
+    "price2": {
+      "item": "terracotta",
+      "qty": 1,
+      "name": "Terakota",
+      "nameEn": "Terracotta"
+    },
+    "storeName": "Kowal Kamil",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "x": -745,
+    "y": 66,
+    "z": 116
+  },
+  {
+    "id": "nilplep_kowal_8",
+    "product": {
+      "item": "raiser_armor_trim_smithing_template",
+      "qty": 1,
+      "name": "Zdobienie zbroi \"Opiekun\"",
+      "nameEn": "Raiser Armor Trim"
+    },
+    "price1": {
+      "item": "diamond",
+      "qty": 7,
+      "name": "Diament",
+      "nameEn": "Diamond"
+    },
+    "price2": {
+      "item": "terracotta",
+      "qty": 1,
+      "name": "Terakota",
+      "nameEn": "Terracotta"
+    },
+    "storeName": "Kowal Kamil",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "x": -745,
+    "y": 66,
+    "z": 116
+  },
+  {
+    "id": "nilplep_kowal_9",
+    "product": {
+      "item": "shaper_armor_trim_smithing_template",
+      "qty": 1,
+      "name": "Zdobienie zbroi \"Rzeźbiarz\"",
+      "nameEn": "Shaper Armor Trim"
+    },
+    "price1": {
+      "item": "diamond",
+      "qty": 7,
+      "name": "Diament",
+      "nameEn": "Diamond"
+    },
+    "price2": {
+      "item": "terracotta",
+      "qty": 1,
+      "name": "Terakota",
+      "nameEn": "Terracotta"
+    },
+    "storeName": "Kowal Kamil",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "x": -745,
+    "y": 66,
+    "z": 116
+  },
+  {
+    "id": "nilplep_kowal_10",
+    "product": {
+      "item": "host_armor_trim_smithing_template",
+      "qty": 1,
+      "name": "Zdobienie zbroi \"Gospodarz\"",
+      "nameEn": "Host Armor Trim"
+    },
+    "price1": {
+      "item": "diamond",
+      "qty": 7,
+      "name": "Diament",
+      "nameEn": "Diamond"
+    },
+    "price2": {
+      "item": "terracotta",
+      "qty": 1,
+      "name": "Terakota",
+      "nameEn": "Terracotta"
+    },
+    "storeName": "Kowal Kamil",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "x": -745,
+    "y": 66,
+    "z": 116
+  },
+  {
+    "id": "nilplep_kowal_11",
+    "product": {
+      "item": "ward_armor_trim_smithing_template",
+      "qty": 1,
+      "name": "Zdobienie zbroi \"Nadzorca\"",
+      "nameEn": "Ward Armor Trim"
+    },
+    "price1": {
+      "item": "diamond",
+      "qty": 7,
+      "name": "Diament",
+      "nameEn": "Diamond"
+    },
+    "price2": {
+      "item": "cobbled_deepslate",
+      "qty": 1,
+      "name": "Łupkowy bruk",
+      "nameEn": "Cobbled Deepslate"
+    },
+    "storeName": "Kowal Kamil",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "x": -745,
+    "y": 66,
+    "z": 116
+  },
+  {
+    "id": "nilplep_kowal_12",
+    "product": {
+      "item": "silence_armor_trim_smithing_template",
+      "qty": 1,
+      "name": "Zdobienie zbroi \"Cisza\"",
+      "nameEn": "Silence Armor Trim"
+    },
+    "price1": {
+      "item": "diamond",
+      "qty": 7,
+      "name": "Diament",
+      "nameEn": "Diamond"
+    },
+    "price2": {
+      "item": "cobbled_deepslate",
+      "qty": 1,
+      "name": "Łupkowy bruk",
+      "nameEn": "Cobbled Deepslate"
+    },
+    "storeName": "Kowal Kamil",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "x": -745,
+    "y": 66,
+    "z": 116
+  },
+  {
+    "id": "nilplep_kowal_13",
+    "product": {
+      "item": "tide_armor_trim_smithing_template",
+      "qty": 1,
+      "name": "Zdobienie zbroi \"Fala\"",
+      "nameEn": "Tide Armor Trim"
+    },
+    "price1": {
+      "item": "diamond",
+      "qty": 7,
+      "name": "Diament",
+      "nameEn": "Diamond"
+    },
+    "price2": {
+      "item": "prismarine",
+      "qty": 1,
+      "name": "Pryzmaryn",
+      "nameEn": "Prismarine"
+    },
+    "storeName": "Kowal Kamil",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "x": -745,
+    "y": 66,
+    "z": 116
+  },
+  {
+    "id": "nilplep_kowal_14",
+    "product": {
+      "item": "snout_armor_trim_smithing_template",
+      "qty": 1,
+      "name": "Zdobienie zbroi \"Ryjek\"",
+      "nameEn": "Snout Armor Trim"
+    },
+    "price1": {
+      "item": "diamond",
+      "qty": 7,
+      "name": "Diament",
+      "nameEn": "Diamond"
+    },
+    "price2": {
+      "item": "blackstone",
+      "qty": 1,
+      "name": "Czernit",
+      "nameEn": "Blackstone"
+    },
+    "storeName": "Kowal Kamil",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "x": -745,
+    "y": 66,
+    "z": 116
+  },
+  {
+    "id": "nilplep_kowal_15",
+    "product": {
+      "item": "rib_armor_trim_smithing_template",
+      "qty": 1,
+      "name": "Zdobienie zbroi \"Żebra\"",
+      "nameEn": "Rib Armor Trim"
+    },
+    "price1": {
+      "item": "diamond",
+      "qty": 7,
+      "name": "Diament",
+      "nameEn": "Diamond"
+    },
+    "price2": {
+      "item": "netherrack",
+      "qty": 1,
+      "name": "Netherack",
+      "nameEn": "Netherrack"
+    },
+    "storeName": "Kowal Kamil",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "x": -745,
+    "y": 66,
+    "z": 116
+  },
+  {
+    "id": "nilplep_kowal_16",
+    "product": {
+      "item": "eye_armor_trim_smithing_template",
+      "qty": 1,
+      "name": "Zdobienie zbroi \"Oko\"",
+      "nameEn": "Eye Armor Trim"
+    },
+    "price1": {
+      "item": "diamond",
+      "qty": 7,
+      "name": "Diament",
+      "nameEn": "Diamond"
+    },
+    "price2": {
+      "item": "end_stone",
+      "qty": 1,
+      "name": "Kamień Endu",
+      "nameEn": "End Stone"
+    },
+    "storeName": "Kowal Kamil",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "x": -745,
+    "y": 66,
+    "z": 116
+  },
+  {
+    "id": "nilplep_kowal_17",
+    "product": {
+      "item": "spire_armor_trim_smithing_template",
+      "qty": 1,
+      "name": "Zdobienie zbroi \"Iglica\"",
+      "nameEn": "Spire Armor Trim"
+    },
+    "price1": {
+      "item": "diamond",
+      "qty": 7,
+      "name": "Diament",
+      "nameEn": "Diamond"
+    },
+    "price2": {
+      "item": "purpur_block",
+      "qty": 1,
+      "name": "Blok purpuru",
+      "nameEn": "Purpur Block"
+    },
+    "storeName": "Kowal Kamil",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "x": -745,
+    "y": 66,
+    "z": 116
+  },
+  {
+    "id": "nilplep_kowal_18",
+    "product": {
+      "item": "flow_armor_trim_smithing_template",
+      "qty": 1,
+      "name": "Zdobienie zbroi \"Nurt\"",
+      "nameEn": "Flow Armor Trim"
+    },
+    "price1": {
+      "item": "diamond",
+      "qty": 7,
+      "name": "Diament",
+      "nameEn": "Diamond"
+    },
+    "price2": {
+      "item": "breeze_rod",
+      "qty": 1,
+      "name": "Wichrowa różdżka",
+      "nameEn": "Breeze Rod"
+    },
+    "storeName": "Kowal Kamil",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "x": -745,
+    "y": 66,
+    "z": 116
+  },
+  {
+    "id": "nilplep_kowal_19",
+    "product": {
+      "item": "Bolt_armor_trim_smithing_template",
+      "qty": 1,
+      "name": "Zdobienie zbroi \"Nit\"",
+      "nameEn": "Bolt Armor Trim"
+    },
+    "price1": {
+      "item": "diamond",
+      "qty": 7,
+      "name": "Diament",
+      "nameEn": "Diamond"
+    },
+    "price2": {
+      "item": "copper_block",
+      "qty": 1,
+      "name": "Blok miedzi",
+      "nameEn": "Block of Copper"
+    },
+    "storeName": "Kowal Kamil",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "x": -745,
+    "y": 66,
+    "z": 116
+  },
+  {
+    "id": "wysokikacik_bonczyslaw_1",
+    "product": {
+      "item": "honeycomb",
+      "qty": 16,
+      "name": "Plaster miodu",
+      "nameEn": "Honeycomb"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 4,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Bonczyslaw",
+    "storeLocation": "Wysoki Kącik",
+    "storeOwner": "Ketrab",
+    "notes": "Pole Kwiatowe",
+    "x": -4082,
+    "y": 71,
+    "z": 1410
+  },
+  {
+    "id": "wysokikacik_bonczyslaw_2",
+    "product": {
+      "item": "honey_block",
+      "qty": 16,
+      "name": "Blok miodu",
+      "nameEn": "Honey Block"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 8,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Bonczyslaw",
+    "storeLocation": "Wysoki Kącik",
+    "storeOwner": "Ketrab",
+    "notes": "Pole Kwiatowe",
+    "x": -4082,
+    "y": 71,
+    "z": 1410
+  },
+  {
+    "id": "wysokikacik_bonczyslaw_3",
+    "product": {
+      "item": "beehive",
+      "qty": 1,
+      "name": "Ul (Pszczoły: 3/3)",
+      "nameEn": "Beehive (Bees: 3/3)"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 10,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Bonczyslaw",
+    "storeLocation": "Wysoki Kącik",
+    "storeOwner": "Ketrab",
+    "notes": "Pole Kwiatowe",
+    "x": -4082,
+    "y": 71,
+    "z": 1410
+  },
+  {
+    "id": "nilplep_kebaben_1",
+    "product": {
+      "item": "cooked_chicken",
+      "qty": 16,
+      "name": "Kylling Kebab",
+      "nameEn": "Kylling Kebab"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Kebaben",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "w metrze",
+    "x": -472,
+    "y": 55,
+    "z": 189
+  },
+  {
+    "id": "nilplep_kebaben_2",
+    "product": {
+      "item": "cooked_mutton",
+      "qty": 16,
+      "name": "Lamm Kebab",
+      "nameEn": "Lamm Kebab"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Kebaben",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "w metrze",
+    "x": -472,
+    "y": 55,
+    "z": 189
+  },
+  {
+    "id": "nilplep_kebaben_3",
+    "product": {
+      "item": "cooked_beef",
+      "qty": 16,
+      "name": "Storfe Kebab",
+      "nameEn": "Storfe Kebab"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Kebaben",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "w metrze",
+    "x": -472,
+    "y": 55,
+    "z": 189
+  },
+  {
+    "id": "nilplep_kebaben_4",
+    "product": {
+      "item": "cooked_porkchop",
+      "qty": 16,
+      "name": "Svine Kebab",
+      "nameEn": "Svine Kebab"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Kebaben",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "w metrze",
+    "x": -472,
+    "y": 55,
+    "z": 189
+  },
+  {
+    "id": "nilplep_kebaben_5",
+    "product": {
+      "item": "bread",
+      "qty": 16,
+      "name": "Pita",
+      "nameEn": "Pita"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Kebaben",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "w metrze",
+    "x": -472,
+    "y": 55,
+    "z": 189
+  },
+  {
+    "id": "nilplep_kebaben_6",
+    "product": {
+      "item": "baked_potato",
+      "qty": 16,
+      "name": "Pommes Frites",
+      "nameEn": "Pommes Frites"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Kebaben",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "w metrze",
+    "x": -472,
+    "y": 55,
+    "z": 189
+  },
+  {
+    "id": "nilplep_frogszop5_1",
+    "product": {
+      "item": "pointed_dripstone",
+      "qty": 16,
+      "name": "Spiczasty naciek",
+      "nameEn": "Pointed Dripstone"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 16,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Frogszop 5",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "w metrze",
+    "x": -743,
+    "y": 55,
+    "z": 217
+  },
+  {
+    "id": "nilplep_frogszop7_1",
+    "product": {
+      "item": "armadillo_scute",
+      "qty": 16,
+      "name": "Tarczka pancernika",
+      "nameEn": "Armadillo Scute"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 4,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Frogszop 7",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "przy kościele",
+    "x": -786,
+    "y": 71,
+    "z": 163
+  },
+  {
+    "id": "nilplep_jajami_1",
+    "product": {
+      "item": "book",
+      "qty": 2,
+      "name": "Książka",
+      "nameEn": "Book"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmarahd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Jajami Omate",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Drzewo Maga",
+    "x": -816,
+    "y": 81,
+    "z": 115
+  },
+  {
+    "id": "ciechocinek_maurycy_1",
+    "product": {
+      "item": "music_disc_creator_music_box",
+      "qty": 1,
+      "name": "Płyta muzyczna [Lena Raine - Creator (pozytywka)]",
+      "nameEn": "Music Disc [Lena Raine - Creator (Musical Box)]"
+    },
+    "price1": {
+      "item": "creeper_banner_pattern",
+      "qty": 6,
+      "enchanted": true,
+      "name": "Talon muzyczny",
+      "nameEn": "Talon muzyczny"
+    },
+    "storeName": "Muzyk Maurycy",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -1023,
+    "y": 67,
+    "z": 1917
+  },
+  {
+    "id": "ciechocinek_maurycy_2",
+    "product": {
+      "item": "music_disc_creator",
+      "qty": 1,
+      "name": "Płyta muzyczna [Lena Raine - Creator]",
+      "nameEn": "Music Disc [Lena Raine - Creator]"
+    },
+    "price1": {
+      "item": "creeper_banner_pattern",
+      "qty": 4,
+      "enchanted": true,
+      "name": "Talon muzyczny",
+      "nameEn": "Talon muzyczny"
+    },
+    "storeName": "Muzyk Maurycy",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -1023,
+    "y": 67,
+    "z": 1917
+  },
+  {
+    "id": "ciechocinek_maurycy_3",
+    "product": {
+      "item": "music_disc_lava_chicken",
+      "qty": 1,
+      "name": "Płyta muzyczna [Hyper Potions - Lava Chicken]",
+      "nameEn": "Music Disc [Hyper Potions - Lava Chicken]"
+    },
+    "price1": {
+      "item": "creeper_banner_pattern",
+      "qty": 4,
+      "enchanted": true,
+      "name": "Talon muzyczny",
+      "nameEn": "Talon muzyczny"
+    },
+    "storeName": "Muzyk Maurycy",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -1023,
+    "y": 67,
+    "z": 1917
+  },
+  {
+    "id": "ciechocinek_maurycy_4",
+    "product": {
+      "item": "music_disc_otherside",
+      "qty": 1,
+      "name": "Płyta muzyczna [Lena Raine - otherside]",
+      "nameEn": "Music Disc [Lena Raine - otherside]"
+    },
+    "price1": {
+      "item": "creeper_banner_pattern",
+      "qty": 4,
+      "enchanted": true,
+      "name": "Talon muzyczny",
+      "nameEn": "Talon muzyczny"
+    },
+    "storeName": "Muzyk Maurycy",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -1023,
+    "y": 67,
+    "z": 1917
+  },
+  {
+    "id": "ciechocinek_maurycy_5",
+    "product": {
+      "item": "music_disc_precipice",
+      "qty": 1,
+      "name": "Płyta muzyczna [Aaron Cherof - Precipice]",
+      "nameEn": "Music Disc [Aaron Cherof - Precipice]"
+    },
+    "price1": {
+      "item": "creeper_banner_pattern",
+      "qty": 6,
+      "enchanted": true,
+      "name": "Talon muzyczny",
+      "nameEn": "Talon muzyczny"
+    },
+    "storeName": "Muzyk Maurycy",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -1023,
+    "y": 67,
+    "z": 1917
+  },
+  {
+    "id": "ciechocinek_maurycy_6",
+    "product": {
+      "item": "music_disc_pigstep",
+      "qty": 1,
+      "name": "Płyta muzyczna [Lena Raine - Pigstep]",
+      "nameEn": "Music Disc [Lena Raine - Pigstep]"
+    },
+    "price1": {
+      "item": "creeper_banner_pattern",
+      "qty": 4,
+      "enchanted": true,
+      "name": "Talon muzyczny",
+      "nameEn": "Talon muzyczny"
+    },
+    "storeName": "Muzyk Maurycy",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -1023,
+    "y": 67,
+    "z": 1917
+  },
+  {
+    "id": "ciechocinek_maurycy_7",
+    "product": {
+      "item": "music_disc_5",
+      "qty": 1,
+      "name": "Płyta muzyczna [Samuel Åberg - 5]",
+      "nameEn": "Music Disc [Samuel Åberg - 5]"
+    },
+    "price1": {
+      "item": "creeper_banner_pattern",
+      "qty": 6,
+      "enchanted": true,
+      "name": "Talon muzyczny",
+      "nameEn": "Talon muzyczny"
+    },
+    "storeName": "Muzyk Maurycy",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -1023,
+    "y": 67,
+    "z": 1917
+  },
+  {
+    "id": "ciechocinek_maurycy_8",
+    "product": {
+      "item": "music_disc_relic",
+      "qty": 1,
+      "name": "Płyta muzyczna [Aaron Cherof - Relic]",
+      "nameEn": "Music Disc [Aaron Cherof - Relic]"
+    },
+    "price1": {
+      "item": "creeper_banner_pattern",
+      "qty": 6,
+      "enchanted": true,
+      "name": "Talon muzyczny",
+      "nameEn": "Talon muzyczny"
+    },
+    "storeName": "Muzyk Maurycy",
+    "storeLocation": "Ciechocinek",
+    "storeOwner": "AdminShop",
+    "x": -1023,
+    "y": 67,
+    "z": 1917
+  },
+  {
+    "id": "miedzygorze_robert_1",
+    "product": {
+      "item": "creeper_banner_pattern",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Talon muzyczny",
+      "nameEn": "Talon muzyczny"
+    },
+    "price1": {
+      "item": "music_disc_13",
+      "qty": 1,
+      "name": "Płyta muzyczna [C418 - 13]",
+      "nameEn": "Music Disc [C418 - 13]"
+    },
+    "storeName": "Robert Makdyskowicz",
+    "storeLocation": "Międzygórze",
+    "storeOwner": "AdminShop",
+    "x": -1204,
+    "y": 98,
+    "z": -142
+  },
+  {
+    "id": "miedzygorze_robert_2",
+    "product": {
+      "item": "creeper_banner_pattern",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Talon muzyczny",
+      "nameEn": "Talon muzyczny"
+    },
+    "price1": {
+      "item": "music_disc_cat",
+      "qty": 1,
+      "name": "Płyta muzyczna [C418 - cat]",
+      "nameEn": "Music Disc [C418 - cat]"
+    },
+    "storeName": "Robert Makdyskowicz",
+    "storeLocation": "Międzygórze",
+    "storeOwner": "AdminShop",
+    "x": -1204,
+    "y": 98,
+    "z": -142
+  },
+  {
+    "id": "miedzygorze_robert_3",
+    "product": {
+      "item": "creeper_banner_pattern",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Talon muzyczny",
+      "nameEn": "Talon muzyczny"
+    },
+    "price1": {
+      "item": "music_disc_blocks",
+      "qty": 1,
+      "name": "Płyta muzyczna [C418 - blocks]",
+      "nameEn": "Music Disc [C418 - blocks]"
+    },
+    "storeName": "Robert Makdyskowicz",
+    "storeLocation": "Międzygórze",
+    "storeOwner": "AdminShop",
+    "x": -1204,
+    "y": 98,
+    "z": -142
+  },
+  {
+    "id": "miedzygorze_robert_4",
+    "product": {
+      "item": "creeper_banner_pattern",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Talon muzyczny",
+      "nameEn": "Talon muzyczny"
+    },
+    "price1": {
+      "item": "music_disc_chirp",
+      "qty": 1,
+      "name": "Płyta muzyczna [C418 - chirp]",
+      "nameEn": "Music Disc [C418 - chirp]"
+    },
+    "storeName": "Robert Makdyskowicz",
+    "storeLocation": "Międzygórze",
+    "storeOwner": "AdminShop",
+    "x": -1204,
+    "y": 98,
+    "z": -142
+  },
+  {
+    "id": "miedzygorze_robert_5",
+    "product": {
+      "item": "creeper_banner_pattern",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Talon muzyczny",
+      "nameEn": "Talon muzyczny"
+    },
+    "price1": {
+      "item": "music_disc_far",
+      "qty": 1,
+      "name": "Płyta muzyczna [C418 - far]",
+      "nameEn": "Music Disc [C418 - far]"
+    },
+    "storeName": "Robert Makdyskowicz",
+    "storeLocation": "Międzygórze",
+    "storeOwner": "AdminShop",
+    "x": -1204,
+    "y": 98,
+    "z": -142
+  },
+  {
+    "id": "miedzygorze_robert_6",
+    "product": {
+      "item": "creeper_banner_pattern",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Talon muzyczny",
+      "nameEn": "Talon muzyczny"
+    },
+    "price1": {
+      "item": "music_disc_mall",
+      "qty": 1,
+      "name": "Płyta muzyczna [C418 - mall]",
+      "nameEn": "Music Disc [C418 - mall]"
+    },
+    "storeName": "Robert Makdyskowicz",
+    "storeLocation": "Międzygórze",
+    "storeOwner": "AdminShop",
+    "x": -1204,
+    "y": 98,
+    "z": -142
+  },
+  {
+    "id": "miedzygorze_robert_7",
+    "product": {
+      "item": "creeper_banner_pattern",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Talon muzyczny",
+      "nameEn": "Talon muzyczny"
+    },
+    "price1": {
+      "item": "music_disc_mellohi",
+      "qty": 1,
+      "name": "Płyta muzyczna [C418 - mellohi]",
+      "nameEn": "Music Disc [C418 - mellohi]"
+    },
+    "storeName": "Robert Makdyskowicz",
+    "storeLocation": "Międzygórze",
+    "storeOwner": "AdminShop",
+    "x": -1204,
+    "y": 98,
+    "z": -142
+  },
+  {
+    "id": "miedzygorze_robert_8",
+    "product": {
+      "item": "creeper_banner_pattern",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Talon muzyczny",
+      "nameEn": "Talon muzyczny"
+    },
+    "price1": {
+      "item": "music_disc_stal",
+      "qty": 1,
+      "name": "Płyta muzyczna [C418 - stal]",
+      "nameEn": "Music Disc [C418 - stal]"
+    },
+    "storeName": "Robert Makdyskowicz",
+    "storeLocation": "Międzygórze",
+    "storeOwner": "AdminShop",
+    "x": -1204,
+    "y": 98,
+    "z": -142
+  },
+  {
+    "id": "miedzygorze_robert_9",
+    "product": {
+      "item": "creeper_banner_pattern",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Talon muzyczny",
+      "nameEn": "Talon muzyczny"
+    },
+    "price1": {
+      "item": "music_disc_strad",
+      "qty": 1,
+      "name": "Płyta muzyczna [C418 - strad]",
+      "nameEn": "Music Disc [C418 - strad]"
+    },
+    "storeName": "Robert Makdyskowicz",
+    "storeLocation": "Międzygórze",
+    "storeOwner": "AdminShop",
+    "x": -1204,
+    "y": 98,
+    "z": -142
+  },
+  {
+    "id": "miedzygorze_robert_10",
+    "product": {
+      "item": "creeper_banner_pattern",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Talon muzyczny",
+      "nameEn": "Talon muzyczny"
+    },
+    "price1": {
+      "item": "music_disc_ward",
+      "qty": 1,
+      "name": "Płyta muzyczna [C418 - ward]",
+      "nameEn": "Music Disc [C418 - ward]"
+    },
+    "storeName": "Robert Makdyskowicz",
+    "storeLocation": "Międzygórze",
+    "storeOwner": "AdminShop",
+    "x": -1204,
+    "y": 98,
+    "z": -142
+  },
+  {
+    "id": "miedzygorze_robert_11",
+    "product": {
+      "item": "creeper_banner_pattern",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Talon muzyczny",
+      "nameEn": "Talon muzyczny"
+    },
+    "price1": {
+      "item": "music_disc_11",
+      "qty": 1,
+      "name": "Płyta muzyczna [C418 - 11]",
+      "nameEn": "Music Disc [C418 - 11]"
+    },
+    "storeName": "Robert Makdyskowicz",
+    "storeLocation": "Międzygórze",
+    "storeOwner": "AdminShop",
+    "x": -1204,
+    "y": 98,
+    "z": -142
+  },
+  {
+    "id": "miedzygorze_robert_12",
+    "product": {
+      "item": "creeper_banner_pattern",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Talon muzyczny",
+      "nameEn": "Talon muzyczny"
+    },
+    "price1": {
+      "item": "music_disc_wait",
+      "qty": 1,
+      "name": "Płyta muzyczna [C418 - wait]",
+      "nameEn": "Music Disc [C418 - wait]"
+    },
+    "storeName": "Robert Makdyskowicz",
+    "storeLocation": "Międzygórze",
+    "storeOwner": "AdminShop",
+    "x": -1204,
+    "y": 98,
+    "z": -142
+  },
+  {
+    "id": "miedzygorze_robert_13",
+    "product": {
+      "item": "creeper_banner_pattern",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Talon muzyczny",
+      "nameEn": "Talon muzyczny"
+    },
+    "price1": {
+      "item": "music_disc_tears",
+      "qty": 1,
+      "name": "Płyta muzyczna [Amos Roddy - Tears]",
+      "nameEn": "Music Disc [Amos Roddy - Tears]"
+    },
+    "storeName": "Robert Makdyskowicz",
+    "storeLocation": "Międzygórze",
+    "storeOwner": "AdminShop",
+    "x": -1204,
+    "y": 98,
+    "z": -142
+  },
+  {
+    "id": "susy_zdzisiek_1",
+    "product": {
+      "item": "D1",
+      "qty": 1,
+      "name": "D1",
+      "nameEn": "D1"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "map",
+      "qty": 1,
+      "name": "Pusta mapa",
+      "nameEn": "Empty Map"
+    },
+    "storeName": "Znakeks",
+    "storeLocation": "Susy",
+    "storeOwner": "Ketrab",
+    "notes": "Kasjer Zdzisiek",
+    "x": -233,
+    "y": 66,
+    "z": 315
+  },
+  {
+    "id": "susy_zdzisiek_2",
+    "product": {
+      "item": "D2",
+      "qty": 1,
+      "name": "D2",
+      "nameEn": "D2"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "map",
+      "qty": 1,
+      "name": "Pusta mapa",
+      "nameEn": "Empty Map"
+    },
+    "storeName": "Znakeks",
+    "storeLocation": "Susy",
+    "storeOwner": "Ketrab",
+    "notes": "Kasjer Zdzisiek",
+    "x": -233,
+    "y": 66,
+    "z": 315
+  },
+  {
+    "id": "susy_zdzisiek_3",
+    "product": {
+      "item": "B20",
+      "qty": 1,
+      "name": "B20",
+      "nameEn": "B20"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "map",
+      "qty": 1,
+      "name": "Pusta mapa",
+      "nameEn": "Empty Map"
+    },
+    "storeName": "Znakeks",
+    "storeLocation": "Susy",
+    "storeOwner": "Ketrab",
+    "notes": "Kasjer Zdzisiek",
+    "x": -233,
+    "y": 66,
+    "z": 315
+  },
+  {
+    "id": "susy_zdzisiek_4",
+    "product": {
+      "item": "A7",
+      "qty": 1,
+      "name": "A7",
+      "nameEn": "A7"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "map",
+      "qty": 1,
+      "name": "Pusta mapa",
+      "nameEn": "Empty Map"
+    },
+    "storeName": "Znakeks",
+    "storeLocation": "Susy",
+    "storeOwner": "Ketrab",
+    "notes": "Kasjer Zdzisiek",
+    "x": -233,
+    "y": 66,
+    "z": 315
+  },
+  {
+    "id": "susy_zdzisiek_5",
+    "product": {
+      "item": "G3",
+      "qty": 1,
+      "name": "G3",
+      "nameEn": "G3"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "map",
+      "qty": 1,
+      "name": "Pusta mapa",
+      "nameEn": "Empty Map"
+    },
+    "storeName": "Znakeks",
+    "storeLocation": "Susy",
+    "storeOwner": "Ketrab",
+    "notes": "Kasjer Zdzisiek",
+    "x": -233,
+    "y": 66,
+    "z": 315
+  },
+  {
+    "id": "susy_zdzisiek_6",
+    "product": {
+      "item": "A9",
+      "qty": 1,
+      "name": "A9",
+      "nameEn": "A9"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "map",
+      "qty": 1,
+      "name": "Pusta mapa",
+      "nameEn": "Empty Map"
+    },
+    "storeName": "Znakeks",
+    "storeLocation": "Susy",
+    "storeOwner": "Ketrab",
+    "notes": "Kasjer Zdzisiek",
+    "x": -233,
+    "y": 66,
+    "z": 315
+  },
+  {
+    "id": "susy_zdzisiek_7",
+    "product": {
+      "item": "A10",
+      "qty": 1,
+      "name": "A10",
+      "nameEn": "A10"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "map",
+      "qty": 1,
+      "name": "Pusta mapa",
+      "nameEn": "Empty Map"
+    },
+    "storeName": "Znakeks",
+    "storeLocation": "Susy",
+    "storeOwner": "Ketrab",
+    "notes": "Kasjer Zdzisiek",
+    "x": -233,
+    "y": 66,
+    "z": 315
+  },
+  {
+    "id": "susy_zdzisiek_8",
+    "product": {
+      "item": "A30",
+      "qty": 1,
+      "name": "A30",
+      "nameEn": "A30"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "map",
+      "qty": 1,
+      "name": "Pusta mapa",
+      "nameEn": "Empty Map"
+    },
+    "storeName": "Znakeks",
+    "storeLocation": "Susy",
+    "storeOwner": "Ketrab",
+    "notes": "Kasjer Zdzisiek",
+    "x": -233,
+    "y": 66,
+    "z": 315
+  },
+  {
+    "id": "susy_zygmunt_1",
+    "product": {
+      "item": "flushed",
+      "qty": 1,
+      "name": ":flushed:",
+      "nameEn": ":flushed:"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "map",
+      "qty": 1,
+      "name": "Pusta mapa",
+      "nameEn": "Empty Map"
+    },
+    "storeName": "Znakeks",
+    "storeLocation": "Susy",
+    "storeOwner": "Ketrab",
+    "notes": "Kasjer Zygmunt",
+    "x": -233,
+    "y": 66,
+    "z": 315
+  },
+  {
+    "id": "susy_zygmunt_2",
+    "product": {
+      "item": "frogszop",
+      "qty": 1,
+      "name": "Frogszop™",
+      "nameEn": "Frogszop™"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "map",
+      "qty": 1,
+      "name": "Pusta mapa",
+      "nameEn": "Empty Map"
+    },
+    "storeName": "Znakeks",
+    "storeLocation": "Susy",
+    "storeOwner": "Ketrab",
+    "notes": "Kasjer Zygmunt",
+    "x": -233,
+    "y": 66,
+    "z": 315
+  },
+  {
+    "id": "susy_zygmunt_3",
+    "product": {
+      "item": "pat1",
+      "qty": 1,
+      "name": "Papież Pat (1/4)",
+      "nameEn": "Papież Pat (1/4)"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "map",
+      "qty": 1,
+      "name": "Pusta mapa",
+      "nameEn": "Empty Map"
+    },
+    "storeName": "Znakeks",
+    "storeLocation": "Susy",
+    "storeOwner": "Ketrab",
+    "notes": "Kasjer Zygmunt",
+    "x": -233,
+    "y": 66,
+    "z": 315
+  },
+  {
+    "id": "susy_zygmunt_4",
+    "product": {
+      "item": "pat2",
+      "qty": 1,
+      "name": "Papież Pat (2/4)",
+      "nameEn": "Papież Pat (2/4)"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "map",
+      "qty": 1,
+      "name": "Pusta mapa",
+      "nameEn": "Empty Map"
+    },
+    "storeName": "Znakeks",
+    "storeLocation": "Susy",
+    "storeOwner": "Ketrab",
+    "notes": "Kasjer Zygmunt",
+    "x": -233,
+    "y": 66,
+    "z": 315
+  },
+  {
+    "id": "susy_zygmunt_5",
+    "product": {
+      "item": "pat3",
+      "qty": 1,
+      "name": "Papież Pat (3/4)",
+      "nameEn": "Papież Pat (3/4)"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "map",
+      "qty": 1,
+      "name": "Pusta mapa",
+      "nameEn": "Empty Map"
+    },
+    "storeName": "Znakeks",
+    "storeLocation": "Susy",
+    "storeOwner": "Ketrab",
+    "notes": "Kasjer Zygmunt",
+    "x": -233,
+    "y": 66,
+    "z": 315
+  },
+  {
+    "id": "susy_zygmunt_6",
+    "product": {
+      "item": "pat4",
+      "qty": 1,
+      "name": "Papież Pat (4/4)",
+      "nameEn": "Papież Pat (4/4)"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "map",
+      "qty": 1,
+      "name": "Pusta mapa",
+      "nameEn": "Empty Map"
+    },
+    "storeName": "Znakeks",
+    "storeLocation": "Susy",
+    "storeOwner": "Ketrab",
+    "notes": "Kasjer Zygmunt",
+    "x": -233,
+    "y": 66,
+    "z": 315
+  },
+  {
+    "id": "susy_zygmunt_7",
+    "product": {
+      "item": "wlocznia",
+      "qty": 1,
+      "name": "Włócznia Niepokoju",
+      "nameEn": "Włócznia Niepokoju"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "map",
+      "qty": 1,
+      "name": "Pusta mapa",
+      "nameEn": "Empty Map"
+    },
+    "storeName": "Znakeks",
+    "storeLocation": "Susy",
+    "storeOwner": "Ketrab",
+    "notes": "Kasjer Zygmunt",
+    "x": -233,
+    "y": 66,
+    "z": 315
+  },
+  {
+    "id": "susy_zygmunt_8",
+    "product": {
+      "item": "zegarbialy",
+      "qty": 1,
+      "name": "Zegar tarczowy (biały)",
+      "nameEn": "Zegar tarczowy (biały)"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "map",
+      "qty": 1,
+      "name": "Pusta mapa",
+      "nameEn": "Empty Map"
+    },
+    "storeName": "Znakeks",
+    "storeLocation": "Susy",
+    "storeOwner": "Ketrab",
+    "notes": "Kasjer Zygmunt",
+    "x": -233,
+    "y": 66,
+    "z": 315
+  },
+  {
+    "id": "susy_zygmunt_9",
+    "product": {
+      "item": "zakazfoto",
+      "qty": 1,
+      "name": "Zakaz fotografowania",
+      "nameEn": "Zakaz fotografowania"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "map",
+      "qty": 1,
+      "name": "Pusta mapa",
+      "nameEn": "Empty Map"
+    },
+    "storeName": "Znakeks",
+    "storeLocation": "Susy",
+    "storeOwner": "Ketrab",
+    "notes": "Kasjer Zygmunt",
+    "x": -233,
+    "y": 66,
+    "z": 315
+  },
+  {
+    "id": "spawnowice_butelki_1",
+    "product": {
+      "item": "paper",
+      "qty": 1,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "price1": {
+      "item": "glass_bottle",
+      "qty": 64,
+      "name": "Szklana butelka",
+      "nameEn": "Glass Bottle"
+    },
+    "storeName": "Skup butelek",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -65,
+    "y": 67,
+    "z": 186
+  }
+]

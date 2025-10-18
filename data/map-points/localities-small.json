@@ -1,0 +1,874 @@
+{
+  "points": [
+    {
+      "id": "loc-dedgierz",
+      "name": "Dedgierz",
+      "category": "miasto_male",
+      "x": -3551,
+      "z": -3730,
+      "description": "Woj.: Złowieckie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Złowieckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-codochujowice",
+      "name": "Codochujowice",
+      "category": "miasto_male",
+      "x": -3684,
+      "z": -3032,
+      "description": "Woj.: Złowieckie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Złowieckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "wzgorzyn",
+      "name": "Wzgórzyn",
+      "category": "miasto_male",
+      "x": 2480,
+      "z": -3177,
+      "description": "Woj.: Somsiedzkie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Somsiedzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "azaliowice",
+      "name": "Azaliowice",
+      "category": "miasto_male",
+      "x": 654,
+      "z": -3117,
+      "description": "Woj.: Somsiedzkie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Somsiedzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-polnocnik",
+      "name": "Północnik",
+      "category": "miasto_male",
+      "x": -999,
+      "z": -1364,
+      "description": "Woj.: Złowieckie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Złowieckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-gora-skryciulska",
+      "name": "Góra Skryciulska",
+      "category": "miasto_male",
+      "x": -1855,
+      "z": 1427,
+      "description": "Woj.: Międzyrzeckie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Międzyrzeckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-stara-wioska",
+      "name": "Stara Wioska",
+      "category": "miasto_male",
+      "x": 857,
+      "z": 1090,
+      "description": "Woj.: Międzyrzeckie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Międzyrzeckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-swarzync",
+      "name": "Swarzync",
+      "category": "miasto_male",
+      "x": -350,
+      "z": 880,
+      "description": "Woj.: Międzywódzkie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Międzywódzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-mierzyce",
+      "name": "Mierzyce",
+      "category": "miasto_male",
+      "x": -2655,
+      "z": 2271,
+      "description": "Woj.: Zasiedmiogórskie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Zasiedmiogórskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-dzikie",
+      "name": "Dzikie",
+      "category": "miasto_male",
+      "x": -2111,
+      "z": 3324,
+      "description": "Woj.: Zasiedmiogórskie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Zasiedmiogórskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-zapora",
+      "name": "Zapora",
+      "category": "miasto_male",
+      "x": -1560,
+      "z": 3462,
+      "description": "Woj.: Zasiedmiogórskie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Zasiedmiogórskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-paciulow",
+      "name": "Paciulów",
+      "category": "miasto_male",
+      "x": -963,
+      "z": 3855,
+      "description": "Woj.: Kampinowskie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Kampinowskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-norsk",
+      "name": "Norsk",
+      "category": "miasto_male",
+      "x": 3783,
+      "z": 1504,
+      "description": "Woj.: Pyrskie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Pyrskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-spizgistan",
+      "name": "Spizgistan",
+      "category": "miasto_male",
+      "x": 2448,
+      "z": 2155,
+      "description": "Woj.: Bideckie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Bideckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-kwiecien",
+      "name": "Kwiecień",
+      "category": "miasto_male",
+      "x": -1094,
+      "z": -1047,
+      "description": "Woj.: Wielkokabaczckie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Wielkokabaczckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-kiszenie-zdroj",
+      "name": "Kiszenie Zdrój",
+      "category": "miasto_male",
+      "x": -2315,
+      "z": -1166,
+      "description": "Woj.: Wielkokabaczckie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Wielkokabaczckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-jajecznica",
+      "name": "Jajecznica",
+      "category": "miasto_male",
+      "x": -2091,
+      "z": -1094,
+      "description": "Woj.: Wielkokabaczckie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Wielkokabaczckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-gora-duji",
+      "name": "Góra Duji",
+      "category": "miasto_male",
+      "x": -1879,
+      "z": -1332,
+      "description": "Woj.: Wielkokabaczckie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Wielkokabaczckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-kerfusiowo",
+      "name": "Kerfusiowo",
+      "category": "miasto_male",
+      "x": -696,
+      "z": -546,
+      "description": "Woj.: Wielkokabaczckie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Wielkokabaczckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-jasternia",
+      "name": "Jasternia",
+      "category": "miasto_male",
+      "x": -1414,
+      "z": -1269,
+      "description": "Woj.: Wielkokabaczckie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Wielkokabaczckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-debina",
+      "name": "Dębina",
+      "category": "miasto_male",
+      "x": -1385,
+      "z": -1044,
+      "description": "Woj.: Wielkokabaczckie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Wielkokabaczckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-akacjow",
+      "name": "Akacjów",
+      "category": "miasto_male",
+      "x": -1643,
+      "z": -1928,
+      "description": "Woj.: Wielkokabaczckie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Wielkokabaczckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-mirczyce-zdroj",
+      "name": "Mirczyce-Zdrój",
+      "category": "miasto_male",
+      "x": -532,
+      "z": -776,
+      "description": "Woj.: Wielkokabaczckie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Wielkokabaczckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-sztetin",
+      "name": "Sztetin",
+      "category": "miasto_male",
+      "x": -995,
+      "z": -2231,
+      "description": "Woj.: Wielkokabaczckie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Wielkokabaczckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-achowo",
+      "name": "Łachowo",
+      "category": "miasto_male",
+      "x": -655,
+      "z": -1778,
+      "description": "Woj.: Wielkokabaczckie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Wielkokabaczckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-rokietownik",
+      "name": "Rokietownik",
+      "category": "miasto_male",
+      "x": -349,
+      "z": -1241,
+      "description": "Woj.: Wielkokabaczckie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Wielkokabaczckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-przedmorze",
+      "name": "Przedmorze",
+      "category": "miasto_male",
+      "x": -3382,
+      "z": -4056,
+      "description": "Woj.: Złowieckie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Złowieckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-bartnice",
+      "name": "Bartnice",
+      "category": "miasto_male",
+      "x": -3798,
+      "z": -2442,
+      "description": "Woj.: Złowieckie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Złowieckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-rozkopane",
+      "name": "Rozkopane",
+      "category": "miasto_male",
+      "x": 124,
+      "z": -4092,
+      "description": "Woj.: Somsiedzkie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Somsiedzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-wiowisnia",
+      "name": "Wiowiśnia",
+      "category": "miasto_male",
+      "x": -262,
+      "z": -3858,
+      "description": "Woj.: Somsiedzkie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Somsiedzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-krindzawa",
+      "name": "Krindżawa",
+      "category": "miasto_male",
+      "x": 1134,
+      "z": -4275,
+      "description": "Woj.: Somsiedzkie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Somsiedzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-leoben",
+      "name": "Leoben",
+      "category": "miasto_male",
+      "x": 2290,
+      "z": -3789,
+      "description": "Woj.: Somsiedzkie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Somsiedzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-czarny-brzeg",
+      "name": "Czarny Brzeg",
+      "category": "miasto_male",
+      "x": 3369,
+      "z": -4012,
+      "description": "Woj.: Somsiedzkie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Somsiedzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-wisniowka",
+      "name": "Wiśniówka",
+      "category": "miasto_male",
+      "x": 3623,
+      "z": -4376,
+      "description": "Woj.: Somsiedzkie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Somsiedzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-revenstad",
+      "name": "Revenstad",
+      "category": "miasto_male",
+      "x": -64,
+      "z": -2452,
+      "description": "Woj.: Suchomeskie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Suchomeskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-piaszczyna",
+      "name": "Piaszczyna",
+      "category": "miasto_male",
+      "x": 1131,
+      "z": -1411,
+      "description": "Woj.: Suchomeskie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Suchomeskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-nowa-paqownia",
+      "name": "Nowa Paqownia",
+      "category": "miasto_male",
+      "x": 1732,
+      "z": -1438,
+      "description": "Woj.: Suchomeskie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Suchomeskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-kuktosow",
+      "name": "Kuktosów",
+      "category": "miasto_male",
+      "x": 2183,
+      "z": -1282,
+      "description": "Woj.: Suchomeskie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Suchomeskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-chodorow",
+      "name": "Chodorów",
+      "category": "miasto_male",
+      "x": 1821,
+      "z": -775,
+      "description": "Woj.: Brzóskie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Brzóskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-dolina-smierdzi",
+      "name": "Dolina Śmierdzi",
+      "category": "miasto_male",
+      "x": 1441,
+      "z": -732,
+      "description": "Woj.: Somsiedzkie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Somsiedzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-brzynia",
+      "name": "Brzynia",
+      "category": "miasto_male",
+      "x": 1503,
+      "z": -147,
+      "description": "Woj.: Brzóskie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Brzóskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-patusiowo",
+      "name": "Patusiowo",
+      "category": "miasto_male",
+      "x": 1882,
+      "z": -125,
+      "description": "Woj.: Brzóskie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Brzóskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-borg-cube",
+      "name": "Borg Cube",
+      "category": "miasto_male",
+      "x": 2947,
+      "z": -1633,
+      "description": "Woj.: Kresowickie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Kresowickie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-zgagora",
+      "name": "Zgagóra",
+      "category": "miasto_male",
+      "x": 2896,
+      "z": -1032,
+      "description": "Woj.: Kresowickie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Kresowickie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-tasmansk",
+      "name": "Tasmańsk",
+      "category": "miasto_male",
+      "x": 1808,
+      "z": 1165,
+      "description": "Woj.: Bideckie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Bideckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-krowodrza-gorka",
+      "name": "Krowodrza Górka",
+      "category": "miasto_male",
+      "x": 1533,
+      "z": 1788,
+      "description": "Woj.: Bideckie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Bideckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-miedzylesie",
+      "name": "Międzylesie",
+      "category": "miasto_male",
+      "x": -71,
+      "z": 1011,
+      "description": "Woj.: Międzywódzkie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Międzywódzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-lisia-nora",
+      "name": "Lisia Nora",
+      "category": "miasto_male",
+      "x": -113,
+      "z": 740,
+      "description": "Woj.: Międzywódzkie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Międzywódzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-siedziba-cbs",
+      "name": "Siedziba CBŚ",
+      "category": "miasto_male",
+      "x": -2088,
+      "z": -300,
+      "description": "Woj.: Międzywódzkie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Międzywódzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-kuria-torunska",
+      "name": "Kuria Toruńska",
+      "category": "miasto_male",
+      "x": -1559,
+      "z": 1591,
+      "description": "Woj.: Międzywódzkie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Międzywódzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-wioksal",
+      "name": "Wioksal",
+      "category": "miasto_male",
+      "x": -2566,
+      "z": 2847,
+      "description": "Woj.: Zasiedmiogórskie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Zasiedmiogórskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-zak-ad-karyny",
+      "name": "Zakład Karyny",
+      "category": "miasto_male",
+      "x": -2942,
+      "z": -2939,
+      "description": "Woj.: Złowieckie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Złowieckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-gorka-flaterska",
+      "name": "Górka Flaterska",
+      "category": "miasto_male",
+      "x": 707,
+      "z": 2106,
+      "description": "Woj.: Międzywódzkie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Międzywódzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-brecht-tower",
+      "name": "Brecht Tower",
+      "category": "miasto_male",
+      "x": 897,
+      "z": 1546,
+      "description": "Woj.: Międzywódzkie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Międzywódzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-donkco",
+      "name": "DonkCo",
+      "category": "miasto_male",
+      "x": 195,
+      "z": 3522,
+      "description": "Woj.: Kampinowskie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Kampinowskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-smiechowice",
+      "name": "Śmiechowice",
+      "category": "miasto_male",
+      "x": -92,
+      "z": 3818,
+      "description": "Woj.: Kampinowskie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Kampinowskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-dzbanszynek",
+      "name": "Dzbanszynek",
+      "category": "miasto_male",
+      "x": 1092,
+      "z": 4050,
+      "description": "Woj.: Kampinowskie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Kampinowskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-fart-dolina",
+      "name": "Fartdolina",
+      "category": "miasto_male",
+      "x": 2492,
+      "z": 3657,
+      "description": "Woj.: Pyrskie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Pyrskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-narzadnik",
+      "name": "Narządnik",
+      "category": "miasto_male",
+      "x": 3676,
+      "z": 3804,
+      "description": "Woj.: Pyrskie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Pyrskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-enklawa",
+      "name": "Enklawa",
+      "category": "miasto_male",
+      "x": 3976,
+      "z": 3761,
+      "description": "Woj.: Pyrskie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Pyrskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-niewimsk",
+      "name": "Niewimsk",
+      "category": "miasto_male",
+      "x": 3536,
+      "z": 3346,
+      "description": "Woj.: Pyrskie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Pyrskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-nowe-sucharowice",
+      "name": "Nowe Sucharowice",
+      "category": "miasto_male",
+      "x": 3916,
+      "z": 2302,
+      "description": "Woj.: Pyrskie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Pyrskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-prawdopodobienstwo-stoczniowcow",
+      "name": "Prawdopodobieństwo Stoczniowców",
+      "category": "miasto_male",
+      "x": 2982,
+      "z": 1782,
+      "description": "Woj.: Pyrskie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Pyrskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-zimowy-domek-kawy",
+      "name": "Zimowy Domek Kawy",
+      "category": "miasto_male",
+      "x": 2540,
+      "z": 2987,
+      "description": "Woj.: Pyrskie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Pyrskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-schronisko-turystyczne",
+      "name": "Schronisko Turystyczne",
+      "category": "miasto_male",
+      "x": 2505,
+      "z": 2786,
+      "description": "Woj.: Pyrskie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Pyrskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-ser-corp",
+      "name": "Ser Corp",
+      "category": "miasto_male",
+      "x": 1413,
+      "z": 2827,
+      "description": "Typ: small",
+      "tags": [
+        "type:small"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-paw-ogrod",
+      "name": "Pawłogród",
+      "category": "miasto_male",
+      "x": 501,
+      "z": -949,
+      "description": "Woj.: Wielkokabaczckie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Wielkokabaczckie"
+      ],
+      "hidden": false
+    }
+  ]
+}
