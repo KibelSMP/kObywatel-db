@@ -869,6 +869,32 @@
         "woj:Wielkokabaczckie"
       ],
       "hidden": false
+    },
+    {
+      "id": "loc-bartburg",
+      "name": "Bartburg",
+      "category": "miasto_male",
+      "x": -3448,
+      "z": 4219,
+      "description": "Woj.: Zasiedmiogórskie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Zasiedmiogórskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "loc-Siog-zlowiecki",
+      "name": "Siogunat Złowiecki",
+      "category": "miasto_male",
+      "x": -3873,
+      "z": 4289,
+      "description": "Woj.: Zasiedmiogórskie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Zasiedmiogórskie"
+      ],
+      "hidden": false
     }
   ]
 }
