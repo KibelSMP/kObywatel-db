@@ -2199,9 +2199,9 @@
     "storeName": "Narodowy Bank Kiblowy",
     "storeLocation": "Spawnowice",
     "storeOwner": "AdminShop",
-    "x": -312,
+    "x": -326,
     "y": 70,
-    "z": -44
+    "z": -45
   },
   {
     "id": "spawnowice_bank_2",
@@ -2220,9 +2220,9 @@
     "storeName": "Narodowy Bank Kiblowy",
     "storeLocation": "Spawnowice",
     "storeOwner": "AdminShop",
-    "x": -312,
+    "x": -326,
     "y": 70,
-    "z": -44
+    "z": -45
   },
   {
     "id": "spawnowice_bank_3",
@@ -2241,9 +2241,9 @@
     "storeName": "Narodowy Bank Kiblowy",
     "storeLocation": "Spawnowice",
     "storeOwner": "AdminShop",
-    "x": -312,
+    "x": -326,
     "y": 70,
-    "z": -44
+    "z": -45
   },
   {
     "id": "spawnowice_bank_4",
@@ -2262,9 +2262,9 @@
     "storeName": "Narodowy Bank Kiblowy",
     "storeLocation": "Spawnowice",
     "storeOwner": "AdminShop",
-    "x": -312,
+    "x": -326,
     "y": 70,
-    "z": -44
+    "z": -45
   },
   {
     "id": "spawnowice_bank_5",
@@ -2283,9 +2283,9 @@
     "storeName": "Narodowy Bank Kiblowy",
     "storeLocation": "Spawnowice",
     "storeOwner": "AdminShop",
-    "x": -312,
+    "x": -326,
     "y": 70,
-    "z": -44
+    "z": -45
   },
   {
     "id": "spawnowice_bank_6",
@@ -2305,9 +2305,9 @@
     "storeName": "Narodowy Bank Kiblowy",
     "storeLocation": "Spawnowice",
     "storeOwner": "AdminShop",
-    "x": -312,
+    "x": -326,
     "y": 70,
-    "z": -44
+    "z": -43
   },
   {
     "id": "spawnowice_mc_1",
@@ -4462,7 +4462,7 @@
     "storeLocation": "Susy",
     "storeOwner": "Ketrab",
     "notes": "Kasjer Zygmunt",
-    "x": -233,
+    "x": -229,
     "y": 66,
     "z": 315
   },
@@ -4490,7 +4490,7 @@
     "storeLocation": "Susy",
     "storeOwner": "Ketrab",
     "notes": "Kasjer Zygmunt",
-    "x": -233,
+    "x": -229,
     "y": 66,
     "z": 315
   },
@@ -4518,7 +4518,7 @@
     "storeLocation": "Susy",
     "storeOwner": "Ketrab",
     "notes": "Kasjer Zygmunt",
-    "x": -233,
+    "x": -229,
     "y": 66,
     "z": 315
   },
@@ -4546,7 +4546,7 @@
     "storeLocation": "Susy",
     "storeOwner": "Ketrab",
     "notes": "Kasjer Zygmunt",
-    "x": -233,
+    "x": -229,
     "y": 66,
     "z": 315
   },
@@ -4574,7 +4574,7 @@
     "storeLocation": "Susy",
     "storeOwner": "Ketrab",
     "notes": "Kasjer Zygmunt",
-    "x": -233,
+    "x": -229,
     "y": 66,
     "z": 315
   },
@@ -4602,7 +4602,7 @@
     "storeLocation": "Susy",
     "storeOwner": "Ketrab",
     "notes": "Kasjer Zygmunt",
-    "x": -233,
+    "x": -229,
     "y": 66,
     "z": 315
   },
@@ -4630,7 +4630,7 @@
     "storeLocation": "Susy",
     "storeOwner": "Ketrab",
     "notes": "Kasjer Zygmunt",
-    "x": -233,
+    "x": -229,
     "y": 66,
     "z": 315
   },
@@ -4658,7 +4658,7 @@
     "storeLocation": "Susy",
     "storeOwner": "Ketrab",
     "notes": "Kasjer Zygmunt",
-    "x": -233,
+    "x": -229,
     "y": 66,
     "z": 315
   },
@@ -4686,7 +4686,7 @@
     "storeLocation": "Susy",
     "storeOwner": "Ketrab",
     "notes": "Kasjer Zygmunt",
-    "x": -233,
+    "x": -229,
     "y": 66,
     "z": 315
   },
