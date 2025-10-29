@@ -3464,7 +3464,7 @@
   {
     "id": "nilplep_kowal_19",
     "product": {
-      "item": "Bolt_armor_trim_smithing_template",
+      "item": "bolt_armor_trim_smithing_template",
       "qty": 1,
       "name": "Zdobienie zbroi \"Nit\"",
       "nameEn": "Bolt Armor Trim"
@@ -4217,7 +4217,7 @@
   {
     "id": "susy_zdzisiek_1",
     "product": {
-      "item": "D1",
+      "item": "sign_d1",
       "qty": 1,
       "name": "D1",
       "nameEn": "D1"
@@ -4245,7 +4245,7 @@
   {
     "id": "susy_zdzisiek_2",
     "product": {
-      "item": "D2",
+      "item": "sign_d2",
       "qty": 1,
       "name": "D2",
       "nameEn": "D2"
@@ -4273,7 +4273,7 @@
   {
     "id": "susy_zdzisiek_3",
     "product": {
-      "item": "B20",
+      "item": "sign_b20",
       "qty": 1,
       "name": "B20",
       "nameEn": "B20"
@@ -4301,7 +4301,7 @@
   {
     "id": "susy_zdzisiek_4",
     "product": {
-      "item": "A7",
+      "item": "sign_a7",
       "qty": 1,
       "name": "A7",
       "nameEn": "A7"
@@ -4329,7 +4329,7 @@
   {
     "id": "susy_zdzisiek_5",
     "product": {
-      "item": "G3",
+      "item": "sign_g3",
       "qty": 1,
       "name": "G3",
       "nameEn": "G3"
@@ -4357,7 +4357,7 @@
   {
     "id": "susy_zdzisiek_6",
     "product": {
-      "item": "A9",
+      "item": "sign_a9",
       "qty": 1,
       "name": "A9",
       "nameEn": "A9"
@@ -4385,7 +4385,7 @@
   {
     "id": "susy_zdzisiek_7",
     "product": {
-      "item": "A10",
+      "item": "sign_a10",
       "qty": 1,
       "name": "A10",
       "nameEn": "A10"
@@ -4413,7 +4413,7 @@
   {
     "id": "susy_zdzisiek_8",
     "product": {
-      "item": "A30",
+      "item": "sign_a30",
       "qty": 1,
       "name": "A30",
       "nameEn": "A30"
