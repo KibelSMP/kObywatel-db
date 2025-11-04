@@ -96,7 +96,7 @@
       "item": "glow_item_frame",
       "qty": 1,
       "name": "Niewidzialna świecąca ramka",
-      "nameEn": "Niewidzialna świecąca ramka"
+      "nameEn": "Invisible Glow Item Frame"
     },
     "price1": {
       "item": "glow_item_frame",
@@ -123,7 +123,7 @@
       "item": "item_frame",
       "qty": 1,
       "name": "Niewidzialna ramka",
-      "nameEn": "Niewidzialna ramka"
+      "nameEn": "Invisible Item Frame"
     },
     "price1": {
       "item": "item_frame",
