@@ -74,6 +74,7 @@
       "item": "leather_leggins",
       "qty": 1,
       "enchanted": true,
+      "customItem": true,
       "name": "Spodnie TESCO VALUE",
       "nameEn": "Spodnie TESCO VALUE"
     },
@@ -95,6 +96,7 @@
     "product": {
       "item": "glow_item_frame",
       "qty": 1,
+      "customItem": true,
       "name": "Niewidzialna świecąca ramka",
       "nameEn": "Invisible Glow Item Frame"
     },
@@ -122,6 +124,7 @@
     "product": {
       "item": "item_frame",
       "qty": 1,
+      "customItem": true,
       "name": "Niewidzialna ramka",
       "nameEn": "Invisible Item Frame"
     },
@@ -149,6 +152,7 @@
     "product": {
       "item": "villager_spawn_egg",
       "qty": 1,
+      "customItem": true,
       "name": "Shopkeeper",
       "nameEn": "Shopkeeper"
     },
@@ -182,6 +186,7 @@
     "storeName": "Zeflik",
     "storeLocation": "Wioksal",
     "storeOwner": "AdminShop",
+    "notes": "Shulker z banerami w literki",
     "x": -2524,
     "y": 97,
     "z": 2871
@@ -203,6 +208,7 @@
     "storeName": "Zeflik",
     "storeLocation": "Wioksal",
     "storeOwner": "AdminShop",
+    "notes": "Shulker z banerami w znaki specjalne i cyfry",
     "x": -2524,
     "y": 97,
     "z": 2871
@@ -240,12 +246,13 @@
       "item": "netherite_scrap",
       "qty": 2,
       "name": "Odłamek netherytu",
-      "nameEn": "Netheritu Scrap"
+      "nameEn": "Netherite Scrap"
     },
     "price2": {
       "item": "skull_banner_pattern",
       "qty": 1,
       "enchanted": true,
+      "customItem": true,
       "name": "Obligacje skarbowe",
       "nameEn": "Obligacje skarbowe"
     },
@@ -261,6 +268,7 @@
     "product": {
       "item": "egg",
       "qty": 1,
+      "customItem": true,
       "name": "Jajco",
       "nameEn": "Jajco"
     },
@@ -282,6 +290,7 @@
     "product": {
       "item": "paper",
       "qty": 1,
+      "customItem": true,
       "name": "Kibelion",
       "nameEn": "Kibelion"
     },
@@ -303,6 +312,7 @@
     "product": {
       "item": "paper",
       "qty": 1,
+      "customItem": true,
       "name": "Kibelion",
       "nameEn": "Kibelion"
     },
@@ -327,6 +337,7 @@
     "product": {
       "item": "paper",
       "qty": 1,
+      "customItem": true,
       "name": "Kibelion",
       "nameEn": "Kibelion"
     },
@@ -348,6 +359,7 @@
     "product": {
       "item": "water_bottle",
       "qty": 1,
+      "customItem": true,
       "name": "Woda Vytautas",
       "nameEn": "Woda Vytautas"
     },
@@ -369,6 +381,7 @@
     "product": {
       "item": "writable_book",
       "qty": 1,
+      "customItem": true,
       "name": "List standard",
       "nameEn": "List standard"
     },
@@ -387,6 +400,7 @@
     "product": {
       "item": "writable_book",
       "qty": 1,
+      "customItem": true,
       "name": "Etykieta paczki",
       "nameEn": "Etykieta paczki"
     },
@@ -405,6 +419,7 @@
     "product": {
       "item": "potion_night_vision",
       "qty": 1,
+      "customItem": true,
       "name": "MOCNY FULL",
       "nameEn": "MOCNY FULL"
     },
@@ -417,8 +432,8 @@
     "storeName": "Pankracy Mendelejew",
     "storeLocation": "Dentgino",
     "storeOwner": "AdminShop",
-    "x": 3513,
-    "y": 62,
+    "x": 3520,
+    "y": 64,
     "z": 3799
   },
   {
@@ -426,6 +441,7 @@
     "product": {
       "item": "water_bottle",
       "qty": 1,
+      "customItem": true,
       "name": "Woda Vytautas",
       "nameEn": "Woda Vytautas"
     },
@@ -438,8 +454,8 @@
     "storeName": "Pankracy Mendelejew",
     "storeLocation": "Dentgino",
     "storeOwner": "AdminShop",
-    "x": 3513,
-    "y": 62,
+    "x": 3520,
+    "y": 64,
     "z": 3799
   },
   {
@@ -447,6 +463,7 @@
     "product": {
       "item": "potion_harming",
       "qty": 1,
+      "customItem": true,
       "name": "Gensty Glut",
       "nameEn": "Gensty Glut"
     },
@@ -459,8 +476,8 @@
     "storeName": "Pankracy Mendelejew",
     "storeLocation": "Dentgino",
     "storeOwner": "AdminShop",
-    "x": 3513,
-    "y": 62,
+    "x": 3520,
+    "y": 64,
     "z": 3799
   },
   {
@@ -468,125 +485,22 @@
     "product": {
       "item": "potion_strength",
       "qty": 1,
+      "customItem": true,
       "name": "Wywar z baloryby",
       "nameEn": "Wywar z baloryby"
     },
     "price1": {
       "item": "paper",
       "qty": 2,
-      "name": "Talon promocyjny",
-      "nameEn": "Talon promocyjny"
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
     },
     "storeName": "Pankracy Mendelejew",
     "storeLocation": "Dentgino",
     "storeOwner": "AdminShop",
-    "x": 3513,
-    "y": 62,
-    "z": 3799
-  },
-  {
-    "id": "dentgino_pankracy_5",
-    "product": {
-      "item": "dirt",
-      "qty": 1,
-      "name": "Jadalna ziemia",
-      "nameEn": "Jadalna ziemia"
-    },
-    "price1": {
-      "item": "paper",
-      "qty": 5,
-      "name": "Talon promocyjny",
-      "nameEn": "Talon promocyjny"
-    },
-    "storeName": "Pankracy Mendelejew",
-    "storeLocation": "Dentgino",
-    "storeOwner": "AdminShop",
-    "x": 3513,
-    "y": 62,
-    "z": 3799
-  },
-  {
-    "id": "dentgino_pankracy_6",
-    "product": {
-      "item": "coal",
-      "qty": 1,
-      "name": "Kopalniok",
-      "nameEn": "Kopalniok"
-    },
-    "price1": {
-      "item": "paper",
-      "qty": 5,
-      "name": "Talon promocyjny",
-      "nameEn": "Talon promocyjny"
-    },
-    "storeName": "Pankracy Mendelejew",
-    "storeLocation": "Dentgino",
-    "storeOwner": "AdminShop",
-    "x": 3513,
-    "y": 62,
-    "z": 3799
-  },
-  {
-    "id": "dentgino_pankracy_7",
-    "product": {
-      "item": "wooden_axe",
-      "qty": 1,
-      "name": "Czekoladowa siekierka",
-      "nameEn": "Czekoladowa siekierka"
-    },
-    "price1": {
-      "item": "paper",
-      "qty": 5,
-      "name": "Talon promocyjny",
-      "nameEn": "Talon promocyjny"
-    },
-    "storeName": "Pankracy Mendelejew",
-    "storeLocation": "Dentgino",
-    "storeOwner": "AdminShop",
-    "x": 3513,
-    "y": 62,
-    "z": 3799
-  },
-  {
-    "id": "dentgino_pankracy_8",
-    "product": {
-      "item": "sea_pickle",
-      "qty": 1,
-      "name": "Ogórek",
-      "nameEn": "Ogórek"
-    },
-    "price1": {
-      "item": "paper",
-      "qty": 4,
-      "name": "Talon promocyjny",
-      "nameEn": "Talon promocyjny"
-    },
-    "storeName": "Pankracy Mendelejew",
-    "storeLocation": "Dentgino",
-    "storeOwner": "AdminShop",
-    "x": 3513,
-    "y": 62,
-    "z": 3799
-  },
-  {
-    "id": "dentgino_pankracy_9",
-    "product": {
-      "item": "dark_oak_trapdoor",
-      "qty": 1,
-      "name": "Tabliczka czekolady JUMBO",
-      "nameEn": "Tabliczka czekolady JUMBO"
-    },
-    "price1": {
-      "item": "paper",
-      "qty": 4,
-      "name": "Talon promocyjny",
-      "nameEn": "Talon promocyjny"
-    },
-    "storeName": "Pankracy Mendelejew",
-    "storeLocation": "Dentgino",
-    "storeOwner": "AdminShop",
-    "x": 3513,
-    "y": 62,
+    "x": 3520,
+    "y": 64,
     "z": 3799
   },
   {
@@ -1227,6 +1141,7 @@
     "price2": {
       "item": "paper",
       "qty": 2,
+      "customItem": true,
       "name": "Kibelion",
       "nameEn": "Kibelion"
     },
@@ -1254,6 +1169,7 @@
     "price2": {
       "item": "paper",
       "qty": 4,
+      "customItem": true,
       "name": "Kibelion",
       "nameEn": "Kibelion"
     },
@@ -2029,7 +1945,7 @@
       "nameEn": "Closed Eyeblossom"
     },
     "price1": {
-      "item": "closed_eyeblossome",
+      "item": "closed_eyeblossom",
       "qty": 1,
       "name": "Zamknięta okrotka",
       "nameEn": "Closed Eyeblossom"
@@ -2187,12 +2103,14 @@
     "product": {
       "item": "paper",
       "qty": 1,
+      "customItem": true,
       "name": "Kibelion",
       "nameEn": "Kibelion"
     },
     "price1": {
       "item": "paper",
       "qty": 1,
+      "customItem": true,
       "name": "Talon promocyjny",
       "nameEn": "Talon Promocyjny"
     },
@@ -2214,6 +2132,7 @@
     "price1": {
       "item": "paper",
       "qty": 50,
+      "customItem": true,
       "name": "Kibelion",
       "nameEn": "Kibelion"
     },
@@ -2229,12 +2148,14 @@
     "product": {
       "item": "paper",
       "qty": 50,
+      "customItem": true,
       "name": "Kibelion",
       "nameEn": "Kibelion"
     },
     "price1": {
       "item": "paper",
       "qty": 1,
+      "customItem": true,
       "name": "50 Kibelionów",
       "nameEn": "50 Kibelionów"
     },
@@ -2250,12 +2171,14 @@
     "product": {
       "item": "paper",
       "qty": 1,
+      "customItem": true,
       "name": "1000 Kibelionów",
       "nameEn": "1000 Kibelionów"
     },
     "price1": {
       "item": "paper",
       "qty": 20,
+      "customItem": true,
       "name": "50 Kibelionów",
       "nameEn": "50 Kibelionów"
     },
@@ -2271,12 +2194,14 @@
     "product": {
       "item": "paper",
       "qty": 20,
+      "customItem": true,
       "name": "50 Kibelionów",
       "nameEn": "50 Kibelionów"
     },
     "price1": {
       "item": "paper",
       "qty": 1,
+      "customItem": true,
       "name": "1000 Kibelionów",
       "nameEn": "1000 Kibelionów"
     },
@@ -2299,6 +2224,7 @@
       "item": "skull_banner_pattern",
       "qty": 1,
       "enchanted": true,
+      "customItem": true,
       "name": "Obligacje skarbowe",
       "nameEn": "Obligacje skarbowe"
     },
@@ -2314,6 +2240,7 @@
     "product": {
       "item": "brown_bundle",
       "qty": 1,
+      "customItem": true,
       "name": "McZestaw Powiększony",
       "nameEn": "McZestaw Powiększony"
     },
@@ -2335,6 +2262,7 @@
     "product": {
       "item": "potion_harming",
       "qty": 1,
+      "customItem": true,
       "name": "Coca-Cola",
       "nameEn": "Coca-Cola"
     },
@@ -2356,6 +2284,7 @@
     "product": {
       "item": "baked_potato",
       "qty": 1,
+      "customItem": true,
       "name": "Frytki",
       "nameEn": "Frytki"
     },
@@ -2377,6 +2306,7 @@
     "product": {
       "item": "cooked_porkchop",
       "qty": 1,
+      "customItem": true,
       "name": "BigMac",
       "nameEn": "Bigmac"
     },
@@ -2398,6 +2328,7 @@
     "product": {
       "item": "brown_bundle",
       "qty": 1,
+      "customItem": true,
       "name": "McZestaw Drwala",
       "nameEn": "McZestaw Drwala"
     },
@@ -2419,6 +2350,7 @@
     "product": {
       "item": "potion_weaving",
       "qty": 1,
+      "customItem": true,
       "name": "Kawa",
       "nameEn": "Kawa"
     },
@@ -2461,6 +2393,7 @@
     "product": {
       "item": "cooked_chicken",
       "qty": 1,
+      "customItem": true,
       "name": "Kurczak GFCI",
       "nameEn": "Kurczak GFCI"
     },
@@ -2482,6 +2415,7 @@
     "product": {
       "item": "charcoal",
       "qty": 1,
+      "customItem": true,
       "name": "Zwęglony kurczak",
       "nameEn": "Zwęglony kurczak"
     },
@@ -2503,6 +2437,7 @@
     "product": {
       "item": "baked_potato",
       "qty": 1,
+      "customItem": true,
       "name": "Frytki",
       "nameEn": "Frytki"
     },
@@ -2524,6 +2459,7 @@
     "product": {
       "item": "potion_harming",
       "qty": 1,
+      "customItem": true,
       "name": "Pepsi",
       "nameEn": "Pepsi"
     },
@@ -2545,6 +2481,7 @@
     "product": {
       "item": "potion_leaping",
       "qty": 1,
+      "customItem": true,
       "name": "Fanta",
       "nameEn": "Fanta"
     },
@@ -2566,6 +2503,7 @@
     "product": {
       "item": "potion_weaving",
       "qty": 1,
+      "customItem": true,
       "name": "Kawa",
       "nameEn": "Kawa"
     },
@@ -2587,6 +2525,7 @@
     "product": {
       "item": "yellow_dye",
       "qty": 1,
+      "customItem": true,
       "name": "Sos musztardowy",
       "nameEn": "Sos musztardowy"
     },
@@ -2608,6 +2547,7 @@
     "product": {
       "item": "feather",
       "qty": 1,
+      "customItem": true,
       "name": "Zastanawiające piórko",
       "nameEn": "Zastanawiające piórko"
     },
@@ -2629,6 +2569,7 @@
     "product": {
       "item": "stone_button",
       "qty": 1,
+      "customItem": true,
       "name": "Wyłącznik różnicoprądowy",
       "nameEn": "Wyłącznik różnicoprądowy"
     },
@@ -2646,31 +2587,11 @@
     "z": -90
   },
   {
-    "id": "spawnowice_kiosk_1",
-    "product": {
-      "item": "paper",
-      "qty": 1,
-      "name": "Świerszczyk",
-      "nameEn": "Świerszczyk"
-    },
-    "price1": {
-      "item": "emerald",
-      "qty": 2,
-      "name": "Szmaragd",
-      "nameEn": "Emerald"
-    },
-    "storeName": "Kiosk",
-    "storeLocation": "Spawnowice",
-    "storeOwner": "AdminShop",
-    "x": -102,
-    "y": 67,
-    "z": -262
-  },
-  {
     "id": "spawnowice_barman_1",
     "product": {
       "item": "potion_strength",
       "qty": 1,
+      "customItem": true,
       "name": "Wywar z baloryby",
       "nameEn": "Wywar z baloryby"
     },
@@ -2692,6 +2613,7 @@
     "product": {
       "item": "potion_luck",
       "qty": 1,
+      "customItem": true,
       "name": "Kwas fluoroantymonowy",
       "nameEn": "Kwas fluoroantymonowy"
     },
@@ -2709,31 +2631,11 @@
     "z": 187
   },
   {
-    "id": "spawnowice_barman_3",
-    "product": {
-      "item": "water_bottle",
-      "qty": 1,
-      "name": "Woda Vytautas",
-      "nameEn": "Woda Vytautas"
-    },
-    "price1": {
-      "item": "emerald",
-      "qty": 1,
-      "name": "Szmaragd",
-      "nameEn": "Emerald"
-    },
-    "storeName": "Barman Borewicz",
-    "storeLocation": "Spawnowice",
-    "storeOwner": "AdminShop",
-    "x": -53,
-    "y": 76,
-    "z": 187
-  },
-  {
     "id": "spawnowice_barman_4",
     "product": {
       "item": "water_bottle",
       "qty": 1,
+      "customItem": true,
       "name": "Woda Vytautas",
       "nameEn": "Woda Vytautas"
     },
@@ -2755,6 +2657,7 @@
     "product": {
       "item": "potion_harming",
       "qty": 1,
+      "customItem": true,
       "name": "Gensty Glut",
       "nameEn": "Gensty Glut"
     },
@@ -2776,6 +2679,7 @@
     "product": {
       "item": "potion_night_vision",
       "qty": 1,
+      "customItem": true,
       "name": "MOCNY FULL",
       "nameEn": "MOCNY FULL"
     },
@@ -2797,6 +2701,7 @@
     "product": {
       "item": "potion_leaping",
       "qty": 1,
+      "customItem": true,
       "name": "Bimber Wojtka",
       "nameEn": "Bimber Wojtka"
     },
@@ -2818,6 +2723,7 @@
     "product": {
       "item": "potion_invisibility",
       "qty": 1,
+      "customItem": true,
       "name": "Wódka \"Frontówka\"",
       "nameEn": "Wódka \"Frontówka\""
     },
@@ -2839,6 +2745,7 @@
     "product": {
       "item": "potion_weakness",
       "qty": 1,
+      "customItem": true,
       "name": "Kozel Černý",
       "nameEn": "Kozel Černý"
     },
@@ -2860,6 +2767,7 @@
     "product": {
       "item": "potion_weaving",
       "qty": 1,
+      "customItem": true,
       "name": "Kawa",
       "nameEn": "Kawa"
     },
@@ -2881,6 +2789,7 @@
     "product": {
       "item": "potion_harming",
       "qty": 1,
+      "customItem": true,
       "name": "Coca-cola",
       "nameEn": "Coca-cola"
     },
@@ -2902,6 +2811,7 @@
     "product": {
       "item": "potion_harming",
       "qty": 1,
+      "customItem": true,
       "name": "Pepsi",
       "nameEn": "Pepsi"
     },
@@ -2923,6 +2833,7 @@
     "product": {
       "item": "potion_leaping",
       "qty": 1,
+      "customItem": true,
       "name": "Fanta",
       "nameEn": "Fanta"
     },
@@ -2944,12 +2855,14 @@
     "product": {
       "item": "paper",
       "qty": 50,
+      "customItem": true,
       "name": "Kibelion",
       "nameEn": "Kibelion"
     },
     "price1": {
       "item": "paper",
       "qty": 1,
+      "customItem": true,
       "name": "50 Kibelionów",
       "nameEn": "50 Kibelionów"
     },
@@ -2962,12 +2875,14 @@
     "product": {
       "item": "paper",
       "qty": 1,
+      "customItem": true,
       "name": "50 Kibelionów",
       "nameEn": "50 Kibelionów"
     },
     "price1": {
       "item": "paper",
       "qty": 50,
+      "customItem": true,
       "name": "Kibelion",
       "nameEn": "Kibelion"
     },
@@ -3764,6 +3679,7 @@
       "item": "creeper_banner_pattern",
       "qty": 6,
       "enchanted": true,
+      "customItem": true,
       "name": "Talon muzyczny",
       "nameEn": "Talon muzyczny"
     },
@@ -3786,6 +3702,7 @@
       "item": "creeper_banner_pattern",
       "qty": 4,
       "enchanted": true,
+      "customItem": true,
       "name": "Talon muzyczny",
       "nameEn": "Talon muzyczny"
     },
@@ -3808,6 +3725,7 @@
       "item": "creeper_banner_pattern",
       "qty": 4,
       "enchanted": true,
+      "customItem": true,
       "name": "Talon muzyczny",
       "nameEn": "Talon muzyczny"
     },
@@ -3830,6 +3748,7 @@
       "item": "creeper_banner_pattern",
       "qty": 4,
       "enchanted": true,
+      "customItem": true,
       "name": "Talon muzyczny",
       "nameEn": "Talon muzyczny"
     },
@@ -3852,6 +3771,7 @@
       "item": "creeper_banner_pattern",
       "qty": 6,
       "enchanted": true,
+      "customItem": true,
       "name": "Talon muzyczny",
       "nameEn": "Talon muzyczny"
     },
@@ -3874,6 +3794,7 @@
       "item": "creeper_banner_pattern",
       "qty": 4,
       "enchanted": true,
+      "customItem": true,
       "name": "Talon muzyczny",
       "nameEn": "Talon muzyczny"
     },
@@ -3896,6 +3817,7 @@
       "item": "creeper_banner_pattern",
       "qty": 6,
       "enchanted": true,
+      "customItem": true,
       "name": "Talon muzyczny",
       "nameEn": "Talon muzyczny"
     },
@@ -3918,6 +3840,7 @@
       "item": "creeper_banner_pattern",
       "qty": 6,
       "enchanted": true,
+      "customItem": true,
       "name": "Talon muzyczny",
       "nameEn": "Talon muzyczny"
     },
@@ -3934,6 +3857,7 @@
       "item": "creeper_banner_pattern",
       "qty": 1,
       "enchanted": true,
+      "customItem": true,
       "name": "Talon muzyczny",
       "nameEn": "Talon muzyczny"
     },
@@ -3956,6 +3880,7 @@
       "item": "creeper_banner_pattern",
       "qty": 1,
       "enchanted": true,
+      "customItem": true,
       "name": "Talon muzyczny",
       "nameEn": "Talon muzyczny"
     },
@@ -3978,6 +3903,7 @@
       "item": "creeper_banner_pattern",
       "qty": 1,
       "enchanted": true,
+      "customItem": true,
       "name": "Talon muzyczny",
       "nameEn": "Talon muzyczny"
     },
@@ -4000,6 +3926,7 @@
       "item": "creeper_banner_pattern",
       "qty": 1,
       "enchanted": true,
+      "customItem": true,
       "name": "Talon muzyczny",
       "nameEn": "Talon muzyczny"
     },
@@ -4022,6 +3949,7 @@
       "item": "creeper_banner_pattern",
       "qty": 1,
       "enchanted": true,
+      "customItem": true,
       "name": "Talon muzyczny",
       "nameEn": "Talon muzyczny"
     },
@@ -4044,6 +3972,7 @@
       "item": "creeper_banner_pattern",
       "qty": 1,
       "enchanted": true,
+      "customItem": true,
       "name": "Talon muzyczny",
       "nameEn": "Talon muzyczny"
     },
@@ -4066,6 +3995,7 @@
       "item": "creeper_banner_pattern",
       "qty": 1,
       "enchanted": true,
+      "customItem": true,
       "name": "Talon muzyczny",
       "nameEn": "Talon muzyczny"
     },
@@ -4088,6 +4018,7 @@
       "item": "creeper_banner_pattern",
       "qty": 1,
       "enchanted": true,
+      "customItem": true,
       "name": "Talon muzyczny",
       "nameEn": "Talon muzyczny"
     },
@@ -4110,6 +4041,7 @@
       "item": "creeper_banner_pattern",
       "qty": 1,
       "enchanted": true,
+      "customItem": true,
       "name": "Talon muzyczny",
       "nameEn": "Talon muzyczny"
     },
@@ -4132,6 +4064,7 @@
       "item": "creeper_banner_pattern",
       "qty": 1,
       "enchanted": true,
+      "customItem": true,
       "name": "Talon muzyczny",
       "nameEn": "Talon muzyczny"
     },
@@ -4154,6 +4087,7 @@
       "item": "creeper_banner_pattern",
       "qty": 1,
       "enchanted": true,
+      "customItem": true,
       "name": "Talon muzyczny",
       "nameEn": "Talon muzyczny"
     },
@@ -4176,6 +4110,7 @@
       "item": "creeper_banner_pattern",
       "qty": 1,
       "enchanted": true,
+      "customItem": true,
       "name": "Talon muzyczny",
       "nameEn": "Talon muzyczny"
     },
@@ -4198,6 +4133,7 @@
       "item": "creeper_banner_pattern",
       "qty": 1,
       "enchanted": true,
+      "customItem": true,
       "name": "Talon muzyczny",
       "nameEn": "Talon muzyczny"
     },
@@ -4695,6 +4631,7 @@
     "product": {
       "item": "paper",
       "qty": 1,
+      "customItem": true,
       "name": "Kibelion",
       "nameEn": "Kibelion"
     },
@@ -4710,5 +4647,97 @@
     "x": -65,
     "y": 67,
     "z": 186
+  },
+  {
+    "id": "dentgino_pankracy_5",
+    "product": {
+      "item": "dark_oak_trapdoor",
+      "qty": 2,
+      "customItem": true,
+      "name": "Tabliczka czekolady JUMBO",
+      "nameEn": "Tabliczka czekolady JUMBO"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "Pankracy Mendelejew",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3520,
+    "y": 64,
+    "z": 3799
+  },
+  {
+    "id": "dentgino_pankracy_6",
+    "product": {
+      "item": "burgir",
+      "qty": 1,
+      "customItem": true,
+      "name": "burgir",
+      "nameEn": "burgir"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "Pankracy Mendelejew",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3520,
+    "y": 64,
+    "z": 3799
+  },
+  {
+    "id": "spawnowice_mc_7",
+    "product": {
+      "item": "burgir",
+      "qty": 1,
+      "customItem": true,
+      "name": "McRoyal",
+      "nameEn": "McRoyal"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "McDonald",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -70,
+    "y": 67,
+    "z": -174
+  },
+  {
+    "id": "spawnowice_gfci_11",
+    "product": {
+      "item": "kubelek",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kubełek gorących skrzydełek i frytki",
+      "nameEn": "Kubełek gorących skrzydełek i frytki"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "GFCI",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -115,
+    "y": 67,
+    "z": -90
   }
 ]
