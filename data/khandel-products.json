@@ -2632,7 +2632,7 @@
     "z": 187
   },
   {
-    "id": "spawnowice_barman_4",
+    "id": "spawnowice_barman_3",
     "product": {
       "item": "water_bottle",
       "qty": 1,
@@ -2654,7 +2654,7 @@
     "z": 187
   },
   {
-    "id": "spawnowice_barman_5",
+    "id": "spawnowice_barman_4",
     "product": {
       "item": "potion_harming",
       "qty": 1,
@@ -2676,7 +2676,7 @@
     "z": 187
   },
   {
-    "id": "spawnowice_barman_6",
+    "id": "spawnowice_barman_5",
     "product": {
       "item": "potion_night_vision",
       "qty": 1,
@@ -2698,7 +2698,7 @@
     "z": 187
   },
   {
-    "id": "spawnowice_barman_7",
+    "id": "spawnowice_barman_6",
     "product": {
       "item": "potion_leaping",
       "qty": 1,
@@ -2720,7 +2720,7 @@
     "z": 187
   },
   {
-    "id": "spawnowice_barman_8",
+    "id": "spawnowice_barman_7",
     "product": {
       "item": "potion_invisibility",
       "qty": 1,
@@ -2742,7 +2742,7 @@
     "z": 187
   },
   {
-    "id": "spawnowice_barman_9",
+    "id": "spawnowice_barman_8",
     "product": {
       "item": "potion_weakness",
       "qty": 1,
@@ -2764,7 +2764,7 @@
     "z": 187
   },
   {
-    "id": "spawnowice_barman_10",
+    "id": "spawnowice_barman_9",
     "product": {
       "item": "potion_weaving",
       "qty": 1,
@@ -2786,7 +2786,7 @@
     "z": 187
   },
   {
-    "id": "spawnowice_barman_11",
+    "id": "spawnowice_barman_10",
     "product": {
       "item": "potion_harming",
       "qty": 1,
@@ -2808,7 +2808,7 @@
     "z": 187
   },
   {
-    "id": "spawnowice_barman_12",
+    "id": "spawnowice_barman_11",
     "product": {
       "item": "potion_harming",
       "qty": 1,
@@ -2830,7 +2830,7 @@
     "z": 187
   },
   {
-    "id": "spawnowice_barman_13",
+    "id": "spawnowice_barman_12",
     "product": {
       "item": "potion_leaping",
       "qty": 1,
@@ -5123,7 +5123,7 @@
     "id": "nilplep_atique_bibliotekarz_6",
     "product": {
       "item": "compass",
-      "qty": 4,
+      "qty": 1,
       "name": "Kompas",
       "nameEn": "Compass"
     },
@@ -5145,7 +5145,7 @@
     "id": "nilplep_atique_bibliotekarz_7",
     "product": {
       "item": "name_tag",
-      "qty": 4,
+      "qty": 1,
       "name": "Znacznik",
       "nameEn": "Name Tag"
     },
@@ -5344,7 +5344,7 @@
       "qty": 1,
       "enchanted": true,
       "name": "Zaklęta książka [Ochrona przed ogniem IV]",
-      "nameEn": "Enchanted Book [Fire Protection 4]"
+      "nameEn": "Enchanted Book [Fire Protection IV]"
     },
     "price1": {
       "item": "emerald",
@@ -6058,6 +6058,1553 @@
     "storeLocation": "Nilplep",
     "storeOwner": "Ketrab",
     "notes": "Bibliotekarz - Stanowisko [20] - Alejka IV",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_kamieniarz_1",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "clay_ball",
+      "qty": 10,
+      "name": "Kulka gliny",
+      "nameEn": "Clay Ball"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Kamieniarz - Alejka V",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_kamieniarz_2",
+    "product": {
+      "item": "brick",
+      "qty": 10,
+      "name": "Cegła",
+      "nameEn": "Brick"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Kamieniarz - Alejka V",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_kamieniarz_3",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "stone",
+      "qty": 20,
+      "name": "Kamień",
+      "nameEn": "Stone"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Kamieniarz - Alejka V",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_kamieniarz_4",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "granite",
+      "qty": 16,
+      "name": "Granit",
+      "nameEn": "Granite"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Kamieniarz - Alejka V",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_kamieniarz_5",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "andesite",
+      "qty": 16,
+      "name": "Andezyt",
+      "nameEn": "Andesite"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Kamieniarz - Alejka V",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_kamieniarz_6",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "diorite",
+      "qty": 16,
+      "name": "Dioryt",
+      "nameEn": "Diorite"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Kamieniarz - Alejka V",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_kamieniarz_7",
+    "product": {
+      "item": "quartz_pillar",
+      "qty": 1,
+      "name": "Kwarcowy filar",
+      "nameEn": "Quartz Pillar"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Kamieniarz - Alejka V",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_kamieniarz_8",
+    "product": {
+      "item": "quartz_block",
+      "qty": 1,
+      "name": "Blok kwarcu",
+      "nameEn": "Block of Quartz"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Kamieniarz - Alejka V",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_pasterz_1",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "white_wool",
+      "qty": 18,
+      "name": "Biała wełna",
+      "nameEn": "White Wool"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Pasterz - Alejka VI",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_pasterz_2",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "gray_wool",
+      "qty": 18,
+      "name": "Szara wełna",
+      "nameEn": "Gray Wool"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Pasterz - Alejka VI",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_pasterz_3",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "black_wool",
+      "qty": 18,
+      "name": "Czarna wełna",
+      "nameEn": "Black Wool"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Pasterz - Alejka VI",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_pasterz_4",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "brown_wool",
+      "qty": 18,
+      "name": "Brązowa wełna",
+      "nameEn": "Brown Wool"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Pasterz - Alejka VI",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_pasterz_5",
+    "product": {
+      "item": "shears",
+      "qty": 1,
+      "name": "Nożyce",
+      "nameEn": "Shears"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 2,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Pasterz - Alejka VI",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_pasterz_6",
+    "product": {
+      "item": "painting",
+      "qty": 3,
+      "name": "Obraz",
+      "nameEn": "Painting"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 2,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Pasterz - Alejka VI",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_kaplan_1",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "rotten_flesh",
+      "qty": 32,
+      "name": "Zgniłe mięso",
+      "nameEn": "Rotten Flesh"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Kapłan - Alejka VII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_kaplan_2",
+    "product": {
+      "item": "redstone",
+      "qty": 2,
+      "name": "Sproszkowany redstone",
+      "nameEn": "Redstone Dust"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Kapłan - Alejka VII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_kaplan_3",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "gold_ingot",
+      "qty": 3,
+      "name": "Sztabka złota",
+      "nameEn": "Gold Ingot"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Kapłan - Alejka VII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_kaplan_4",
+    "product": {
+      "item": "lapis_lazuli",
+      "qty": 1,
+      "nameEn": "Lapis Lazuli"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Kapłan - Alejka VII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_kaplan_5",
+    "product": {
+      "item": "glowstone",
+      "qty": 1,
+      "name": "Jasnogłaz",
+      "nameEn": "Glowstone"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 4,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Kapłan - Alejka VII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_kaplan_6",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "nether_wart",
+      "qty": 22,
+      "name": "Netherowa brodawka",
+      "nameEn": "Nether Wart"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Kapłan - Alejka VII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_kaplan_7",
+    "product": {
+      "item": "experience_bottle",
+      "qty": 1,
+      "name": "Zaklęta butelka",
+      "nameEn": "Bottle o' Enchanting"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 3,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Kapłan - Alejka VII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_rzeznik_1",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "chicken",
+      "qty": 14,
+      "name": "Surowy kurczak",
+      "nameEn": "Raw Chicken"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Rzeźnik - Alejka VII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_rzeznik_2",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "mutton",
+      "qty": 7,
+      "name": "Surowa baranina",
+      "nameEn": "Raw Mutton"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Rzeźnik - Alejka VII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_rzeznik_3",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "beef",
+      "qty": 10,
+      "name": "Surowa wołowina",
+      "nameEn": "Raw Beef"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Rzeźnik - Alejka VII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_rzeznik_4",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "porkchop",
+      "qty": 7,
+      "name": "Surowa wieprzowina",
+      "nameEn": "Raw Porkchop"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Rzeźnik - Alejka VII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_rzeznik_5",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "coal",
+      "qty": 15,
+      "name": "Węgiel",
+      "nameEn": "Coal"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Rzeźnik - Alejka VII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_rzeznik_6",
+    "product": {
+      "item": "rabbit_stew",
+      "qty": 1,
+      "name": "Potrawka z królika",
+      "nameEn": "Rabbit Stew"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Rzeźnik - Alejka VII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_rzeznik_7",
+    "product": {
+      "item": "cooked_porkchop",
+      "qty": 5,
+      "name": "Pieczona wieprzowina",
+      "nameEn": "Cooked Porkchop"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Rzeźnik - Alejka VII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_rzeznik_8",
+    "product": {
+      "item": "cooked_chicken",
+      "qty": 8,
+      "name": "Pieczony kurczak",
+      "nameEn": "Cooked Chicken"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Rzeźnik - Alejka VII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_rzeznik_9",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "dried_kelp_block",
+      "qty": 10,
+      "name": "Blok suszonych wodorostów",
+      "nameEn": "Dried Kelp Block"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Rzeźnik - Alejka VII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_rzeznik_10",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "sweet_berries",
+      "qty": 10,
+      "name": "Słodkie jagody",
+      "nameEn": "Sweet Berries"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Rzeźnik - Alejka VII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_rybak_1",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "coal",
+      "qty": 10,
+      "name": "Węgiel",
+      "nameEn": "Coal"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Rybak - Alejka VIII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_rybak_2",
+    "product": {
+      "item": "campfire",
+      "qty": 1,
+      "name": "Ognisko",
+      "nameEn": "Campfire"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 2,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Rybak - Alejka VIII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_rybak_3",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "oak_boat",
+      "qty": 1,
+      "name": "Dębowa łódka",
+      "nameEn": "Oak Boat"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Rybak - Alejka VIII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_rybak_4",
+    "product": {
+      "item": "cod_bucket",
+      "qty": 1,
+      "name": "Wiadro z dorszem",
+      "nameEn": "Bucket of Cod"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 3,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Rybak - Alejka VIII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_rybak_5",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "cod",
+      "qty": 15,
+      "name": "Surowy dorsz",
+      "nameEn": "Raw Cod"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Rybak - Alejka VIII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_rybak_6",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "salmon",
+      "qty": 13,
+      "name": "Surowy łosoś",
+      "nameEn": "Raw Salmon"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Rybak - Alejka VIII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_rybak_7",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "tropical_fish",
+      "qty": 6,
+      "name": "Ryba tropikalna",
+      "nameEn": "Tropical Fish"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Rybak - Alejka VIII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_rybak_8",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "pufferfish",
+      "qty": 6,
+      "name": "Rozdymka",
+      "nameEn": "Pufferfish"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Rybak - Alejka VIII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_rymarz_1",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "leather",
+      "qty": 6,
+      "name": "Skóra",
+      "nameEn": "Leather"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Rymarz - Alejka VIII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_rymarz_2",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "rabbit_hide",
+      "qty": 9,
+      "name": "Królicza skóra",
+      "nameEn": "Rabbit Hide"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Rymarz - Alejka VIII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_rymarz_3",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "flint",
+      "qty": 26,
+      "name": "Krzemień",
+      "nameEn": "Flint"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Rymarz - Alejka VIII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_rymarz_4",
+    "product": {
+      "item": "leather_horse_armor",
+      "qty": 1,
+      "name": "Skórzana zbroja końska",
+      "nameEn": "Leather Horse Armor"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 6,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Rymarz - Alejka VIII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_rymarz_5",
+    "product": {
+      "item": "saddle",
+      "qty": 1,
+      "name": "Siodło",
+      "nameEn": "Saddle"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 6,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Rymarz - Alejka VIII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_kowal_1",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "coal",
+      "qty": 15,
+      "name": "Węgiel",
+      "nameEn": "Coal"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Kowal - Alejka VIII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_kowal_2",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "flint",
+      "qty": 24,
+      "name": "Krzemień",
+      "nameEn": "Flint"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Kowal - Alejka VIII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_kowal_3",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "iron_ingot",
+      "qty": 4,
+      "name": "Sztabka żelaza",
+      "nameEn": "Iron Ingot"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Kowal - Alejka VIII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_kowal_4",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "diamond",
+      "qty": 1,
+      "name": "Diament",
+      "nameEn": "Diamond"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Kowal - Alejka VIII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_kowal_5",
+    "product": {
+      "item": "bell",
+      "qty": 1,
+      "name": "Dzwon",
+      "nameEn": "Bell"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 36,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Kowal - Alejka VIII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_kowal_6",
+    "product": {
+      "item": "diamond_helmet",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Diamentowy hełm",
+      "nameEn": "Diamond Helmet"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 15,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Kowal - Alejka VIII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_kowal_7",
+    "product": {
+      "item": "diamond_chestplate",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Diamentowy napierśnik",
+      "nameEn": "Diamond Chestplate"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 22,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Kowal - Alejka VIII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_kowal_8",
+    "product": {
+      "item": "diamond_leggings",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Diamentowe nogawice",
+      "nameEn": "Diamond Leggings"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 24,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Kowal - Alejka VIII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_kowal_9",
+    "product": {
+      "item": "diamond_boots",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Diamentowe buty",
+      "nameEn": "Diamond Boots"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 15,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Kowal - Alejka VIII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_kowal_10",
+    "product": {
+      "item": "diamond_sword",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Diamentowy miecz",
+      "nameEn": "Diamond Sword"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 21,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Kowal - Alejka VIII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_kowal_11",
+    "product": {
+      "item": "diamond_axe",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Diamentowa siekiera",
+      "nameEn": "Diamond Axe"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 19,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Kowal - Alejka VIII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_kowal_12",
+    "product": {
+      "item": "diamond_shovel",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Diamentowa łopata",
+      "nameEn": "Diamond Shovel"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 18,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Kowal - Alejka VIII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_kowal_13",
+    "product": {
+      "item": "diamond_pickaxe",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Diamentowy kilof",
+      "nameEn": "Diamond Pickaxe"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 22,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Kowal - Alejka VIII",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_rolnik_1",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "wheat",
+      "qty": 20,
+      "name": "Pszenica",
+      "nameEn": "Wheat"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Rolnik - Alejka IX & X",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_rolnik_2",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "potato",
+      "qty": 26,
+      "name": "Ziemniak",
+      "nameEn": "Potato"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Rolnik - Alejka IX & X",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_rolnik_3",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "carrot",
+      "qty": 22,
+      "name": "Marchewka",
+      "nameEn": "Carrot"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Rolnik - Alejka IX & X",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_rolnik_4",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "beetroot",
+      "qty": 15,
+      "name": "Burak",
+      "nameEn": "Beetroot"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Rolnik - Alejka IX & X",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_rolnik_5",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "pumpkin",
+      "qty": 6,
+      "name": "Dynia",
+      "nameEn": "Pumpkin"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Rolnik - Alejka IX & X",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_rolnik_6",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "melon",
+      "qty": 4,
+      "name": "Arbuz",
+      "nameEn": "Melon"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Rolnik - Alejka IX & X",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_rolnik_7",
+    "product": {
+      "item": "suspicious_stew",
+      "qty": 1,
+      "name": "Podejrzana potrawka",
+      "nameEn": "Suspicious Stew"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Rolnik - Alejka IX & X",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_rolnik_8",
+    "product": {
+      "item": "apple",
+      "qty": 4,
+      "name": "Jabłko",
+      "nameEn": "Apple"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Rolnik - Alejka IX & X",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_rolnik_9",
+    "product": {
+      "item": "golden_carrot",
+      "qty": 3,
+      "name": "Złota marchewka",
+      "nameEn": "Golden Carrot"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 3,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Rolnik - Alejka IX & X",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_rolnik_10",
+    "product": {
+      "item": "glistering_melon_slice",
+      "qty": 3,
+      "name": "Kawałek lśniącego arbuza",
+      "nameEn": "Glistering Melon Slice"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 4,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Rolnik - Alejka IX & X",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_rolnik_11",
+    "product": {
+      "item": "cookie",
+      "qty": 18,
+      "name": "Ciastko",
+      "nameEn": "Cookie"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 3,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Rolnik - Alejka IX & X",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_rolnik_12",
+    "product": {
+      "item": "pumpkin_pie",
+      "qty": 4,
+      "name": "Placek dyniowy",
+      "nameEn": "Pumpkin Pie"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Rolnik - Alejka IX & X",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_rolnik_13",
+    "product": {
+      "item": "cake",
+      "qty": 1,
+      "name": "Ciasto",
+      "nameEn": "Cake"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Rolnik - Alejka IX & X",
     "x": -803,
     "y": 70,
     "z": 169
