@@ -218,8 +218,8 @@
     "product": {
       "item": "firework_rocket",
       "qty": 64,
-      "name": "Fajerwerk",
-      "nameEn": "Firework Rocket"
+      "name": "Fajerwerk (Czas lotu: 1)",
+      "nameEn": "Firework Rocket (Flight Duration: 1)"
     },
     "price1": {
       "item": "paper",
@@ -2126,6 +2126,7 @@
     "product": {
       "item": "paper",
       "qty": 1,
+      "customItem": true,
       "name": "50 Kibelionów",
       "nameEn": "50 Kibelionów"
     },
@@ -2972,7 +2973,7 @@
     "z": 116
   },
   {
-    "id": "nilplep_kowal_4",
+    "id": "nilplep_kowal_5",
     "product": {
       "item": "wild_armor_trim_smithing_template",
       "qty": 1,
@@ -2999,7 +3000,7 @@
     "z": 116
   },
   {
-    "id": "nilplep_kowal_5",
+    "id": "nilplep_kowal_4",
     "product": {
       "item": "coast_armor_trim_smithing_template",
       "qty": 1,
@@ -4739,5 +4740,1326 @@
     "x": -115,
     "y": 67,
     "z": -90
+  },
+  {
+    "id": "spawnowice_piatka_1",
+    "product": {
+      "item": "firework_rocket",
+      "qty": 10,
+      "name": "Fajerwerk (Czas lotu: 1)",
+      "nameEn": "Firework Rocket (Flight Duration: 1)"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "Piątka+",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "Miersetnik",
+    "x": -64,
+    "y": 67,
+    "z": -74
+  },
+  {
+    "id": "spawnowice_piatka_2",
+    "product": {
+      "item": "firework_rocket",
+      "qty": 21,
+      "name": "Fajerwerk (Czas lotu: 1)",
+      "nameEn": "Firework Rocket (Flight Duration: 1)"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 2,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "Piątka+",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "Miersetnik",
+    "x": -64,
+    "y": 67,
+    "z": -74
+  },
+  {
+    "id": "spawnowice_piatka_3",
+    "product": {
+      "item": "firework_rocket",
+      "qty": 32,
+      "name": "Fajerwerk (Czas lotu: 1)",
+      "nameEn": "Firework Rocket (Flight Duration: 1)"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 3,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "Piątka+",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "Miersetnik",
+    "x": -64,
+    "y": 67,
+    "z": -74
+  },
+  {
+    "id": "spawnowice_farmaceutka_1",
+    "product": {
+      "item": "light_gray_dye",
+      "qty": 8,
+      "customItem": true,
+      "name": "Brechtaceum",
+      "nameEn": "Brechtaceum"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "Farmaceutka Fryderyka",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -312,
+    "y": 70,
+    "z": -20
+  },
+  {
+    "id": "spawnowice_farmaceutka_2",
+    "product": {
+      "item": "yellow_dye",
+      "qty": 1,
+      "customItem": true,
+      "name": "Pawulonik",
+      "nameEn": "Pawulonik"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "Farmaceutka Fryderyka",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -312,
+    "y": 70,
+    "z": -20
+  },
+  {
+    "id": "spawnowice_farmaceutka_3",
+    "product": {
+      "item": "orange_dye",
+      "qty": 2,
+      "customItem": true,
+      "name": "Rutinoskurwysyn",
+      "nameEn": "Rutinoskurwysyn"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "Farmaceutka Fryderyka",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -312,
+    "y": 70,
+    "z": -20
+  },
+  {
+    "id": "spawnowice_farmaceutka_4",
+    "product": {
+      "item": "magenta_dye",
+      "qty": 1,
+      "customItem": true,
+      "name": "Brecht-X",
+      "nameEn": "Brecht-X"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 2,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "Farmaceutka Fryderyka",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -312,
+    "y": 70,
+    "z": -20
+  },
+  {
+    "id": "nilplep_atique_lucarz_1",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "stick",
+      "qty": 32,
+      "name": "Patyk",
+      "nameEn": "Stick"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Łuczarz - Alejka I & II",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_lucarz_2",
+    "product": {
+      "item": "arrow",
+      "qty": 16,
+      "name": "Strzała",
+      "nameEn": "Arrow"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Łuczarz - Alejka I & II",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_lucarz_3",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "flint",
+      "qty": 26,
+      "name": "Krzemień",
+      "nameEn": "Flint"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Łuczarz - Alejka I & II",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_lucarz_4",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "string",
+      "qty": 14,
+      "name": "Nić",
+      "nameEn": "String"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Łuczarz - Alejka I & II",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_lucarz_5",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "feather",
+      "qty": 24,
+      "name": "Pióro",
+      "nameEn": "Feather"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Łuczarz - Alejka I & II",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_bibliotekarz_1",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "paper",
+      "qty": 24,
+      "name": "Papier",
+      "nameEn": "Paper"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Bibliotekarz - Alejka III & IV",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_bibliotekarz_2",
+    "product": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price1": {
+      "item": "ink_sac",
+      "qty": 5,
+      "name": "Torbiel z atramentem",
+      "nameEn": "Ink Sac"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Bibliotekarz - Alejka III & IV",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_bibliotekarz_3",
+    "product": {
+      "item": "bookshelf",
+      "qty": 1,
+      "name": "Biblioteczka",
+      "nameEn": "Bookshelf"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 9,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Bibliotekarz - Alejka III & IV",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_bibliotekarz_4",
+    "product": {
+      "item": "lantern",
+      "qty": 1,
+      "name": "Latarnia",
+      "nameEn": "Lantern"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Bibliotekarz - Alejka III & IV",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_bibliotekarz_5",
+    "product": {
+      "item": "glass",
+      "qty": 4,
+      "name": "Szkło",
+      "nameEn": "Glass"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Bibliotekarz - Alejka III & IV",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_bibliotekarz_6",
+    "product": {
+      "item": "compass",
+      "qty": 4,
+      "name": "Kompas",
+      "nameEn": "Compass"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 4,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Bibliotekarz - Alejka III & IV",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_bibliotekarz_7",
+    "product": {
+      "item": "name_tag",
+      "qty": 4,
+      "name": "Znacznik",
+      "nameEn": "Name Tag"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 20,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Bibliotekarz - Alejka III & IV",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_enchant_1",
+    "product": {
+      "item": "enchanted_book",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Zaklęta książka [Naprawa]",
+      "nameEn": "Enchanted Book [Mending]"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 12,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "book",
+      "qty": 1,
+      "name": "Książka",
+      "nameEn": "Book"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Bibliotekarz - Stanowisko [1] - Alejka III",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_enchant_2",
+    "product": {
+      "item": "enchanted_book",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Zaklęta książka [Przeszycie IV]",
+      "nameEn": "Enchanted Book [Piercing IV]"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 37,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "book",
+      "qty": 1,
+      "name": "Książka",
+      "nameEn": "Book"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Bibliotekarz - Stanowisko [1] - Alejka III",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_enchant_3",
+    "product": {
+      "item": "enchanted_book",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Zaklęta książka [Wielostrzał]",
+      "nameEn": "Enchanted Book [Multishot]"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 13,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "book",
+      "qty": 1,
+      "name": "Książka",
+      "nameEn": "Book"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Bibliotekarz - Stanowisko [1] - Alejka III",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_enchant_4",
+    "product": {
+      "item": "enchanted_book",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Zaklęta książka [Oddychanie III]",
+      "nameEn": "Enchanted Book [Respiration III]"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 11,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "book",
+      "qty": 1,
+      "name": "Książka",
+      "nameEn": "Book"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Bibliotekarz - Stanowisko [2] - Alejka III",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_enchant_5",
+    "product": {
+      "item": "enchanted_book",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Zaklęta książka [Płomień]",
+      "nameEn": "Enchanted Book [Flame]"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 17,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "book",
+      "qty": 1,
+      "name": "Książka",
+      "nameEn": "Book"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Bibliotekarz - Stanowisko [3] - Alejka III",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_enchant_6",
+    "product": {
+      "item": "enchanted_book",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Zaklęta książka [Uderzenie II]",
+      "nameEn": "Enchanted Book [Punch II]"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 21,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "book",
+      "qty": 1,
+      "name": "Książka",
+      "nameEn": "Book"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Bibliotekarz - Stanowisko [3] - Alejka III",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_enchant_7",
+    "product": {
+      "item": "enchanted_book",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Zaklęta książka [Ochrona przed ogniem IV]",
+      "nameEn": "Enchanted Book [Fire Protection 4]"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 26,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "book",
+      "qty": 1,
+      "name": "Książka",
+      "nameEn": "Book"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Bibliotekarz - Stanowisko [4] - Alejka III",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_enchant_8",
+    "product": {
+      "item": "enchanted_book",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Zaklęta książka [Porażenie]",
+      "nameEn": "Enchanted Book [Channelling]"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 5,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "book",
+      "qty": 1,
+      "name": "Książka",
+      "nameEn": "Book"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Bibliotekarz - Stanowisko [4] - Alejka III",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_enchant_9",
+    "product": {
+      "item": "enchanted_book",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Zaklęta książka [Zaklęty ogień II]",
+      "nameEn": "Enchanted Book [Fire Aspect II]"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 26,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "book",
+      "qty": 1,
+      "name": "Książka",
+      "nameEn": "Book"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Bibliotekarz - Stanowisko [5] - Alejka III",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_enchant_10",
+    "product": {
+      "item": "enchanted_book",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Zaklęta książka [Nieskończoność]",
+      "nameEn": "Enchanted Book [Infinity]"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 10,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "book",
+      "qty": 1,
+      "name": "Książka",
+      "nameEn": "Book"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Bibliotekarz - Stanowisko [5] - Alejka III",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_enchant_11",
+    "product": {
+      "item": "enchanted_book",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Zaklęta książka [Szerokie ostrze III]",
+      "nameEn": "Enchanted Book [Sweeping Edge III]"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 16,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "book",
+      "qty": 1,
+      "name": "Książka",
+      "nameEn": "Book"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Bibliotekarz - Stanowisko [6] - Alejka III",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_enchant_12",
+    "product": {
+      "item": "enchanted_book",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Zaklęta książka [Odrzut II]",
+      "nameEn": "Enchanted Book [Knockback II]"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 26,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "book",
+      "qty": 1,
+      "name": "Książka",
+      "nameEn": "Book"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Bibliotekarz - Stanowisko [6] - Alejka III",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_enchant_13",
+    "product": {
+      "item": "enchanted_book",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Zaklęta książka [Szczęście III]",
+      "nameEn": "Enchanted Book [Fortune III]"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 17,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "book",
+      "qty": 1,
+      "name": "Książka",
+      "nameEn": "Book"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Bibliotekarz - Stanowisko [7] - Alejka III",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_enchant_14",
+    "product": {
+      "item": "enchanted_book",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Zaklęta książka [Przebicie IV (maks. poz. V)]",
+      "nameEn": "Enchanted Book [Impaling IV (max. lvl. V)]"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 22,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "book",
+      "qty": 1,
+      "name": "Książka",
+      "nameEn": "Book"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Bibliotekarz - Stanowisko [8] - Alejka III",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_enchant_15",
+    "product": {
+      "item": "enchanted_book",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Zaklęta książka [Ciernie III]",
+      "nameEn": "Enchanted Book [Thorns III]"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 19,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "book",
+      "qty": 1,
+      "name": "Książka",
+      "nameEn": "Book"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Bibliotekarz - Stanowisko [9] - Alejka III",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_enchant_16",
+    "product": {
+      "item": "enchanted_book",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Zaklęta książka [Morska fortuna III]",
+      "nameEn": "Enchanted Book [Luck of the Sea III]"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 41,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "book",
+      "qty": 1,
+      "name": "Książka",
+      "nameEn": "Book"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Bibliotekarz - Stanowisko [10] - Alejka III",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_enchant_17",
+    "product": {
+      "item": "enchanted_book",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Zaklęta książka [Torpeda III]",
+      "nameEn": "Enchanted Book [Riptide III]"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 32,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "book",
+      "qty": 1,
+      "name": "Książka",
+      "nameEn": "Book"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Bibliotekarz - Stanowisko [10] - Alejka III",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_enchant_18",
+    "product": {
+      "item": "enchanted_book",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Zaklęta książka [Grabież III]",
+      "nameEn": "Enchanted Book [Looting III]"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 11,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "book",
+      "qty": 1,
+      "name": "Książka",
+      "nameEn": "Book"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Bibliotekarz - Stanowisko [11] - Alejka IV",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_enchant_19",
+    "product": {
+      "item": "enchanted_book",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Zaklęta książka [Klątwa uwiązania]",
+      "nameEn": "Enchanted Book [Curse of Binding]"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 30,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "book",
+      "qty": 1,
+      "name": "Książka",
+      "nameEn": "Book"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Bibliotekarz - Stanowisko [11] - Alejka IV",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_enchant_20",
+    "product": {
+      "item": "enchanted_book",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Zaklęta książka [Wydajność V]",
+      "nameEn": "Enchanted Book [Efficiency V]"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 30,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "book",
+      "qty": 1,
+      "name": "Książka",
+      "nameEn": "Book"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Bibliotekarz - Stanowisko [12] - Alejka IV",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_enchant_21",
+    "product": {
+      "item": "enchanted_book",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Zaklęta książka [Łagodny upadek IV]",
+      "nameEn": "Enchanted Book [Feather Falling IV]"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 18,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "book",
+      "qty": 1,
+      "name": "Książka",
+      "nameEn": "Book"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Bibliotekarz - Stanowisko [12] - Alejka IV",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_enchant_22",
+    "product": {
+      "item": "enchanted_book",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Zaklęta książka [Ostrość V]",
+      "nameEn": "Enchanted Book [Sharpness V]"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 63,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "book",
+      "qty": 1,
+      "name": "Książka",
+      "nameEn": "Book"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Bibliotekarz - Stanowisko [13] - Alejka IV",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_enchant_23",
+    "product": {
+      "item": "enchanted_book",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Zaklęta książka [Szybkie ładowanie III]",
+      "nameEn": "Enchanted Book [Quick Charge III]"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 22,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "book",
+      "qty": 1,
+      "name": "Książka",
+      "nameEn": "Book"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Bibliotekarz - Stanowisko [14] - Alejka IV",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_enchant_24",
+    "product": {
+      "item": "enchanted_book",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Zaklęta książka [Lojalność III]",
+      "nameEn": "Enchanted Book [Loyalty III]"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 36,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "book",
+      "qty": 1,
+      "name": "Książka",
+      "nameEn": "Book"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Bibliotekarz - Stanowisko [15] - Alejka IV",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_enchant_25",
+    "product": {
+      "item": "enchanted_book",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Zaklęta książka [Moc V]",
+      "nameEn": "Enchanted Book [Power V]"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 42,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "book",
+      "qty": 1,
+      "name": "Książka",
+      "nameEn": "Book"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Bibliotekarz - Stanowisko [16] - Alejka IV",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_enchant_26",
+    "product": {
+      "item": "enchanted_book",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Zaklęta książka [Przynęta III]",
+      "nameEn": "Enchanted Book [Lure III]"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 14,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "book",
+      "qty": 1,
+      "name": "Książka",
+      "nameEn": "Book"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Bibliotekarz - Stanowisko [17] - Alejka IV",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_enchant_27",
+    "product": {
+      "item": "enchanted_book",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Zaklęta książka [Niezniszczalność III]",
+      "nameEn": "Enchanted Book [Unbreaking III]"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 24,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "book",
+      "qty": 1,
+      "name": "Książka",
+      "nameEn": "Book"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Bibliotekarz - Stanowisko [18] - Alejka IV",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_enchant_28",
+    "product": {
+      "item": "enchanted_book",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Zaklęta książka [Jedwabny dotyk]",
+      "nameEn": "Enchanted Book [Silk Touch]"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 18,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "book",
+      "qty": 1,
+      "name": "Książka",
+      "nameEn": "Book"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Bibliotekarz - Stanowisko [18] - Alejka IV",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_enchant_29",
+    "product": {
+      "item": "enchanted_book",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Zaklęta książka [Ochrona IV]",
+      "nameEn": "Enchanted Book [Protection IV]"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 24,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "book",
+      "qty": 1,
+      "name": "Książka",
+      "nameEn": "Book"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Bibliotekarz - Stanowisko [19] - Alejka IV",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_enchant_30",
+    "product": {
+      "item": "enchanted_book",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Zaklęta książka [Głebinowy wędrowiec III]",
+      "nameEn": "Enchanted Book [Depth Strider III]"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 11,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "book",
+      "qty": 1,
+      "name": "Książka",
+      "nameEn": "Book"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Bibliotekarz - Stanowisko [20] - Alejka IV",
+    "x": -803,
+    "y": 70,
+    "z": 169
+  },
+  {
+    "id": "nilplep_atique_enchant_31",
+    "product": {
+      "item": "enchanted_book",
+      "qty": 1,
+      "enchanted": true,
+      "name": "Zaklęta książka [Wydajność pod wodą]",
+      "nameEn": "Enchanted Book [Aqua Affinity]"
+    },
+    "price1": {
+      "item": "emerald",
+      "qty": 8,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "book",
+      "qty": 1,
+      "name": "Książka",
+      "nameEn": "Book"
+    },
+    "storeName": "Nilplep Atique",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "Bibliotekarz - Stanowisko [20] - Alejka IV",
+    "x": -803,
+    "y": 70,
+    "z": 169
   }
 ]
