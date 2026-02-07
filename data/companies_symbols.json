@@ -1,0 +1,86 @@
+[
+    {
+        "symbol": "A",
+        "name": "Rolnictwo, leśnictwo, łowiectwo i rybactwo"
+    },
+    {
+        "symbol": "B",
+        "name": "Górnictwo i wydobywanie"
+    },
+    {
+        "symbol": "C",
+        "name": "Przetwórstwo przemysłowe"
+    },
+    {
+        "symbol": "D",
+        "name": "Wytwarzanie i zaopatrywanie w energię elektryczną, gaz, parę wodną, gorącą wodę i powietrze do układów klimatyzacyjnych"
+    },
+    {
+        "symbol": "E",
+        "name": "Dostawa wody; gospodarowanie ściekami i odpadami oraz działalność związana z rekultywacją"
+    },
+    {
+        "symbol": "F",
+        "name": "Budownictwo"
+    },
+    {
+        "symbol": "G",
+        "name": "Handel hurtowy i detaliczny; naprawa pojazdów samochodowych, włączając motocykle"
+    },
+    {
+        "symbol": "H",
+        "name": "Transport i gospodarka magazynowa"
+    },
+    {
+        "symbol": "I",
+        "name": "Działalność związana z zakwaterowaniem i usługami gastronomicznymi"
+    },
+    {
+        "symbol": "J",
+        "name": "Informacja i komunikacja"
+    },
+    {
+        "symbol": "K",
+        "name": "Działalność finansowa i ubezpieczeniowa"
+    },
+    {
+        "symbol": "L",
+        "name": "Działalność związana z obsługą rynku nieruchomości"
+    },
+    {
+        "symbol": "M",
+        "name": "Działalność profesjonalna, naukowa i techniczna"
+    },
+    {
+        "symbol": "N",
+        "name": "Działalność w zakresie usług administrowania i działalność wspierająca"
+    },
+    {
+        "symbol": "O",
+        "name": "Administracja publiczna i obrona narodowa; obowiązkowe zabezpieczenia społeczne"
+    },
+    {
+        "symbol": "P",
+        "name": "Edukacja"
+    },
+    {
+        "symbol": "Q",
+        "name": "Opieka zdrowotna i pomoc społeczna"
+    },
+    {
+        "symbol": "R",
+        "name": "Działalność związana z kulturą, rozrywką i rekreacją"
+    },
+    {
+        "symbol": "S",
+        "name": "Pozostała działalność usługowa"
+    },
+    {
+        "symbol": "T",
+        "name": "Gospodarstwa domowe zatrudniające pracowników; gospodarstwa domowe produkujące wyroby i świadczące usługi na własne potrzeby"
+    },
+    {
+        "symbol": "U",
+        "name": "Organizacje i zespoły eksterytorialne"
+    }
+]
