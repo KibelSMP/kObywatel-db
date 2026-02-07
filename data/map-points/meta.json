@@ -4,7 +4,7 @@
         "unitsPerPixel": 4,
         "origin": "center",
         "note": "Współrzędne punktów wyrażone w metrach względem środka mapy (0,0 = środek). Używamy osi X (poziomo) i Z (pion).",
-        "updatedAt": "2025-09-25T15:17:47.050Z"
+        "updatedAt": "2026-02-07T12:17:54.000Z"
     },
     "categories": {
         "miasto_duze": {
@@ -22,8 +22,7 @@
         "metro": {
             "label": "Metro",
             "color": "#8b5cf6"
-        }
-        ,
+        },
         "airport": {
             "label": "Lotnisko",
             "color": "#38bdf8"

@@ -4742,7 +4742,7 @@
     "z": -90
   },
   {
-    "id": "spawnowice_piatka_1",
+    "id": "spawnowice_szostka_1",
     "product": {
       "item": "firework_rocket",
       "qty": 10,
@@ -4756,15 +4756,15 @@
       "name": "Kibelion",
       "nameEn": "Kibelion"
     },
-    "storeName": "Piątka+",
+    "storeName": "Szóstka",
     "storeLocation": "Spawnowice",
     "storeOwner": "Miersetnik",
-    "x": -64,
+    "x": -247,
     "y": 67,
-    "z": -74
+    "z": -78
   },
   {
-    "id": "spawnowice_piatka_2",
+    "id": "spawnowice_szostka_2",
     "product": {
       "item": "firework_rocket",
       "qty": 21,
@@ -4778,15 +4778,15 @@
       "name": "Kibelion",
       "nameEn": "Kibelion"
     },
-    "storeName": "Piątka+",
+    "storeName": "Szóstka",
     "storeLocation": "Spawnowice",
     "storeOwner": "Miersetnik",
-    "x": -64,
+    "x": -247,
     "y": 67,
-    "z": -74
+    "z": -78
   },
   {
-    "id": "spawnowice_piatka_3",
+    "id": "spawnowice_szostka_3",
     "product": {
       "item": "firework_rocket",
       "qty": 32,
@@ -4800,12 +4800,12 @@
       "name": "Kibelion",
       "nameEn": "Kibelion"
     },
-    "storeName": "Piątka+",
+    "storeName": "Szóstka",
     "storeLocation": "Spawnowice",
     "storeOwner": "Miersetnik",
-    "x": -64,
+    "x": -247,
     "y": 67,
-    "z": -74
+    "z": -78
   },
   {
     "id": "spawnowice_farmaceutka_1",

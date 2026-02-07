@@ -1,0 +1,19 @@
+[
+    {
+        "name": "CYFRA Sp. z o.o.",
+        "symbols": ["M"],
+        "knip": 20070226010,
+        "registrar_kesel": 55475590,
+        "location": {
+            "coordinates": {
+                "x": 178,
+                "y": 34
+            },
+            "address": {
+                "street": "al. Mikolska 1/15",
+                "city": "Spawnowice",
+                "voivodeship": "Międzyrzeckie"
+            }
+        }
+    }
+]
