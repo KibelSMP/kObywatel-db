@@ -1,7 +1,14 @@
 [
     {
         "name": "CYFRA Sp. z o.o.",
-        "symbols": ["M"],
+        "symbols": [
+            "C",
+            "H",
+            "J",
+            "M",
+            "N",
+            "U"
+        ],
         "knip": 20070226010,
         "registrar_kesel": 55475590,
         "location": {
@@ -11,6 +18,84 @@
             },
             "address": {
                 "street": "al. Mikolska 1/15",
+                "city": "Spawnowice",
+                "voivodeship": "Międzyrzeckie"
+            }
+        }
+    },
+    {
+        "name": "TwardTill",
+        "symbols": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J",
+            "K",
+            "L",
+            "M",
+            "N",
+            "P",
+            "Q",
+            "R",
+            "S",
+            "T",
+            "U"
+        ],
+        "knip": 20080226011,
+        "registrar_kesel": 85188527,
+        "location": {
+            "coordinates": {
+                "x": -178,
+                "y": 34
+            },
+            "address": {
+                "street": "al. Mikolska 1",
+                "city": "Spawnowice",
+                "voivodeship": "Międzyrzeckie"
+            }
+        }
+    },
+    {
+        "name": "papaja dizapir — usługi rozbiórkowe",
+        "symbols": [
+            "B",
+            "C",
+            "F"
+        ],
+        "knip": 20080226022,
+        "registrar_kesel": 56355633,
+        "location": {
+            "coordinates": {
+                "x": -2137,
+                "y": -2137
+            },
+            "address": {
+                "street": "Kaplica 2137",
+                "city": "Ziemiokoty",
+                "voivodeship": "Złowieckie"
+            }
+        }
+    },
+    {
+        "name": "Urząd Miasta Spawnowice",
+        "symbols": [
+            "O"
+        ],
+        "knip": 20080226033,
+        "registrar_kesel": 51009768,
+        "location": {
+            "coordinates": {
+                "x": -247,
+                "y": 37
+            },
+            "address": {
+                "street": "Plac Wszystkich Śniętych 1",
                 "city": "Spawnowice",
                 "voivodeship": "Międzyrzeckie"
             }
