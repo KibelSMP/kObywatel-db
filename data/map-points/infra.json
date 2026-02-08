@@ -1,3 +1,334 @@
 {
-  "points": []
+    "points": [
+        {
+            "id": "infra-flushed",
+            "name": "§§flushed§§",
+            "category": "infra",
+            "x": 2047,
+            "z": -383,
+            "description": "",
+            "tags": [],
+            "hidden": false
+        },
+        {
+            "id": "infra-ciesnina-darndanele",
+            "name": "Cieśnina DARNdanele",
+            "category": "infra",
+            "x": 181,
+            "z": 346,
+            "description": "",
+            "tags": [],
+            "hidden": false
+        },
+        {
+            "id": "infra-expiarka-allayow",
+            "name": "Expiarka Allay'ów",
+            "category": "infra",
+            "x": -122,
+            "z": -265,
+            "description": "",
+            "tags": [],
+            "hidden": false
+        },
+        {
+            "id": "infra-expiarka-szkieletow-i-pajakow",
+            "name": "Expiarka Szkieletów i Pająków",
+            "category": "infra",
+            "x": -896,
+            "z": 152,
+            "description": "",
+            "tags": [],
+            "hidden": false
+        },
+        {
+            "id": "infra-expiarka-zombie",
+            "name": "Expiarka Zombie",
+            "category": "infra",
+            "x": -749,
+            "z": 341,
+            "description": "",
+            "tags": [],
+            "hidden": false
+        },
+        {
+            "id": "infra-farma-creeperow",
+            "name": "Farma Creeperów",
+            "category": "infra",
+            "x": 952,
+            "z": 2768,
+            "description": "",
+            "tags": [],
+            "hidden": false
+        },
+        {
+            "id": "infra-farma-guardianow",
+            "name": "Farma Guardianów",
+            "category": "infra",
+            "x": 2784,
+            "z": -368,
+            "description": "",
+            "tags": [],
+            "hidden": false
+        },
+        {
+            "id": "infra-farma-guardianow-2",
+            "name": "Farma Guardianów #2",
+            "category": "infra",
+            "x": 3407,
+            "z": -2321,
+            "description": "",
+            "tags": [],
+            "hidden": false
+        },
+        {
+            "id": "infra-farma-koralowca",
+            "name": "Farma Koralowca",
+            "category": "infra",
+            "x": -1571,
+            "z": -2755,
+            "description": "",
+            "tags": [],
+            "hidden": false
+        },
+        {
+            "id": "infra-farma-prochu-2",
+            "name": "Farma prochu 2",
+            "category": "infra",
+            "x": -1562,
+            "z": -2756,
+            "description": "",
+            "tags": [],
+            "hidden": false
+        },
+        {
+            "id": "infra-farma-rajdow-ominous-bottle",
+            "name": "Farma Rajdów + Ominous Bottle",
+            "category": "infra",
+            "x": -2295,
+            "z": -1877,
+            "description": "",
+            "tags": [],
+            "hidden": false
+        },
+        {
+            "id": "infra-farma-slajmow",
+            "name": "Farma Slajmów",
+            "category": "infra",
+            "x": -2626,
+            "z": 1004,
+            "description": "",
+            "tags": [],
+            "hidden": false
+        },
+        {
+            "id": "infra-farma-zelaza",
+            "name": "Farma Żelaza",
+            "category": "infra",
+            "x": 575,
+            "z": 2780,
+            "description": "",
+            "tags": [],
+            "hidden": false
+        },
+        {
+            "id": "infra-farma-zywicy",
+            "name": "Farma Żywicy",
+            "category": "infra",
+            "x": -607,
+            "z": 407,
+            "description": "",
+            "tags": [],
+            "hidden": false
+        },
+        {
+            "id": "infra-kana-la-dzbansz",
+            "name": "Kanał La Dzbansz",
+            "category": "infra",
+            "x": 1481,
+            "z": 1093,
+            "description": "",
+            "tags": [],
+            "hidden": false
+        },
+        {
+            "id": "infra-kana-papajski",
+            "name": "Kanał papajski",
+            "category": "infra",
+            "x": -1573,
+            "z": -1162,
+            "description": "",
+            "tags": [],
+            "hidden": false
+        },
+        {
+            "id": "infra-kana-suski",
+            "name": "Kanał Suski",
+            "category": "infra",
+            "x": -235,
+            "z": 367,
+            "description": "",
+            "tags": [],
+            "hidden": false
+        },
+        {
+            "id": "infra-kopalnia-kalcytu-n-postaranie",
+            "name": "Kopalnia Kalcytu \"N. Postaranie\"",
+            "category": "infra",
+            "x": 2549,
+            "z": -4099,
+            "description": "",
+            "tags": [],
+            "hidden": false
+        },
+        {
+            "id": "infra-kopalnia-piachu-kekatow",
+            "name": "Kopalnia Piachu \"Kekałtów\"",
+            "category": "infra",
+            "x": 946,
+            "z": -1105,
+            "description": "",
+            "tags": [],
+            "hidden": false
+        },
+        {
+            "id": "infra-kopalnia-terakoty-ziemiokoty",
+            "name": "Kopalnia Terakoty \"Ziemiokoty\"",
+            "category": "infra",
+            "x": -2384,
+            "z": -2162,
+            "description": "",
+            "tags": [],
+            "hidden": false
+        },
+        {
+            "id": "infra-mostor",
+            "name": "MOSTOR",
+            "category": "infra",
+            "x": 3473,
+            "z": 3795,
+            "description": "",
+            "tags": [],
+            "hidden": false
+        },
+        {
+            "id": "infra-portal-end-bordalowice",
+            "name": "Portal END \"Bordalowice\"",
+            "category": "infra",
+            "x": 814,
+            "z": 1655,
+            "description": "",
+            "tags": [],
+            "hidden": false
+        },
+        {
+            "id": "infra-portal-end-endowice",
+            "name": "Portal END \"Endowice\"",
+            "category": "infra",
+            "x": 4189,
+            "z": 2178,
+            "description": "",
+            "tags": [],
+            "hidden": false
+        },
+        {
+            "id": "infra-portal-end-endzin",
+            "name": "Portal END \"Endzin\"",
+            "category": "infra",
+            "x": -3921,
+            "z": 2557,
+            "description": "",
+            "tags": [],
+            "hidden": false
+        },
+        {
+            "id": "infra-portal-end-miedzyrzecze",
+            "name": "Portal END \"Międzyrzecze\"",
+            "category": "infra",
+            "x": -2091,
+            "z": -54,
+            "description": "",
+            "tags": [],
+            "hidden": false
+        },
+        {
+            "id": "infra-portal-end-piramidowiec",
+            "name": "Portal END \"Piramidowiec\"",
+            "category": "infra",
+            "x": 1431,
+            "z": -2152,
+            "description": "",
+            "tags": [],
+            "hidden": false
+        },
+        {
+            "id": "infra-przejscie-na-dach-netheru",
+            "name": "Przejście na dach Netheru",
+            "category": "infra",
+            "x": -914,
+            "z": 110,
+            "description": "",
+            "tags": [],
+            "hidden": false
+        },
+        {
+            "id": "infra-rajd-farma---czesc-gowna",
+            "name": "Rajd Farma - część główna",
+            "category": "infra",
+            "x": 1854,
+            "z": -1470,
+            "description": "",
+            "tags": [],
+            "hidden": false
+        },
+        {
+            "id": "infra-rajd-farma--bad-omen",
+            "name": "Rajd Farma- Bad Omen",
+            "category": "infra",
+            "x": 1721,
+            "z": -969,
+            "description": "",
+            "tags": [],
+            "hidden": false
+        },
+        {
+            "id": "infra-tor-wyscigowy",
+            "name": "Tor Wyścigowy",
+            "category": "infra",
+            "x": 756,
+            "z": 2384,
+            "description": "",
+            "tags": [],
+            "hidden": false
+        },
+        {
+            "id": "infra-wielki-squid",
+            "name": "Wielki Squid",
+            "category": "infra",
+            "x": -3024,
+            "z": -2868,
+            "description": "",
+            "tags": [],
+            "hidden": false
+        },
+        {
+            "id": "infra-zakad-karyny",
+            "name": "Zakład Karyny",
+            "category": "infra",
+            "x": -2956,
+            "z": -2936,
+            "description": "",
+            "tags": [],
+            "hidden": false
+        },
+        {
+            "id": "infra-zwirownia-zwirow-muchomorow",
+            "name": "Żwirownia \"Żwirow & Muchomorow\"",
+            "category": "infra",
+            "x": 2041,
+            "z": 3791,
+            "description": "",
+            "tags": [],
+            "hidden": false
+        }
+    ]
 }
