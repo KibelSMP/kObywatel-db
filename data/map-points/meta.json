@@ -15,6 +15,10 @@
             "label": "Mała miejscowość",
             "color": "#ff9e4d"
         },
+        "infra" : {
+            "label": "Użyteczność publiczna",
+            "color": "#4d94ff"
+        },
         "kolej": {
             "label": "Stacje",
             "color": "#10b981"
