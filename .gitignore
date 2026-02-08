@@ -1,2 +1,3 @@
 .DS_Store
-*.kobcomreg
+/kobcomreg
+/temporary_scripts

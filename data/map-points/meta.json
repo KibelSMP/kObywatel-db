@@ -26,6 +26,10 @@
         "airport": {
             "label": "Lotnisko",
             "color": "#38bdf8"
+        },
+        "gracz": {
+            "label": "Gracz",
+            "color": "#fbbf24"
         }
     },
     "points": [

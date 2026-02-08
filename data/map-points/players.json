@@ -1,0 +1,1646 @@
+{
+  "points": [
+    {
+      "id": "player-01896363",
+      "name": "01896363",
+      "category": "gracz",
+      "x": -2540,
+      "z": -867,
+      "description": "Woj.: Grzegórzeckie",
+      "tags": [
+        "woj:Grzegórzeckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-02844479",
+      "name": "02844479",
+      "category": "gracz",
+      "x": -772,
+      "z": -1010,
+      "description": "Woj.: Wielkokabaczckie, Miasto: Polanica",
+      "tags": [
+        "woj:Wielkokabaczckie",
+        "miasto:Polanica"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-04352857",
+      "name": "04352857",
+      "category": "gracz",
+      "x": 15,
+      "z": 2579,
+      "description": "Woj.: Międzyrzeckie",
+      "tags": [
+        "woj:Międzyrzeckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-05652053",
+      "name": "05652053",
+      "category": "gracz",
+      "x": -854,
+      "z": 616,
+      "description": "Woj.: Międzyrzeckie, Miasto: Śrym",
+      "tags": [
+        "woj:Międzyrzeckie",
+        "miasto:Śrym"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-06363019",
+      "name": "06363019",
+      "category": "gracz",
+      "x": -519,
+      "z": 1083,
+      "description": "Woj.: Międzyrzeckie",
+      "tags": [
+        "woj:Międzyrzeckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-11866923",
+      "name": "11866923",
+      "category": "gracz",
+      "x": 1130,
+      "z": -1102,
+      "description": "Woj.: Suchomeskie, Miasto: Kekałtów",
+      "tags": [
+        "woj:Suchomeskie",
+        "miasto:Kekałtów"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-12136227",
+      "name": "12136227",
+      "category": "gracz",
+      "x": -1330,
+      "z": -677,
+      "description": "Woj.: Wielkokabaczckie",
+      "tags": [
+        "woj:Wielkokabaczckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-12603361",
+      "name": "12603361",
+      "category": "gracz",
+      "x": -192,
+      "z": 1586,
+      "description": "Woj.: Międzyrzeckie",
+      "tags": [
+        "woj:Międzyrzeckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-12608209",
+      "name": "12608209",
+      "category": "gracz",
+      "x": 1835,
+      "z": -2983,
+      "description": "Woj.: Somsiedzkie, Miasto: Tomhetowo Wookskie",
+      "tags": [
+        "woj:Somsiedzkie",
+        "miasto:Tomhetowo Wookskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-13405069",
+      "name": "13405069",
+      "category": "gracz",
+      "x": 627,
+      "z": 1995,
+      "description": "Woj.: Międzywódzkie",
+      "tags": [
+        "woj:Międzywódzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-13911364",
+      "name": "13911364",
+      "category": "gracz",
+      "x": 360,
+      "z": -540,
+      "description": "Woj.: Wyspy Niepodległe Województwom",
+      "tags": [
+        "woj:Wyspy Niepodległe Województwom"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-15073444",
+      "name": "15073444",
+      "category": "gracz",
+      "x": 2303,
+      "z": -3741,
+      "description": "Woj.: Somsiedzkie, Miasto: Leoben",
+      "tags": [
+        "woj:Somsiedzkie",
+        "miasto:Leoben"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-15293774",
+      "name": "15293774",
+      "category": "gracz",
+      "x": 3782,
+      "z": 1516,
+      "description": "Woj.: Pyrskie, Miasto: Norsk",
+      "tags": [
+        "woj:Pyrskie",
+        "miasto:Norsk"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-16213496",
+      "name": "16213496",
+      "category": "gracz",
+      "x": 464,
+      "z": 1292,
+      "description": "Woj.: Międzywódzkie",
+      "tags": [
+        "woj:Międzywódzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-16303261",
+      "name": "16303261",
+      "category": "gracz",
+      "x": -4223,
+      "z": 230,
+      "description": "Woj.: Grzegórzeckie",
+      "tags": [
+        "woj:Grzegórzeckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-17565419",
+      "name": "17565419",
+      "category": "gracz",
+      "x": -3419,
+      "z": -4043,
+      "description": "Woj.: Złowieckie, Miasto: Przedmorze",
+      "tags": [
+        "woj:Złowieckie",
+        "miasto:Przedmorze"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-20729291",
+      "name": "20729291",
+      "category": "gracz",
+      "x": -1847,
+      "z": -2490,
+      "description": "Woj.: Złowieckie",
+      "tags": [
+        "woj:Złowieckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-21133022",
+      "name": "21133022",
+      "category": "gracz",
+      "x": 494,
+      "z": -947,
+      "description": "Woj.: Wielkokabaczckie, Miasto: Pawłogród",
+      "tags": [
+        "woj:Wielkokabaczckie",
+        "miasto:Pawłogród"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-21635513",
+      "name": "21635513",
+      "category": "gracz",
+      "x": 1131,
+      "z": -1102,
+      "description": "Woj.: Suchomeskie, Miasto: Kekałtów",
+      "tags": [
+        "woj:Suchomeskie",
+        "miasto:Kekałtów"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-22332260",
+      "name": "22332260",
+      "category": "gracz",
+      "x": 2952,
+      "z": -1639,
+      "description": "Woj.: Kresowickie, Miasto: Borg Cube",
+      "tags": [
+        "woj:Kresowickie",
+        "miasto:Borg Cube"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-23199633",
+      "name": "23199633",
+      "category": "gracz",
+      "x": -2704,
+      "z": 1524,
+      "description": "Woj.: Zasiedmiogórskie, Miasto: Zagłębie Dziury",
+      "tags": [
+        "woj:Zasiedmiogórskie",
+        "miasto:Zagłębie Dziury"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-23751626",
+      "name": "23751626",
+      "category": "gracz",
+      "x": -1412,
+      "z": -873,
+      "description": "Woj.: Wielkokabaczckie",
+      "tags": [
+        "woj:Wielkokabaczckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-24132417",
+      "name": "24132417",
+      "category": "gracz",
+      "x": 1667,
+      "z": 1829,
+      "description": "Woj.: Bideckie",
+      "tags": [
+        "woj:Bideckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-24206329",
+      "name": "24206329",
+      "category": "gracz",
+      "x": 281,
+      "z": 1276,
+      "description": "Woj.: Międzywódzkie, Miasto: Promno",
+      "tags": [
+        "woj:Międzywódzkie",
+        "miasto:Promno"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-24375405",
+      "name": "24375405",
+      "category": "gracz",
+      "x": -120,
+      "z": 839,
+      "description": "Woj.: Międzyrzeckie",
+      "tags": [
+        "woj:Międzyrzeckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-24421351",
+      "name": "24421351",
+      "category": "gracz",
+      "x": 3625,
+      "z": -3762,
+      "description": "Woj.: Somsiedzkie, Miasto: Piastów",
+      "tags": [
+        "woj:Somsiedzkie",
+        "miasto:Piastów"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-24658948",
+      "name": "24658948",
+      "category": "gracz",
+      "x": 1510,
+      "z": 1915,
+      "description": "Woj.: Bideckie, Miasto: Perkelin",
+      "tags": [
+        "woj:Bideckie",
+        "miasto:Perkelin"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-25404869",
+      "name": "25404869",
+      "category": "gracz",
+      "x": 2218,
+      "z": -4248,
+      "description": "Woj.: Somsiedzkie, Miasto: Bromberg",
+      "tags": [
+        "woj:Somsiedzkie",
+        "miasto:Bromberg"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-25466148",
+      "name": "25466148",
+      "category": "gracz",
+      "x": 2450,
+      "z": 2899,
+      "description": "Woj.: Pyrskie, Miasto: Szwajcarska Dolina",
+      "tags": [
+        "woj:Pyrskie",
+        "miasto:Szwajcarska Dolina"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-25726406",
+      "name": "25726406",
+      "category": "gracz",
+      "x": 1585,
+      "z": 599,
+      "description": "Woj.: Brzóskie",
+      "tags": [
+        "woj:Brzóskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-26235345",
+      "name": "26235345",
+      "category": "gracz",
+      "x": -2298,
+      "z": 2269,
+      "description": "Woj.: Zasiedmiogórskie",
+      "tags": [
+        "woj:Zasiedmiogórskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-26257822",
+      "name": "26257822",
+      "category": "gracz",
+      "x": 1165,
+      "z": -4179,
+      "description": "Woj.: Somsiedzkie, Miasto: Krindżawa",
+      "tags": [
+        "woj:Somsiedzkie",
+        "miasto:Krindżawa"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-26651437",
+      "name": "26651437",
+      "category": "gracz",
+      "x": -559,
+      "z": 1659,
+      "description": "Woj.: Międzyrzeckie",
+      "tags": [
+        "woj:Międzyrzeckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-26682475",
+      "name": "26682475",
+      "category": "gracz",
+      "x": -513,
+      "z": 1870,
+      "description": "Woj.: Międzyrzeckie",
+      "tags": [
+        "woj:Międzyrzeckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-27086553",
+      "name": "27086553",
+      "category": "gracz",
+      "x": -413,
+      "z": -933,
+      "description": "Woj.: Wielkokabaczckie",
+      "tags": [
+        "woj:Wielkokabaczckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-30243158",
+      "name": "30243158",
+      "category": "gracz",
+      "x": 780,
+      "z": 3180,
+      "description": "Woj.: Kampinowskie, Miasto: Bregovice",
+      "tags": [
+        "woj:Kampinowskie",
+        "miasto:Bregovice"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-32043664",
+      "name": "32043664",
+      "category": "gracz",
+      "x": 2545,
+      "z": 2689,
+      "description": "Woj.: Pyrskie",
+      "tags": [
+        "woj:Pyrskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-32365481",
+      "name": "32365481",
+      "category": "gracz",
+      "x": 3736,
+      "z": 3953,
+      "description": "Woj.: Pyrskie",
+      "tags": [
+        "woj:Pyrskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-33249416",
+      "name": "33249416",
+      "category": "gracz",
+      "x": 2912,
+      "z": -1008,
+      "description": "Woj.: Kresowickie, Miasto: Zgagóra",
+      "tags": [
+        "woj:Kresowickie",
+        "miasto:Zgagóra"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-33388511",
+      "name": "33388511",
+      "category": "gracz",
+      "x": 2233,
+      "z": 1684,
+      "description": "Woj.: Bideckie, Miasto: Bida z Nędzą",
+      "tags": [
+        "woj:Bideckie",
+        "miasto:Bida z Nędzą"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-33536909",
+      "name": "33536909",
+      "category": "gracz",
+      "x": 1174,
+      "z": -2377,
+      "description": "Woj.: Suchomeskie",
+      "tags": [
+        "woj:Suchomeskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-33563022",
+      "name": "33563022",
+      "category": "gracz",
+      "x": 2740,
+      "z": 1879,
+      "description": "Woj.: Bideckie, Miasto: Różewo",
+      "tags": [
+        "woj:Bideckie",
+        "miasto:Różewo"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-34046322",
+      "name": "34046322",
+      "category": "gracz",
+      "x": 1747,
+      "z": -1431,
+      "description": "Woj.: Suchomeskie, Miasto: Nowa Paqownia",
+      "tags": [
+        "woj:Suchomeskie",
+        "miasto:Nowa Paqownia"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-34233588",
+      "name": "34233588",
+      "category": "gracz",
+      "x": 435,
+      "z": 1756,
+      "description": "Woj.: Międzywódzkie",
+      "tags": [
+        "woj:Międzywódzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-34727610",
+      "name": "34727610",
+      "category": "gracz",
+      "x": -1100,
+      "z": 1581,
+      "description": "Woj.: Międzyrzeckie",
+      "tags": [
+        "woj:Międzyrzeckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-36423132",
+      "name": "36423132",
+      "category": "gracz",
+      "x": 1753,
+      "z": 1736,
+      "description": "Woj.: Bideckie, Miasto: Kanarowice",
+      "tags": [
+        "woj:Bideckie",
+        "miasto:Kanarowice"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-37921439",
+      "name": "37921439",
+      "category": "gracz",
+      "x": -2960,
+      "z": 1027,
+      "description": "Woj.: Wyspy Niepodległe Województwom",
+      "tags": [
+        "woj:Wyspy Niepodległe Województwom"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-38774863",
+      "name": "38774863",
+      "category": "gracz",
+      "x": -517,
+      "z": -266,
+      "description": "Woj.: Wielkokabaczckie",
+      "tags": [
+        "woj:Wielkokabaczckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-41460139",
+      "name": "41460139",
+      "category": "gracz",
+      "x": 2141,
+      "z": 2083,
+      "description": "Woj.: Bideckie",
+      "tags": [
+        "woj:Bideckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-42485788",
+      "name": "42485788",
+      "category": "gracz",
+      "x": 116,
+      "z": 243,
+      "description": "Woj.: Międzyrzeckie",
+      "tags": [
+        "woj:Międzyrzeckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-43599426",
+      "name": "43599426",
+      "category": "gracz",
+      "x": -2839,
+      "z": 2980,
+      "description": "Woj.: Zasiedmiogórskie",
+      "tags": [
+        "woj:Zasiedmiogórskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-43926341",
+      "name": "43926341",
+      "category": "gracz",
+      "x": 1859,
+      "z": 2040,
+      "description": "Woj.: Wyspy Niepodległe Województwom",
+      "tags": [
+        "woj:Wyspy Niepodległe Województwom"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-44014340",
+      "name": "44014340",
+      "category": "gracz",
+      "x": 2180,
+      "z": 2801,
+      "description": "Woj.: Pyrskie",
+      "tags": [
+        "woj:Pyrskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-44313690",
+      "name": "44313690",
+      "category": "gracz",
+      "x": -2917,
+      "z": 2065,
+      "description": "Woj.: Zasiedmiogórskie",
+      "tags": [
+        "woj:Zasiedmiogórskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-44366261",
+      "name": "44366261",
+      "category": "gracz",
+      "x": -1950,
+      "z": 2670,
+      "description": "Woj.: Zasiedmiogórskie",
+      "tags": [
+        "woj:Zasiedmiogórskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-44540007",
+      "name": "44540007",
+      "category": "gracz",
+      "x": -699,
+      "z": 201,
+      "description": "Woj.: Międzyrzeckie, Miasto: Nilplep",
+      "tags": [
+        "woj:Międzyrzeckie",
+        "miasto:Nilplep"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-44662697",
+      "name": "44662697",
+      "category": "gracz",
+      "x": -870,
+      "z": -1282,
+      "description": "Woj.: Wielkokabaczckie",
+      "tags": [
+        "woj:Wielkokabaczckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-45112968",
+      "name": "45112968",
+      "category": "gracz",
+      "x": -968,
+      "z": -1852,
+      "description": "Woj.: Wielkokabaczckie",
+      "tags": [
+        "woj:Wielkokabaczckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-45154414",
+      "name": "45154414",
+      "category": "gracz",
+      "x": 1095,
+      "z": 4068,
+      "description": "Woj.: Kampinowskie, Miasto: Dzbanszynek",
+      "tags": [
+        "woj:Kampinowskie",
+        "miasto:Dzbanszynek"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-45186622",
+      "name": "45186622",
+      "category": "gracz",
+      "x": -1848,
+      "z": -1279,
+      "description": "Woj.: Wielkokabaczckie, Miasto: Góra Duji",
+      "tags": [
+        "woj:Wielkokabaczckie",
+        "miasto:Góra Duji"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-45501690",
+      "name": "45501690",
+      "category": "gracz",
+      "x": -1427,
+      "z": -2457,
+      "description": "Woj.: Złowieckie",
+      "tags": [
+        "woj:Złowieckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-45553541",
+      "name": "45553541",
+      "category": "gracz",
+      "x": -3246,
+      "z": -2555,
+      "description": "Woj.: Złowieckie",
+      "tags": [
+        "woj:Złowieckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-45711660",
+      "name": "45711660",
+      "category": "gracz",
+      "x": -632,
+      "z": -1889,
+      "description": "Woj.: Wielkokabaczckie, Miasto: Łachowo",
+      "tags": [
+        "woj:Wielkokabaczckie",
+        "miasto:Łachowo"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-45741405",
+      "name": "45741405",
+      "category": "gracz",
+      "x": -1769,
+      "z": -2474,
+      "description": "Woj.: Złowieckie",
+      "tags": [
+        "woj:Złowieckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-45921427",
+      "name": "45921427",
+      "category": "gracz",
+      "x": 204,
+      "z": 875,
+      "description": "Woj.: Międzyrzeckie",
+      "tags": [
+        "woj:Międzyrzeckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-46164348",
+      "name": "46164348",
+      "category": "gracz",
+      "x": 295,
+      "z": -3985,
+      "description": "Woj.: Somsiedzkie, Miasto: Rozkopane",
+      "tags": [
+        "woj:Somsiedzkie",
+        "miasto:Rozkopane"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-46476298",
+      "name": "46476298",
+      "category": "gracz",
+      "x": 1129,
+      "z": -1102,
+      "description": "Woj.: Suchomeskie, Miasto: Kekałtów",
+      "tags": [
+        "woj:Suchomeskie",
+        "miasto:Kekałtów"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-46765110",
+      "name": "46765110",
+      "category": "gracz",
+      "x": 3454,
+      "z": 3381,
+      "description": "Woj.: Pyrskie, Miasto: Niewimsk",
+      "tags": [
+        "woj:Pyrskie",
+        "miasto:Niewimsk"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-47446904",
+      "name": "47446904",
+      "category": "gracz",
+      "x": -2954,
+      "z": 1307,
+      "description": "Woj.: Zasiedmiogórskie, Miasto: Granice Zachodnie",
+      "tags": [
+        "woj:Zasiedmiogórskie",
+        "miasto:Granice Zachodnie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-48401647",
+      "name": "48401647",
+      "category": "gracz",
+      "x": -2323,
+      "z": -1147,
+      "description": "Woj.: Wielkokabaczckie, Miasto: Kiszenie-Zdrój",
+      "tags": [
+        "woj:Wielkokabaczckie",
+        "miasto:Kiszenie-Zdrój"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-48413549",
+      "name": "48413549",
+      "category": "gracz",
+      "x": 773,
+      "z": 2119,
+      "description": "Woj.: Międzywódzkie",
+      "tags": [
+        "woj:Międzywódzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-50442038",
+      "name": "50442038",
+      "category": "gracz",
+      "x": -92,
+      "z": 290,
+      "description": "Woj.: Międzyrzeckie",
+      "tags": [
+        "woj:Międzyrzeckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-50806672",
+      "name": "50806672",
+      "category": "gracz",
+      "x": 73,
+      "z": -2836,
+      "description": "Woj.: Somsiedzkie, Miasto: Zamesie",
+      "tags": [
+        "woj:Somsiedzkie",
+        "miasto:Zamesie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-50923223",
+      "name": "50923223",
+      "category": "gracz",
+      "x": -2531,
+      "z": -430,
+      "description": "Woj.: Grzegórzeckie, Miasto: Wilkowyje",
+      "tags": [
+        "woj:Grzegórzeckie",
+        "miasto:Wilkowyje"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-51009768",
+      "name": "51009768",
+      "category": "gracz",
+      "x": 3600,
+      "z": -4360,
+      "description": "Woj.: Somsiedzkie, Miasto: Wiśniówka",
+      "tags": [
+        "woj:Somsiedzkie",
+        "miasto:Wiśniówka"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-52288038",
+      "name": "52288038",
+      "category": "gracz",
+      "x": 2082,
+      "z": 1669,
+      "description": "Woj.: Bideckie",
+      "tags": [
+        "woj:Bideckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-52402654",
+      "name": "52402654",
+      "category": "gracz",
+      "x": -2815,
+      "z": 3169,
+      "description": "Woj.: Zasiedmiogórskie",
+      "tags": [
+        "woj:Zasiedmiogórskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-52567937",
+      "name": "52567937",
+      "category": "gracz",
+      "x": -1331,
+      "z": -676,
+      "description": "Woj.: Wielkokabaczckie",
+      "tags": [
+        "woj:Wielkokabaczckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-53651246",
+      "name": "53651246",
+      "category": "gracz",
+      "x": -1003,
+      "z": -2179,
+      "description": "Woj.: Wielkokabaczckie, Miasto: Sztetin",
+      "tags": [
+        "woj:Wielkokabaczckie",
+        "miasto:Sztetin"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-54133455",
+      "name": "54133455",
+      "category": "gracz",
+      "x": -1860,
+      "z": 1463,
+      "description": "Woj.: Międzyrzeckie, Miasto: Góra Skryciulska",
+      "tags": [
+        "woj:Międzyrzeckie",
+        "miasto:Góra Skryciulska"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-54665950",
+      "name": "54665950",
+      "category": "gracz",
+      "x": 38,
+      "z": 1374,
+      "description": "Woj.: Międzyrzeckie",
+      "tags": [
+        "woj:Międzyrzeckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-54794223",
+      "name": "54794223",
+      "category": "gracz",
+      "x": -3737,
+      "z": -2444,
+      "description": "Woj.: Złowieckie, Miasto: Bartnice",
+      "tags": [
+        "woj:Złowieckie",
+        "miasto:Bartnice"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-55271460",
+      "name": "55271460",
+      "category": "gracz",
+      "x": -699,
+      "z": 199,
+      "description": "Woj.: Międzyrzeckie, Miasto: Nilplep",
+      "tags": [
+        "woj:Międzyrzeckie",
+        "miasto:Nilplep"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-55475590",
+      "name": "55475590",
+      "category": "gracz",
+      "x": -532,
+      "z": -771,
+      "description": "Woj.: Wielkokabaczckie, Miasto: Mirczyce-Zdrój",
+      "tags": [
+        "woj:Wielkokabaczckie",
+        "miasto:Mirczyce-Zdrój"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-55667447",
+      "name": "55667447",
+      "category": "gracz",
+      "x": 1128,
+      "z": -1102,
+      "description": "Woj.: Suchomeskie, Miasto: Kekałtów",
+      "tags": [
+        "woj:Suchomeskie",
+        "miasto:Kekałtów"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-55725622",
+      "name": "55725622",
+      "category": "gracz",
+      "x": 1437,
+      "z": 1585,
+      "description": "Woj.: Międzywódzkie, Miasto: Rudowice",
+      "tags": [
+        "woj:Międzywódzkie",
+        "miasto:Rudowice"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-56355633",
+      "name": "56355633",
+      "category": "gracz",
+      "x": -1817,
+      "z": -1022,
+      "description": "Woj.: Wielkokabaczckie, Miasto: Papaje",
+      "tags": [
+        "woj:Wielkokabaczckie",
+        "miasto:Papaje"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-56581207",
+      "name": "56581207",
+      "category": "gracz",
+      "x": -2510,
+      "z": 1790,
+      "description": "Woj.: Zasiedmiogórskie, Miasto: Kaźmirz Dolny",
+      "tags": [
+        "woj:Zasiedmiogórskie",
+        "miasto:Kaźmirz Dolny"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-58682447",
+      "name": "58682447",
+      "category": "gracz",
+      "x": -2649,
+      "z": 292,
+      "description": "Woj.: Grzegórzeckie, Miasto: Baraharad Bór",
+      "tags": [
+        "woj:Grzegórzeckie",
+        "miasto:Baraharad Bór"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-59589231",
+      "name": "59589231",
+      "category": "gracz",
+      "x": -412,
+      "z": -417,
+      "description": "Woj.: Wielkokabaczckie, Miasto: Gorzyca",
+      "tags": [
+        "woj:Wielkokabaczckie",
+        "miasto:Gorzyca"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-60123350",
+      "name": "60123350",
+      "category": "gracz",
+      "x": -320,
+      "z": -1250,
+      "description": "Woj.: Wielkokabaczckie, Miasto: Rokietownik",
+      "tags": [
+        "woj:Wielkokabaczckie",
+        "miasto:Rokietownik"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-60702106",
+      "name": "60702106",
+      "category": "gracz",
+      "x": -2189,
+      "z": 573,
+      "description": "Woj.: Międzyrzeckie, Miasto: Enkha'ganrae",
+      "tags": [
+        "woj:Międzyrzeckie",
+        "miasto:Enkha'ganrae"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-61111370",
+      "name": "61111370",
+      "category": "gracz",
+      "x": 943,
+      "z": 250,
+      "description": "Woj.: Brzóskie",
+      "tags": [
+        "woj:Brzóskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-61435469",
+      "name": "61435469",
+      "category": "gracz",
+      "x": 1470,
+      "z": -729,
+      "description": "Woj.: Suchomeskie, Miasto: Dolina Śmierdzi",
+      "tags": [
+        "woj:Suchomeskie",
+        "miasto:Dolina Śmierdzi"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-61484283",
+      "name": "61484283",
+      "category": "gracz",
+      "x": -675,
+      "z": -560,
+      "description": "Woj.: Wielkokabaczckie, Miasto: Kerfusiowo",
+      "tags": [
+        "woj:Wielkokabaczckie",
+        "miasto:Kerfusiowo"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-62463315",
+      "name": "62463315",
+      "category": "gracz",
+      "x": -3281,
+      "z": 2816,
+      "description": "Woj.: Zasiedmiogórskie, Miasto: Wklejalin",
+      "tags": [
+        "woj:Zasiedmiogórskie",
+        "miasto:Wklejalin"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-64506258",
+      "name": "64506258",
+      "category": "gracz",
+      "x": 49,
+      "z": 1752,
+      "description": "Woj.: Międzyrzeckie",
+      "tags": [
+        "woj:Międzyrzeckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-65904048",
+      "name": "65904048",
+      "category": "gracz",
+      "x": -2968,
+      "z": -612,
+      "description": "Woj.: Grzegórzeckie",
+      "tags": [
+        "woj:Grzegórzeckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-66022253",
+      "name": "66022253",
+      "category": "gracz",
+      "x": -2214,
+      "z": 2625,
+      "description": "Woj.: Zasiedmiogórskie",
+      "tags": [
+        "woj:Zasiedmiogórskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-66333214",
+      "name": "66333214",
+      "category": "gracz",
+      "x": -1376,
+      "z": 2339,
+      "description": "Woj.: Zasiedmiogórskie",
+      "tags": [
+        "woj:Zasiedmiogórskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-66754929",
+      "name": "66754929",
+      "category": "gracz",
+      "x": -3299,
+      "z": 103,
+      "description": "Woj.: Grzegórzeckie",
+      "tags": [
+        "woj:Grzegórzeckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-66771771",
+      "name": "66771771",
+      "category": "gracz",
+      "x": 201,
+      "z": 2129,
+      "description": "Woj.: Międzywódzkie, Miasto: Ryśkowice",
+      "tags": [
+        "woj:Międzywódzkie",
+        "miasto:Ryśkowice"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-67032851",
+      "name": "67032851",
+      "category": "gracz",
+      "x": 1429,
+      "z": 2830,
+      "description": "Woj.: Wyspy Niepodległe Województwom, Miasto: SERcorp",
+      "tags": [
+        "woj:Wyspy Niepodległe Województwom",
+        "miasto:SERcorp"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-67466920",
+      "name": "67466920",
+      "category": "gracz",
+      "x": 751,
+      "z": -1335,
+      "description": "Woj.: Suchomeskie",
+      "tags": [
+        "woj:Suchomeskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-67813195",
+      "name": "67813195",
+      "category": "gracz",
+      "x": 2741,
+      "z": 1879,
+      "description": "Woj.: Bideckie, Miasto: Różewo",
+      "tags": [
+        "woj:Bideckie",
+        "miasto:Różewo"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-69536100",
+      "name": "69536100",
+      "category": "gracz",
+      "x": -3680,
+      "z": -2978,
+      "description": "Woj.: Złowieckie, Miasto: Cudochujowice",
+      "tags": [
+        "woj:Złowieckie",
+        "miasto:Cudochujowice"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-69651300",
+      "name": "69651300",
+      "category": "gracz",
+      "x": 549,
+      "z": 1647,
+      "description": "Woj.: Międzywódzkie",
+      "tags": [
+        "woj:Międzywódzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-69751244",
+      "name": "69751244",
+      "category": "gracz",
+      "x": 3601,
+      "z": -4360,
+      "description": "Woj.: Somsiedzkie, Miasto: Wiśniówka",
+      "tags": [
+        "woj:Somsiedzkie",
+        "miasto:Wiśniówka"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-72165135",
+      "name": "72165135",
+      "category": "gracz",
+      "x": -702,
+      "z": 1376,
+      "description": "Woj.: Międzyrzeckie",
+      "tags": [
+        "woj:Międzyrzeckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-75149231",
+      "name": "75149231",
+      "category": "gracz",
+      "x": 1734,
+      "z": 1467,
+      "description": "Woj.: Międzywódzkie",
+      "tags": [
+        "woj:Międzywódzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-75528658",
+      "name": "75528658",
+      "category": "gracz",
+      "x": -3507,
+      "z": 1368,
+      "description": "Woj.: Grzegórzeckie, Miasto: Batmanowice",
+      "tags": [
+        "woj:Grzegórzeckie",
+        "miasto:Batmanowice"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-75652263",
+      "name": "75652263",
+      "category": "gracz",
+      "x": 1240,
+      "z": 3596,
+      "description": "Woj.: Kampinowskie, Miasto: Stawowice",
+      "tags": [
+        "woj:Kampinowskie",
+        "miasto:Stawowice"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-76120309",
+      "name": "76120309",
+      "category": "gracz",
+      "x": -197,
+      "z": -15,
+      "description": "Woj.: Międzyrzeckie, Miasto: Spawnowice",
+      "tags": [
+        "woj:Międzyrzeckie",
+        "miasto:Spawnowice"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-76514889",
+      "name": "76514889",
+      "category": "gracz",
+      "x": 2249,
+      "z": -2629,
+      "description": "Woj.: Somsiedzkie",
+      "tags": [
+        "woj:Somsiedzkie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-76701438",
+      "name": "76701438",
+      "category": "gracz",
+      "x": -1051,
+      "z": 1522,
+      "description": "Woj.: Międzyrzeckie",
+      "tags": [
+        "woj:Międzyrzeckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-82505651",
+      "name": "82505651",
+      "category": "gracz",
+      "x": 2296,
+      "z": -1099,
+      "description": "Woj.: Kresowickie, Miasto: Nowy Tasmańsk",
+      "tags": [
+        "woj:Kresowickie",
+        "miasto:Nowy Tasmańsk"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-85188527",
+      "name": "85188527",
+      "category": "gracz",
+      "x": -1110,
+      "z": -1110,
+      "description": "Woj.: Wielkokabaczckie, Miasto: Kwiecień",
+      "tags": [
+        "woj:Wielkokabaczckie",
+        "miasto:Kwiecień"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-85195109",
+      "name": "85195109",
+      "category": "gracz",
+      "x": 2584,
+      "z": -2931,
+      "description": "Woj.: Somsiedzkie, Miasto: Pledzikowo",
+      "tags": [
+        "woj:Somsiedzkie",
+        "miasto:Pledzikowo"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-85264601",
+      "name": "85264601",
+      "category": "gracz",
+      "x": -65,
+      "z": 3782,
+      "description": "Woj.: Kampinowskie, Miasto: Śmiechowice",
+      "tags": [
+        "woj:Kampinowskie",
+        "miasto:Śmiechowice"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-85772166",
+      "name": "85772166",
+      "category": "gracz",
+      "x": -699,
+      "z": 202,
+      "description": "Woj.: Międzyrzeckie, Miasto: Nilplep",
+      "tags": [
+        "woj:Międzyrzeckie",
+        "miasto:Nilplep"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-87028768",
+      "name": "87028768",
+      "category": "gracz",
+      "x": 2063,
+      "z": 464,
+      "description": "Woj.: Brzóskie, Miasto: Draków",
+      "tags": [
+        "woj:Brzóskie",
+        "miasto:Draków"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-87136533",
+      "name": "87136533",
+      "category": "gracz",
+      "x": 232,
+      "z": 1143,
+      "description": "Woj.: Międzyrzeckie",
+      "tags": [
+        "woj:Międzyrzeckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-87202414",
+      "name": "87202414",
+      "category": "gracz",
+      "x": -263,
+      "z": 288,
+      "description": "Woj.: Międzyrzeckie, Miasto: Szary Dwór",
+      "tags": [
+        "woj:Międzyrzeckie",
+        "miasto:Szary Dwór"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-92251739",
+      "name": "92251739",
+      "category": "gracz",
+      "x": -521,
+      "z": -1896,
+      "description": "Woj.: Wielkokabaczckie",
+      "tags": [
+        "woj:Wielkokabaczckie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-92321344",
+      "name": "92321344",
+      "category": "gracz",
+      "x": -3873,
+      "z": -4289,
+      "description": "Woj.: Złowieckie, Miasto: Północnik (Imprezownik)",
+      "tags": [
+        "woj:Złowieckie",
+        "miasto:Północnik (Imprezownik)"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-92882267",
+      "name": "92882267",
+      "category": "gracz",
+      "x": 190,
+      "z": 3542,
+      "description": "Woj.: Kampinowskie, Miasto: DonkCo",
+      "tags": [
+        "woj:Kampinowskie",
+        "miasto:DonkCo"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-92907311",
+      "name": "92907311",
+      "category": "gracz",
+      "x": -1569,
+      "z": -2255,
+      "description": "Woj.: Złowieckie, Miasto: Niewiedź",
+      "tags": [
+        "woj:Złowieckie",
+        "miasto:Niewiedź"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-93560058",
+      "name": "93560058",
+      "category": "gracz",
+      "x": 2905,
+      "z": 3405,
+      "description": "Woj.: Pyrskie",
+      "tags": [
+        "woj:Pyrskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-95222471",
+      "name": "95222471",
+      "category": "gracz",
+      "x": -2928,
+      "z": 86,
+      "description": "Woj.: Grzegórzeckie, Miasto: Baraharad",
+      "tags": [
+        "woj:Grzegórzeckie",
+        "miasto:Baraharad"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-95787062",
+      "name": "95787062",
+      "category": "gracz",
+      "x": 3432,
+      "z": 2008,
+      "description": "Woj.: Pyrskie",
+      "tags": [
+        "woj:Pyrskie"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-96954654",
+      "name": "96954654",
+      "category": "gracz",
+      "x": 1295,
+      "z": 1426,
+      "description": "Woj.: Międzywódzkie",
+      "tags": [
+        "woj:Międzywódzkie"
+      ],
+      "hidden": false
+    }
+  ]
+}
