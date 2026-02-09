@@ -278,13 +278,14 @@
     },
     {
       "id": "player-16303261",
-      "name": "16303261",
+      "name": "Mieciaty",
       "category": "gracz",
       "x": -4223,
       "z": 230,
-      "description": "Woj.: Grzegórzeckie",
+      "description": "Woj.: Grzegórzeckie, Miasto: Spożywin",
       "tags": [
-        "woj:Grzegórzeckie"
+        "woj:Grzegórzeckie",
+        "miasto:Spożywin"
       ],
       "hidden": false
     },
@@ -1500,7 +1501,7 @@
     },
     {
       "id": "player-56355633",
-      "name": "56355633",
+      "name": "HooeK",
       "category": "gracz",
       "x": -1817,
       "z": -1022,

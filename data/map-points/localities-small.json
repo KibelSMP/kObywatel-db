@@ -884,6 +884,19 @@
       "hidden": false
     },
     {
+      "id": "loc-spozywin",
+      "name": "Spożywin",
+      "category": "miasto_male",
+      "x": -4233,
+      "z": 246,
+      "description": "Woj.: Grzegórzeckie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Grzegórzeckie"
+      ],
+      "hidden": false
+    },
+    {
       "id": "loc-Siog-zlowiecki",
       "name": "Siogunat Złowiecki",
       "category": "miasto_male",
