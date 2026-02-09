@@ -14,7 +14,7 @@
         "location": {
             "coordinates": {
                 "x": -178,
-                "y": 34
+                "z": 34
             },
             "address": {
                 "street": "al. Mikolska 1/15",
@@ -52,7 +52,7 @@
         "location": {
             "coordinates": {
                 "x": -178,
-                "y": 34
+                "z": 34
             },
             "address": {
                 "street": "al. Mikolska 1",
@@ -73,7 +73,7 @@
         "location": {
             "coordinates": {
                 "x": -2137,
-                "y": -2137
+                "z": -2137
             },
             "address": {
                 "street": "Kaplica 2137",
@@ -92,10 +92,31 @@
         "location": {
             "coordinates": {
                 "x": -247,
-                "y": 37
+                "z": 37
             },
             "address": {
                 "street": "Plac Wszystkich Śniętych 1",
+                "city": "Spawnowice",
+                "voivodeship": "Międzyrzeckie"
+            }
+        }
+    },
+    {
+        "name": "Kofe Studio",
+        "symbols": [
+            "F",
+            "L",
+            "M"
+        ],
+        "knip": 20090226012,
+        "registrar_kesel": 51009768,
+        "location": {
+            "coordinates": {
+                "x": -120,
+                "z": -30
+            },
+            "address": {
+                "street": "Nadmorska 7/7",
                 "city": "Spawnowice",
                 "voivodeship": "Międzyrzeckie"
             }
