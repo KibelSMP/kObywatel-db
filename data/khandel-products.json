@@ -7,6 +7,7 @@
       "name": "Gąbka",
       "nameEn": "Sponge"
     },
+    "villageName": "Bernard syn Zeflika",
     "price1": {
       "item": "emerald",
       "qty": 1,
@@ -28,6 +29,7 @@
       "name": "Odłamek netherytu",
       "nameEn": "Netherite Scrap"
     },
+    "villageName": "Bernard syn Zeflika",
     "price1": {
       "item": "paper",
       "qty": 1,
@@ -52,12 +54,15 @@
     "product": {
       "item": "villager_spawn_egg",
       "qty": 1,
-      "name": "Jajo przyzywające osadnika",
-      "nameEn": "Villager Spawn Egg"
+      "customItem": true,
+      "name": "Sklepikarz",
+      "nameEn": "Shopkeeper"
     },
+    "villageName": "Bernard syn Zeflika",
     "price1": {
       "item": "paper",
-      "qty": 30,
+      "qty": 15,
+      "customItem": true,
       "name": "Kibelion",
       "nameEn": "Kibelion"
     },
@@ -71,18 +76,19 @@
   {
     "id": "wioksal_zeflik_4",
     "product": {
-      "item": "leather_leggins",
+      "item": "villager_spawn_egg",
       "qty": 1,
       "enchanted": true,
-      "customItem": true,
-      "name": "Spodnie TESCO VALUE",
-      "nameEn": "Spodnie TESCO VALUE"
+      "name": "Jajo przyzywające osadnika",
+      "nameEn": "Villager Spawn Egg"
     },
+    "villageName": "Bernard syn Zeflika",
     "price1": {
-      "item": "emerald",
-      "qty": 1,
-      "name": "Szmaragd",
-      "nameEn": "Emerald"
+      "item": "paper",
+      "qty": 30,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
     },
     "storeName": "Zeflik",
     "storeLocation": "Wioksal",
@@ -92,7 +98,7 @@
     "z": 2871
   },
   {
-    "id": "wioksal_zeflik_5",
+    "id": "wioksal_zeflik_9",
     "product": {
       "item": "glow_item_frame",
       "qty": 1,
@@ -100,6 +106,7 @@
       "name": "Niewidzialna świecąca ramka",
       "nameEn": "Invisible Glow Item Frame"
     },
+    "villageName": "Bernard syn Zeflika",
     "price1": {
       "item": "glow_item_frame",
       "qty": 1,
@@ -120,7 +127,7 @@
     "z": 2871
   },
   {
-    "id": "wioksal_zeflik_6",
+    "id": "wioksal_zeflik_8",
     "product": {
       "item": "item_frame",
       "qty": 1,
@@ -128,6 +135,7 @@
       "name": "Niewidzialna ramka",
       "nameEn": "Invisible Item Frame"
     },
+    "villageName": "Bernard syn Zeflika",
     "price1": {
       "item": "item_frame",
       "qty": 1,
@@ -148,38 +156,17 @@
     "z": 2871
   },
   {
-    "id": "wioksal_zeflik_7",
-    "product": {
-      "item": "villager_spawn_egg",
-      "qty": 1,
-      "customItem": true,
-      "name": "Shopkeeper",
-      "nameEn": "Shopkeeper"
-    },
-    "price1": {
-      "item": "paper",
-      "qty": 10,
-      "name": "Kibelion",
-      "nameEn": "Kibelion"
-    },
-    "storeName": "Zeflik",
-    "storeLocation": "Wioksal",
-    "storeOwner": "AdminShop",
-    "x": -2524,
-    "y": 97,
-    "z": 2871
-  },
-  {
-    "id": "wioksal_zeflik_8",
+    "id": "wioksal_zeflik_6",
     "product": {
       "item": "magenta_shulker_box",
       "qty": 1,
       "name": "Alfabet",
       "nameEn": "Alfabet"
     },
+    "villageName": "Bernard syn Zeflika",
     "price1": {
       "item": "paper",
-      "qty": 20,
+      "qty": 30,
       "name": "Kibelion",
       "nameEn": "Kibelion"
     },
@@ -192,13 +179,14 @@
     "z": 2871
   },
   {
-    "id": "wioksal_zeflik_9",
+    "id": "wioksal_zeflik_7",
     "product": {
       "item": "pink_shulker_box",
       "qty": 1,
       "name": "Znaki specjalne i cyfry",
       "nameEn": "Znaki specjalne i cyfry"
     },
+    "villageName": "Bernard syn Zeflika",
     "price1": {
       "item": "paper",
       "qty": 20,
@@ -214,13 +202,15 @@
     "z": 2871
   },
   {
-    "id": "wioksal_zeflik_10",
+    "id": "wioksal_zeflik_5",
     "product": {
       "item": "firework_rocket",
       "qty": 64,
-      "name": "Fajerwerk (Czas lotu: 1)",
-      "nameEn": "Firework Rocket (Flight Duration: 1)"
+      "customItem": true,
+      "name": "Fajerwerk od Zeflika",
+      "nameEn": "Fajerwerk od Zeflika"
     },
+    "villageName": "Bernard syn Zeflika",
     "price1": {
       "item": "paper",
       "qty": 10,
@@ -423,13 +413,14 @@
       "name": "MOCNY FULL",
       "nameEn": "MOCNY FULL"
     },
+    "villageName": "Pankracy Mendelejew",
     "price1": {
       "item": "emerald",
       "qty": 1,
       "name": "Szmaragd",
       "nameEn": "Emerald"
     },
-    "storeName": "Pankracy Mendelejew",
+    "storeName": "MOSTOR",
     "storeLocation": "Dentgino",
     "storeOwner": "AdminShop",
     "x": 3520,
@@ -445,13 +436,14 @@
       "name": "Woda Vytautas",
       "nameEn": "Woda Vytautas"
     },
+    "villageName": "Pankracy Mendelejew",
     "price1": {
       "item": "emerald",
       "qty": 1,
       "name": "Szmaragd",
       "nameEn": "Emerald"
     },
-    "storeName": "Pankracy Mendelejew",
+    "storeName": "MOSTOR",
     "storeLocation": "Dentgino",
     "storeOwner": "AdminShop",
     "x": 3520,
@@ -467,13 +459,14 @@
       "name": "Gensty Glut",
       "nameEn": "Gensty Glut"
     },
+    "villageName": "Pankracy Mendelejew",
     "price1": {
       "item": "emerald",
       "qty": 4,
       "name": "Szmaragd",
       "nameEn": "Emerald"
     },
-    "storeName": "Pankracy Mendelejew",
+    "storeName": "MOSTOR",
     "storeLocation": "Dentgino",
     "storeOwner": "AdminShop",
     "x": 3520,
@@ -489,6 +482,7 @@
       "name": "Wywar z baloryby",
       "nameEn": "Wywar z baloryby"
     },
+    "villageName": "Pankracy Mendelejew",
     "price1": {
       "item": "paper",
       "qty": 2,
@@ -496,7 +490,7 @@
       "name": "Kibelion",
       "nameEn": "Kibelion"
     },
-    "storeName": "Pankracy Mendelejew",
+    "storeName": "MOSTOR",
     "storeLocation": "Dentgino",
     "storeOwner": "AdminShop",
     "x": 3520,
@@ -3605,14 +3599,15 @@
   {
     "id": "nilplep_frogszop5_1",
     "product": {
-      "item": "pointed_dripstone",
-      "qty": 16,
-      "name": "Spiczasty naciek",
-      "nameEn": "Pointed Dripstone"
+      "item": "sugar_cane",
+      "qty": 64,
+      "name": "Trzcina cukrowa",
+      "nameEn": "Sugar Cane"
     },
+    "villageName": "Filip",
     "price1": {
       "item": "emerald",
-      "qty": 16,
+      "qty": 4,
       "name": "Szmaragd",
       "nameEn": "Emerald"
     },
@@ -3632,6 +3627,7 @@
       "name": "Tarczka pancernika",
       "nameEn": "Armadillo Scute"
     },
+    "villageName": "Franek",
     "price1": {
       "item": "emerald",
       "qty": 4,
@@ -4658,6 +4654,7 @@
       "name": "Tabliczka czekolady JUMBO",
       "nameEn": "Tabliczka czekolady JUMBO"
     },
+    "villageName": "Pankracy Mendelejew",
     "price1": {
       "item": "paper",
       "qty": 1,
@@ -4665,7 +4662,7 @@
       "name": "Kibelion",
       "nameEn": "Kibelion"
     },
-    "storeName": "Pankracy Mendelejew",
+    "storeName": "MOSTOR",
     "storeLocation": "Dentgino",
     "storeOwner": "AdminShop",
     "x": 3520,
@@ -4681,6 +4678,7 @@
       "name": "burgir",
       "nameEn": "burgir"
     },
+    "villageName": "Pankracy Mendelejew",
     "price1": {
       "item": "paper",
       "qty": 1,
@@ -4688,7 +4686,7 @@
       "name": "Kibelion",
       "nameEn": "Kibelion"
     },
-    "storeName": "Pankracy Mendelejew",
+    "storeName": "MOSTOR",
     "storeLocation": "Dentgino",
     "storeOwner": "AdminShop",
     "x": 3520,
@@ -4749,9 +4747,10 @@
       "name": "Fajerwerk (Czas lotu: 1)",
       "nameEn": "Firework Rocket (Flight Duration: 1)"
     },
+    "villageName": "Ździchu",
     "price1": {
       "item": "paper",
-      "qty": 2,
+      "qty": 3,
       "customItem": true,
       "name": "Kibelion",
       "nameEn": "Kibelion"
@@ -4771,9 +4770,10 @@
       "name": "Fajerwerk (Czas lotu: 1)",
       "nameEn": "Firework Rocket (Flight Duration: 1)"
     },
+    "villageName": "Ździchu",
     "price1": {
       "item": "paper",
-      "qty": 3,
+      "qty": 4,
       "customItem": true,
       "name": "Kibelion",
       "nameEn": "Kibelion"
@@ -4793,9 +4793,33 @@
       "name": "Fajerwerk (Czas lotu: 1)",
       "nameEn": "Firework Rocket (Flight Duration: 1)"
     },
+    "villageName": "Ździchu",
     "price1": {
       "item": "paper",
-      "qty": 4,
+      "qty": 5,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "Szóstka",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "Miersetnik",
+    "x": -247,
+    "y": 67,
+    "z": -78
+  },
+  {
+    "id": "spawnowice_szostka_4",
+    "product": {
+      "item": "firework_rocket",
+      "qty": 64,
+      "name": "Fajerwerk (Czas lotu: 1)",
+      "nameEn": "Firework Rocket (Flight Duration: 1)"
+    },
+    "villageName": "Ździchu",
+    "price1": {
+      "item": "paper",
+      "qty": 10,
       "customItem": true,
       "name": "Kibelion",
       "nameEn": "Kibelion"
@@ -7608,5 +7632,1492 @@
     "x": -803,
     "y": 70,
     "z": 169
+  },
+  {
+    "id": "nilplep_frogszop7_2",
+    "product": {
+      "item": "rabbit_foot",
+      "qty": 1,
+      "name": "Królicza łapka",
+      "nameEn": "Rabbit's Foot"
+    },
+    "villageName": "Franek",
+    "price1": {
+      "item": "emerald",
+      "qty": 8,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Frogszop 7",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "notes": "przy kościele",
+    "x": -786,
+    "y": 71,
+    "z": 163
+  },
+  {
+    "id": "dentgino_marcin_1",
+    "product": {
+      "item": "maleciasto",
+      "qty": 1,
+      "customItem": true,
+      "name": "Małe ciasto",
+      "nameEn": "Małe ciasto"
+    },
+    "villageName": "Modelarz Marcin",
+    "price1": {
+      "item": "paper",
+      "qty": 10,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3520,
+    "y": 71,
+    "z": 3787
+  },
+  {
+    "id": "dentgino_marcin_2",
+    "product": {
+      "item": "zielonyprezent",
+      "qty": 1,
+      "customItem": true,
+      "name": "Zielony prezent",
+      "nameEn": "Zielony prezent"
+    },
+    "villageName": "Modelarz Marcin",
+    "price1": {
+      "item": "paper",
+      "qty": 10,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3520,
+    "y": 71,
+    "z": 3787
+  },
+  {
+    "id": "dentgino_marcin_3",
+    "product": {
+      "item": "czerwonyprezent",
+      "qty": 1,
+      "customItem": true,
+      "name": "Czerwony prezent",
+      "nameEn": "Czerwony prezent"
+    },
+    "villageName": "Modelarz Marcin",
+    "price1": {
+      "item": "paper",
+      "qty": 10,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3520,
+    "y": 71,
+    "z": 3787
+  },
+  {
+    "id": "dentigno_marcin_4",
+    "product": {
+      "item": "maletnt",
+      "qty": 1,
+      "customItem": true,
+      "name": "Małe TNT",
+      "nameEn": "Małe TNT"
+    },
+    "villageName": "Modelarz Marcin",
+    "price1": {
+      "item": "paper",
+      "qty": 10,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3520,
+    "y": 71,
+    "z": 3787
+  },
+  {
+    "id": "dentigno_marcin_5",
+    "product": {
+      "item": "model3dskrzynki",
+      "qty": 1,
+      "customItem": true,
+      "name": "Model 3D Skrzynki",
+      "nameEn": "Model 3D Skrzynki"
+    },
+    "villageName": "Modelarz Marcin",
+    "price1": {
+      "item": "paper",
+      "qty": 10,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3520,
+    "y": 71,
+    "z": 3787
+  },
+  {
+    "id": "dentigno_marcin_6",
+    "product": {
+      "item": "model3dslime",
+      "qty": 1,
+      "customItem": true,
+      "name": "Model 3D Slime'a",
+      "nameEn": "Model 3D Slime'a"
+    },
+    "villageName": "Modelarz Marcin",
+    "price1": {
+      "item": "paper",
+      "qty": 10,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3520,
+    "y": 71,
+    "z": 3787
+  },
+  {
+    "id": "dentigno_marcin_7",
+    "product": {
+      "item": "model3dpszczoly",
+      "qty": 1,
+      "customItem": true,
+      "name": "Model 3D Pszczoły",
+      "nameEn": "Model 3D Pszczoły"
+    },
+    "villageName": "Modelarz Marcin",
+    "price1": {
+      "item": "paper",
+      "qty": 10,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3520,
+    "y": 71,
+    "z": 3787
+  },
+  {
+    "id": "dentigno_marcin_8",
+    "product": {
+      "item": "pluszakpepe",
+      "qty": 1,
+      "customItem": true,
+      "name": "Pluszak Pepe",
+      "nameEn": "Pluszak Pepe"
+    },
+    "villageName": "Modelarz Marcin",
+    "price1": {
+      "item": "paper",
+      "qty": 10,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3520,
+    "y": 71,
+    "z": 3787
+  },
+  {
+    "id": "dentigno_marcin_9",
+    "product": {
+      "item": "skibiditoaleta",
+      "qty": 1,
+      "customItem": true,
+      "name": "Skibidi Toaleta",
+      "nameEn": "Skibidi Toaleta"
+    },
+    "villageName": "Modelarz Marcin",
+    "price1": {
+      "item": "paper",
+      "qty": 10,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3520,
+    "y": 71,
+    "z": 3787
+  },
+  {
+    "id": "dentigno_marcin_10",
+    "product": {
+      "item": "tftf",
+      "qty": 1,
+      "customItem": true,
+      "name": "tf",
+      "nameEn": "tf"
+    },
+    "villageName": "Modelarz Marcin",
+    "price1": {
+      "item": "paper",
+      "qty": 20,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3520,
+    "y": 71,
+    "z": 3787
+  },
+  {
+    "id": "dentgino_marcin_11",
+    "product": {
+      "item": "redbull",
+      "qty": 1,
+      "customItem": true,
+      "name": "Puszka Czerwonego Byka",
+      "nameEn": "Puszka Czerwonego Byka"
+    },
+    "villageName": "Modelarz Marcin",
+    "price1": {
+      "item": "paper",
+      "qty": 10,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3520,
+    "y": 71,
+    "z": 3787
+  },
+  {
+    "id": "dentgino_marcin_12",
+    "product": {
+      "item": "wagonwegiel",
+      "qty": 1,
+      "customItem": true,
+      "name": "Wagon z wunglem",
+      "nameEn": "Wagon z wunglem"
+    },
+    "villageName": "Modelarz Marcin",
+    "price1": {
+      "item": "paper",
+      "qty": 6,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3520,
+    "y": 71,
+    "z": 3787
+  },
+  {
+    "id": "dentgino_dzbankom_1",
+    "product": {
+      "item": "kamera",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kamera",
+      "nameEn": "Kamera"
+    },
+    "villageName": "DzbanKom",
+    "price1": {
+      "item": "paper",
+      "qty": 5,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3511,
+    "y": 62,
+    "z": 3789
+  },
+  {
+    "id": "dentgino_dzbankom_2",
+    "product": {
+      "item": "kameramon",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kamera monitoringu",
+      "nameEn": "Kamera monitoringu"
+    },
+    "villageName": "DzbanKom",
+    "price1": {
+      "item": "paper",
+      "qty": 5,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3511,
+    "y": 62,
+    "z": 3789
+  },
+  {
+    "id": "dentgino_dzbankom_3",
+    "product": {
+      "item": "kameramon2",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kamera monitoringu2",
+      "nameEn": "Kamera monitoringu2"
+    },
+    "villageName": "DzbanKom",
+    "price1": {
+      "item": "paper",
+      "qty": 5,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3511,
+    "y": 62,
+    "z": 3789
+  },
+  {
+    "id": "dentgino_dzbankom_4",
+    "product": {
+      "item": "monitormk1",
+      "qty": 1,
+      "customItem": true,
+      "name": "Monitor komputerowy Mk1",
+      "nameEn": "Monitor komputerowy Mk1"
+    },
+    "villageName": "DzbanKom",
+    "price1": {
+      "item": "paper",
+      "qty": 5,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3511,
+    "y": 62,
+    "z": 3789
+  },
+  {
+    "id": "dentgino_dzbankom_5",
+    "product": {
+      "item": "monitormk2",
+      "qty": 1,
+      "customItem": true,
+      "name": "Monitor komputerowy Mk2",
+      "nameEn": "Monitor komputerowy Mk2"
+    },
+    "villageName": "DzbanKom",
+    "price1": {
+      "item": "paper",
+      "qty": 5,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3511,
+    "y": 62,
+    "z": 3789
+  },
+  {
+    "id": "dentgino_dzbankom_6",
+    "product": {
+      "item": "komputergamingowy",
+      "qty": 1,
+      "customItem": true,
+      "name": "Komputer gamingowy",
+      "nameEn": "Komputer gamingowy"
+    },
+    "villageName": "DzbanKom",
+    "price1": {
+      "item": "paper",
+      "qty": 10,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3511,
+    "y": 62,
+    "z": 3789
+  },
+  {
+    "id": "dentgino_dzbankom_7",
+    "product": {
+      "item": "glosnikhertz",
+      "qty": 1,
+      "customItem": true,
+      "name": "Głośnik Hertz",
+      "nameEn": "Głośnik Hertz"
+    },
+    "villageName": "DzbanKom",
+    "price1": {
+      "item": "paper",
+      "qty": 5,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3511,
+    "y": 62,
+    "z": 3789
+  },
+  {
+    "id": "dentgino_dzbankom_8",
+    "product": {
+      "item": "telefonstacjonarny",
+      "qty": 1,
+      "customItem": true,
+      "name": "Telefon stacjonarny",
+      "nameEn": "Telefon stacjonarny"
+    },
+    "villageName": "DzbanKom",
+    "price1": {
+      "item": "paper",
+      "qty": 5,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3511,
+    "y": 62,
+    "z": 3789
+  },
+  {
+    "id": "dentgino_dzbankom_9",
+    "product": {
+      "item": "mikrofonstudyjny",
+      "qty": 1,
+      "customItem": true,
+      "name": "Mikrofon studyjny",
+      "nameEn": "Mikrofon studyjny"
+    },
+    "villageName": "DzbanKom",
+    "price1": {
+      "item": "paper",
+      "qty": 5,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3511,
+    "y": 62,
+    "z": 3789
+  },
+  {
+    "id": "dentgino_dzbankom_10",
+    "product": {
+      "item": "ustrojstwo",
+      "qty": 1,
+      "customItem": true,
+      "name": "Ustrojstwo",
+      "nameEn": "Ustrojstwo"
+    },
+    "villageName": "DzbanKom",
+    "price1": {
+      "item": "paper",
+      "qty": 5,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3511,
+    "y": 62,
+    "z": 3789
+  },
+  {
+    "id": "dentgino_dzbankom_11",
+    "product": {
+      "item": "jupiter",
+      "qty": 1,
+      "customItem": true,
+      "name": "Jupiter",
+      "nameEn": "Jupiter"
+    },
+    "villageName": "DzbanKom",
+    "price1": {
+      "item": "paper",
+      "qty": 5,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3511,
+    "y": 62,
+    "z": 3789
+  },
+  {
+    "id": "dentgino_dzbankom_12",
+    "product": {
+      "item": "serwer",
+      "qty": 1,
+      "customItem": true,
+      "name": "SERwer",
+      "nameEn": "SERwer"
+    },
+    "villageName": "DzbanKom",
+    "price1": {
+      "item": "paper",
+      "qty": 5,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3511,
+    "y": 62,
+    "z": 3789
+  },
+  {
+    "id": "dentgino_dzbankom_13",
+    "product": {
+      "item": "monitorserwer",
+      "qty": 1,
+      "customItem": true,
+      "name": "Monitor serwerowy",
+      "nameEn": "Monitor serwerowy"
+    },
+    "villageName": "DzbanKom",
+    "price1": {
+      "item": "paper",
+      "qty": 5,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3511,
+    "y": 62,
+    "z": 3789
+  },
+  {
+    "id": "dentgino_dzbankom_14",
+    "product": {
+      "item": "dyktafonkasetowy",
+      "qty": 1,
+      "customItem": true,
+      "name": "Dyktafon kasetowy",
+      "nameEn": "Dyktafon kasetowy"
+    },
+    "villageName": "DzbanKom",
+    "price1": {
+      "item": "paper",
+      "qty": 5,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3511,
+    "y": 62,
+    "z": 3789
+  },
+  {
+    "id": "dentgino_dzbankom_15",
+    "product": {
+      "item": "toster",
+      "qty": 1,
+      "customItem": true,
+      "name": "Toster",
+      "nameEn": "Toster"
+    },
+    "villageName": "DzbanKom",
+    "price1": {
+      "item": "paper",
+      "qty": 3,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3511,
+    "y": 62,
+    "z": 3789
+  },
+  {
+    "id": "dentgino_dzbankom_16",
+    "product": {
+      "item": "mikrofalowka",
+      "qty": 1,
+      "customItem": true,
+      "name": "Mikrofalówka",
+      "nameEn": "Mikrofalówka"
+    },
+    "villageName": "DzbanKom",
+    "price1": {
+      "item": "paper",
+      "qty": 3,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3511,
+    "y": 62,
+    "z": 3789
+  },
+  {
+    "id": "dentgino_dzbankom_17",
+    "product": {
+      "item": "blender",
+      "qty": 1,
+      "customItem": true,
+      "name": "Blender",
+      "nameEn": "Blender"
+    },
+    "villageName": "DzbanKom",
+    "price1": {
+      "item": "paper",
+      "qty": 3,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3511,
+    "y": 62,
+    "z": 3789
+  },
+  {
+    "id": "dentgino_dzbankom_18",
+    "product": {
+      "item": "kawiarka",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kawiarka",
+      "nameEn": "Kawiarka"
+    },
+    "villageName": "DzbanKom",
+    "price1": {
+      "item": "paper",
+      "qty": 3,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3511,
+    "y": 62,
+    "z": 3789
+  },
+  {
+    "id": "dentgino_dzbankom_19",
+    "product": {
+      "item": "ekspresdokawy",
+      "qty": 1,
+      "customItem": true,
+      "name": "Ekspres do kawy",
+      "nameEn": "Ekspres do kawy"
+    },
+    "villageName": "DzbanKom",
+    "price1": {
+      "item": "paper",
+      "qty": 3,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3511,
+    "y": 62,
+    "z": 3789
+  },
+  {
+    "id": "dentgino_dzbankom_20",
+    "product": {
+      "item": "amplituner",
+      "qty": 1,
+      "customItem": true,
+      "name": "Amplituner",
+      "nameEn": "Amplituner"
+    },
+    "villageName": "DzbanKom",
+    "price1": {
+      "item": "paper",
+      "qty": 5,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3511,
+    "y": 62,
+    "z": 3789
+  },
+  {
+    "id": "dentgino_dzbankom_21",
+    "product": {
+      "item": "klimatyzator",
+      "qty": 1,
+      "customItem": true,
+      "name": "Klimatyzator",
+      "nameEn": "Klimatyzator"
+    },
+    "villageName": "DzbanKom",
+    "price1": {
+      "item": "paper",
+      "qty": 4,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3511,
+    "y": 62,
+    "z": 3789
+  },
+  {
+    "id": "dentgino_dzbankom_22",
+    "product": {
+      "item": "nitowendoslicz",
+      "qty": 1,
+      "customItem": true,
+      "name": "Nitowendo Słicz",
+      "nameEn": "Nitowendo Słicz"
+    },
+    "villageName": "DzbanKom",
+    "price1": {
+      "item": "paper",
+      "qty": 5,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3511,
+    "y": 62,
+    "z": 3789
+  },
+  {
+    "id": "dentgino_dzbankom_23",
+    "product": {
+      "item": "opiekacz",
+      "qty": 1,
+      "customItem": true,
+      "name": "Opiekacz",
+      "nameEn": "Opiekacz"
+    },
+    "villageName": "DzbanKom",
+    "price1": {
+      "item": "paper",
+      "qty": 3,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3511,
+    "y": 62,
+    "z": 3789
+  },
+  {
+    "id": "dentgino_dzbankom_24",
+    "product": {
+      "item": "ekspresdokawy2",
+      "qty": 1,
+      "customItem": true,
+      "name": "Ekspres do kawy 2",
+      "nameEn": "Ekspres do kawy 2"
+    },
+    "villageName": "DzbanKom",
+    "price1": {
+      "item": "paper",
+      "qty": 3,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3511,
+    "y": 62,
+    "z": 3789
+  },
+  {
+    "id": "dentgino_dzbankom_25",
+    "product": {
+      "item": "kasasklepowa",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kasa sklepowa",
+      "nameEn": "Kasa sklepowa"
+    },
+    "villageName": "DzbanKom",
+    "price1": {
+      "item": "paper",
+      "qty": 4,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3511,
+    "y": 62,
+    "z": 3789
+  },
+  {
+    "id": "dentgino_barlog_1",
+    "product": {
+      "item": "koszszklo",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kosz na śmieci - szkło",
+      "nameEn": "Kosz na śmieci - szkło"
+    },
+    "villageName": "Meble Barlog",
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3522,
+    "y": 64,
+    "z": 3789
+  },
+  {
+    "id": "dentigno_barlog_2",
+    "product": {
+      "item": "koszpapier",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kosz na śmieci - makulatura",
+      "nameEn": "Kosz na śmieci - makulatura"
+    },
+    "villageName": "Meble Barlog",
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3522,
+    "y": 64,
+    "z": 3789
+  },
+  {
+    "id": "dentigno_barlog_3",
+    "product": {
+      "item": "koszplastik",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kosz na śmieci - plastik i metal",
+      "nameEn": "Kosz na śmieci - plastik i metal"
+    },
+    "villageName": "Meble Barlog",
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3522,
+    "y": 64,
+    "z": 3789
+  },
+  {
+    "id": "dentigno_barlog_4",
+    "product": {
+      "item": "koszmix",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kosz na śmieci - odpady zmieszane",
+      "nameEn": "Kosz na śmieci - odpady zmieszane"
+    },
+    "villageName": "Meble Barlog",
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3522,
+    "y": 64,
+    "z": 3789
+  },
+  {
+    "id": "dentigno_barlog_5",
+    "product": {
+      "item": "koszsmieci",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kosz na śmieci",
+      "nameEn": "Kosz na śmieci"
+    },
+    "villageName": "Meble Barlog",
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3522,
+    "y": 64,
+    "z": 3789
+  },
+  {
+    "id": "dentigno_barlog_6",
+    "product": {
+      "item": "taboret",
+      "qty": 1,
+      "customItem": true,
+      "name": "Taboret",
+      "nameEn": "Taboret"
+    },
+    "villageName": "Meble Barlog",
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3522,
+    "y": 64,
+    "z": 3789
+  },
+  {
+    "id": "dentigno_barlog_7",
+    "product": {
+      "item": "doniczkaazalea",
+      "qty": 1,
+      "customItem": true,
+      "name": "Doniczka - azalea",
+      "nameEn": "Doniczka - azalea"
+    },
+    "villageName": "Meble Barlog",
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3522,
+    "y": 64,
+    "z": 3789
+  },
+  {
+    "id": "dentigno_barlog_9",
+    "product": {
+      "item": "kwiatkokrzak",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kwiatkokrzak",
+      "nameEn": "Kwiatkokrzak"
+    },
+    "villageName": "Meble Barlog",
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3522,
+    "y": 64,
+    "z": 3789
+  },
+  {
+    "id": "dentigno_barlog_10",
+    "product": {
+      "item": "beczkapiwa",
+      "qty": 1,
+      "customItem": true,
+      "name": "Beczka piwa",
+      "nameEn": "Beczka piwa"
+    },
+    "villageName": "Meble Barlog",
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3522,
+    "y": 64,
+    "z": 3789
+  },
+  {
+    "id": "dentigno_barlog_11",
+    "product": {
+      "item": "budkadlaptakow",
+      "qty": 1,
+      "customItem": true,
+      "name": "Budka dla ptaków",
+      "nameEn": "Budka dla ptaków"
+    },
+    "villageName": "Meble Barlog",
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3522,
+    "y": 64,
+    "z": 3789
+  },
+  {
+    "id": "dentigno_barlog_12",
+    "product": {
+      "item": "kartonik",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kartonik",
+      "nameEn": "Kartonik"
+    },
+    "villageName": "Meble Barlog",
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3522,
+    "y": 64,
+    "z": 3789
+  },
+  {
+    "id": "dentigno_barlog_13",
+    "product": {
+      "item": "koszykzarcie",
+      "qty": 1,
+      "customItem": true,
+      "name": "Koszyk z żarciem",
+      "nameEn": "Koszyk z żarciem"
+    },
+    "villageName": "Meble Barlog",
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3522,
+    "y": 64,
+    "z": 3789
+  },
+  {
+    "id": "dentigno_barlog_14",
+    "product": {
+      "item": "garnekwody",
+      "qty": 1,
+      "customItem": true,
+      "name": "Garnek z wodą",
+      "nameEn": "Garnek z wodą"
+    },
+    "villageName": "Meble Barlog",
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3522,
+    "y": 64,
+    "z": 3789
+  },
+  {
+    "id": "dentigno_barlog_15",
+    "product": {
+      "item": "recznikpapierowy",
+      "qty": 1,
+      "customItem": true,
+      "name": "Ręczniki papierowe",
+      "nameEn": "Ręczniki papierowe"
+    },
+    "villageName": "Meble Barlog",
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3522,
+    "y": 64,
+    "z": 3789
+  },
+  {
+    "id": "dentigno_barlog_16",
+    "product": {
+      "item": "srajtasma",
+      "qty": 1,
+      "customItem": true,
+      "name": "Srajtaśma",
+      "nameEn": "Srajtaśma"
+    },
+    "villageName": "Meble Barlog",
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3522,
+    "y": 64,
+    "z": 3789
+  },
+  {
+    "id": "dentigno_barlog_17",
+    "product": {
+      "item": "butelki",
+      "qty": 1,
+      "customItem": true,
+      "name": "Butelki",
+      "nameEn": "Butelki"
+    },
+    "villageName": "Meble Barlog",
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3522,
+    "y": 64,
+    "z": 3789
+  },
+  {
+    "id": "dentigno_barlog_18",
+    "product": {
+      "item": "butelkizwoda",
+      "qty": 1,
+      "customItem": true,
+      "name": "Butelki z wodą",
+      "nameEn": "Butelki z wodą"
+    },
+    "villageName": "Meble Barlog",
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3522,
+    "y": 64,
+    "z": 3789
+  },
+  {
+    "id": "dentigno_barlog_19",
+    "product": {
+      "item": "lampasufitowa",
+      "qty": 1,
+      "customItem": true,
+      "name": "Lampa Sufitowa",
+      "nameEn": "Lampa Sufitowa"
+    },
+    "villageName": "Meble Barlog",
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "MOSTOR",
+    "storeLocation": "Dentgino",
+    "storeOwner": "AdminShop",
+    "x": 3522,
+    "y": 64,
+    "z": 3789
+  },
+  {
+    "id": "baraharad_bank_1",
+    "product": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "villageName": "Pracownik Banku",
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "Talon promocyjny",
+      "nameEn": "Talon Promocyjny"
+    },
+    "storeName": "Wojewódzki Bank Centralny",
+    "storeLocation": "Baraharad",
+    "storeOwner": "AdminShop",
+    "x": -3070,
+    "y": 65,
+    "z": -120
+  },
+  {
+    "id": "baraharad_bank_2",
+    "product": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "50 Kibelionów",
+      "nameEn": "50 Kibelionów"
+    },
+    "villageName": "Pracownik Banku",
+    "price1": {
+      "item": "paper",
+      "qty": 50,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "Wojewódzki Bank Centralny",
+    "storeLocation": "Baraharad",
+    "storeOwner": "AdminShop",
+    "x": -3070,
+    "y": 65,
+    "z": -120
+  },
+  {
+    "id": "baraharad_bank_3",
+    "product": {
+      "item": "paper",
+      "qty": 50,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "villageName": "Pracownik Banku",
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "50 Kibelionów",
+      "nameEn": "50 Kibelionów"
+    },
+    "storeName": "Wojewódzki Bank Centralny",
+    "storeLocation": "Baraharad",
+    "storeOwner": "AdminShop",
+    "x": -3070,
+    "y": 65,
+    "z": -120
+  },
+  {
+    "id": "baraharad_bank_4",
+    "product": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "1000 Kibelionów",
+      "nameEn": "1000 Kibelionów"
+    },
+    "villageName": "Pracownik Banku",
+    "price1": {
+      "item": "paper",
+      "qty": 20,
+      "customItem": true,
+      "name": "50 Kibelionów",
+      "nameEn": "50 Kibelionów"
+    },
+    "storeName": "Wojewódzki Bank Centralny",
+    "storeLocation": "Baraharad",
+    "storeOwner": "AdminShop",
+    "x": -3070,
+    "y": 65,
+    "z": -120
+  },
+  {
+    "id": "baraharad_bank_5",
+    "product": {
+      "item": "paper",
+      "qty": 20,
+      "customItem": true,
+      "name": "50 Kibelionów",
+      "nameEn": "50 Kibelionów"
+    },
+    "villageName": "Pracownik Banku",
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "1000 Kibelionów",
+      "nameEn": "1000 Kibelionów"
+    },
+    "storeName": "Wojewódzki Bank Centralny",
+    "storeLocation": "Baraharad",
+    "storeOwner": "AdminShop",
+    "x": -3070,
+    "y": 65,
+    "z": -120
+  },
+  {
+    "id": "baraharad_bank_6",
+    "product": {
+      "item": "gold_block",
+      "qty": 34,
+      "name": "Blok złota",
+      "nameEn": "Block of Gold"
+    },
+    "villageName": "Pracownik Banku",
+    "price1": {
+      "item": "skull_banner_pattern",
+      "qty": 1,
+      "enchanted": true,
+      "customItem": true,
+      "name": "Obligacje skarbowe",
+      "nameEn": "Obligacje skarbowe"
+    },
+    "storeName": "Wojewódzki Bank Centralny",
+    "storeLocation": "Baraharad",
+    "storeOwner": "AdminShop",
+    "x": -3070,
+    "y": 65,
+    "z": -120
   }
 ]
