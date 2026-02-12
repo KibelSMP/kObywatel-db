@@ -15,6 +15,10 @@
             "label": "Mała miejscowość",
             "color": "#ff9e4d"
         },
+        "gracz": {
+            "label": "Gracz",
+            "color": "#668f3b"
+        },
         "infra" : {
             "label": "Użyteczność publiczna",
             "color": "#4d94ff"
@@ -30,10 +34,6 @@
         "airport": {
             "label": "Lotnisko",
             "color": "#38bdf8"
-        },
-        "gracz": {
-            "label": "Gracz",
-            "color": "#668f3b"
         }
     },
     "points": [
