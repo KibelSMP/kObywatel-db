@@ -656,6 +656,18 @@
       "hidden": false
     },
     {
+      "id": "player-32326242",
+      "name": "GoodFloor",
+      "category": "gracz",
+      "x": -1132,
+      "z": -1502,
+      "description": "Woj.: Wielkokabaczckie",
+      "tags": [
+        "woj:Wielkokabaczckie"
+      ],
+      "hidden": false
+    },
+    {
       "id": "player-32365481",
       "name": "32365481",
       "category": "gracz",
@@ -690,6 +702,18 @@
       "tags": [
         "woj:Bideckie",
         "miasto:Bida z Nędzą"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-33388511-2",
+      "name": "33388511",
+      "category": "gracz",
+      "x": -3848,
+      "z": 1927,
+      "description": "Woj.: Grzegórzeckie",
+      "tags": [
+        "woj:Grzegórzeckie"
       ],
       "hidden": false
     },
