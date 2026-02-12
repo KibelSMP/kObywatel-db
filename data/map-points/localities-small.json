@@ -53,19 +53,6 @@
       "hidden": false
     },
     {
-      "id": "loc-polnocnik",
-      "name": "Północnik",
-      "category": "miasto_male",
-      "x": -999,
-      "z": -1364,
-      "description": "Woj.: Złowieckie, Typ: small",
-      "tags": [
-        "type:small",
-        "woj:Złowieckie"
-      ],
-      "hidden": false
-    },
-    {
       "id": "loc-gora-skryciulska",
       "name": "Góra Skryciulska",
       "category": "miasto_male",
