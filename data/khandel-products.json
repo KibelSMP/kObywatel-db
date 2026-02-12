@@ -3482,7 +3482,7 @@
     "storeLocation": "Nilplep",
     "storeOwner": "Ketrab",
     "notes": "w metrze",
-    "x": -472,
+    "x": -742,
     "y": 55,
     "z": 189
   },
@@ -3504,7 +3504,7 @@
     "storeLocation": "Nilplep",
     "storeOwner": "Ketrab",
     "notes": "w metrze",
-    "x": -472,
+    "x": -742,
     "y": 55,
     "z": 189
   },
@@ -3526,7 +3526,7 @@
     "storeLocation": "Nilplep",
     "storeOwner": "Ketrab",
     "notes": "w metrze",
-    "x": -472,
+    "x": -742,
     "y": 55,
     "z": 189
   },
@@ -3548,7 +3548,7 @@
     "storeLocation": "Nilplep",
     "storeOwner": "Ketrab",
     "notes": "w metrze",
-    "x": -472,
+    "x": -742,
     "y": 55,
     "z": 189
   },
@@ -3570,7 +3570,7 @@
     "storeLocation": "Nilplep",
     "storeOwner": "Ketrab",
     "notes": "w metrze",
-    "x": -472,
+    "x": -742,
     "y": 55,
     "z": 189
   },
@@ -3592,7 +3592,7 @@
     "storeLocation": "Nilplep",
     "storeOwner": "Ketrab",
     "notes": "w metrze",
-    "x": -472,
+    "x": -742,
     "y": 55,
     "z": 189
   },
@@ -3653,7 +3653,7 @@
     "price1": {
       "item": "emerald",
       "qty": 1,
-      "name": "Szmarahd",
+      "name": "Szmaragd",
       "nameEn": "Emerald"
     },
     "storeName": "Jajami Omate",
@@ -4797,6 +4797,29 @@
     "price1": {
       "item": "paper",
       "qty": 5,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "Szóstka",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "Miersetnik",
+    "x": -247,
+    "y": 67,
+    "z": -78
+  },
+  {
+    "id": "spawnowice_szostka_4",
+    "product": {
+      "item": "firework_rocket",
+      "qty": 64,
+      "name": "Fajerwerk (Czas lotu: 1)",
+      "nameEn": "Firework Rocket (Flight Duration: 1)"
+    },
+    "villageName": "Ździchu",
+    "price1": {
+      "item": "paper",
+      "qty": 10,
       "customItem": true,
       "name": "Kibelion",
       "nameEn": "Kibelion"
@@ -9096,28 +9119,5 @@
     "x": -3070,
     "y": 65,
     "z": -120
-  },
-  {
-    "id": "spawnowice_szostka_4",
-    "product": {
-      "item": "firework_rocket",
-      "qty": 64,
-      "name": "Fajerwerk (Czas lotu: 1)",
-      "nameEn": "Firework Rocket (Flight Duration: 1)"
-    },
-    "villageName": "Ździchu",
-    "price1": {
-      "item": "paper",
-      "qty": 10,
-      "customItem": true,
-      "name": "Kibelion",
-      "nameEn": "Kibelion"
-    },
-    "storeName": "Szóstka",
-    "storeLocation": "Spawnowice",
-    "storeOwner": "Miersetnik",
-    "x": -247,
-    "y": 67,
-    "z": -78
   }
 ]
