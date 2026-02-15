@@ -170,10 +170,10 @@
       "category": "gracz",
       "x": 871,
       "z": 1545,
-      "description": "Woj.: Międzyrzeckie, Miasto: Brecht Tower",
+      "description": "Woj.: Międzywódzkie, Miasto: Brecht Tower",
       "tags": [
-        "woj:Międzyrzeckie",
-        "miasto:Brecht Tower"
+        "miasto:Brecht Tower",
+        "woj:Międzywódzkie"
       ],
       "hidden": false
     },
@@ -422,10 +422,10 @@
       "category": "gracz",
       "x": 281,
       "z": 1276,
-      "description": "Woj.: Międzyrzeckie, Miasto: Promno",
+      "description": "Woj.: Międzywódzkie, Miasto: Promno",
       "tags": [
-        "woj:Międzyrzeckie",
-        "miasto:Promno"
+        "miasto:Promno",
+        "woj:Międzywódzkie"
       ],
       "hidden": false
     },
@@ -1477,10 +1477,10 @@
       "category": "gracz",
       "x": 1175,
       "z": 1850,
-      "description": "Woj.: Międzyrzeckie, Miasto: Przedbagnie",
+      "description": "Woj.: Międzywódzkie, Miasto: Przedbagnie",
       "tags": [
-        "woj:Międzyrzeckie",
-        "miasto:Przedbagnie"
+        "miasto:Przedbagnie",
+        "woj:Międzywódzkie"
       ],
       "hidden": false
     },
@@ -1490,10 +1490,10 @@
       "category": "gracz",
       "x": 857,
       "z": 1090,
-      "description": "Woj.: Międzyrzeckie, Miasto: Stara Wioska",
+      "description": "Woj.: Międzywódzkie, Miasto: Stara Wioska",
       "tags": [
-        "woj:Międzyrzeckie",
-        "miasto:Stara Wioska"
+        "miasto:Stara Wioska",
+        "woj:Międzywódzkie"
       ],
       "hidden": false
     },
@@ -1503,10 +1503,10 @@
       "category": "gracz",
       "x": 1111,
       "z": 1510,
-      "description": "Woj.: Międzyrzeckie, Miasto: Gęsty Las",
+      "description": "Woj.: Międzywódzkie, Miasto: Gęsty Las",
       "tags": [
-        "woj:Międzyrzeckie",
-        "miasto:Gęsty Las"
+        "miasto:Gęsty Las",
+        "woj:Międzywódzkie"
       ],
       "hidden": false
     },
@@ -1516,10 +1516,10 @@
       "category": "gracz",
       "x": 1437,
       "z": 1585,
-      "description": "Woj.: Międzyrzeckie, Miasto: Rudowice",
+      "description": "Woj.: Międzywódzkie, Miasto: Rudowice",
       "tags": [
-        "woj:Międzyrzeckie",
-        "miasto:Rudowice"
+        "miasto:Rudowice",
+        "woj:Międzywódzkie"
       ],
       "hidden": false
     },
@@ -1684,10 +1684,10 @@
       "category": "gracz",
       "x": 774,
       "z": 1631,
-      "description": "Woj.: Międzyrzeckie, Miasto: Bordalowice",
+      "description": "Woj.: Międzywódzkie, Miasto: Bordalowice",
       "tags": [
-        "woj:Międzyrzeckie",
-        "miasto:Bordalowice"
+        "miasto:Bordalowice",
+        "woj:Międzywódzkie"
       ],
       "hidden": false
     },
@@ -1848,10 +1848,10 @@
       "category": "gracz",
       "x": 201,
       "z": 2129,
-      "description": "Woj.: Międzyrzeckie, Miasto: Ryśkowice",
+      "description": "Woj.: Międzywódzkie, Miasto: Ryśkowice",
       "tags": [
-        "woj:Międzyrzeckie",
-        "miasto:Ryśkowice"
+        "miasto:Ryśkowice",
+        "woj:Międzywódzkie"
       ],
       "hidden": false
     },
@@ -1861,10 +1861,10 @@
       "category": "gracz",
       "x": 1429,
       "z": 2830,
-      "description": "Woj.: Wyspy Niepodległe Województwom, Miasto: SERcorp",
+      "description": "Woj.: WNW, Miasto: SERcorp",
       "tags": [
-        "woj:Wyspy Niepodległe Województwom",
-        "miasto:SERcorp"
+        "miasto:SERcorp",
+        "woj:WNW"
       ],
       "hidden": false
     },
@@ -2026,10 +2026,10 @@
       "category": "gracz",
       "x": 2436,
       "z": 925,
-      "description": "Woj.: Wyspy Niepodległe Województwom, Miasto: Płaszki",
+      "description": "Woj.: WNW, Miasto: Płaszki",
       "tags": [
-        "woj:Wyspy Niepodległe Województwom",
-        "miasto:Płaszki"
+        "miasto:Płaszki",
+        "woj:WNW"
       ],
       "hidden": false
     },
