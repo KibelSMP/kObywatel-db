@@ -71,10 +71,10 @@
       "category": "miasto_duze",
       "x": 1176,
       "z": 1845,
-      "description": "Woj.: Międzyrzeckie, Typ: large",
+      "description": "Woj.: Międzywódzkie, Typ: large",
       "tags": [
         "type:large",
-        "woj:Międzyrzeckie"
+        "woj:Międzywódzkie"
       ],
       "hidden": false
     },
@@ -214,10 +214,10 @@
       "category": "miasto_duze",
       "x": 65,
       "z": -2831,
-      "description": "Woj.: Złowieckie, Typ: large",
+      "description": "Woj.: Somsiedzkie, Typ: large",
       "tags": [
         "type:large",
-        "woj:Złowieckie"
+        "woj:Somsiedzkie"
       ],
       "hidden": false
     },
@@ -669,10 +669,10 @@
       "category": "miasto_duze",
       "x": 288,
       "z": 1321,
-      "description": "Woj.: Międzyrzeckie, Typ: large",
+      "description": "Woj.: Międzywódzkie, Typ: large",
       "tags": [
         "type:large",
-        "woj:Międzyrzeckie"
+        "woj:Międzywódzkie"
       ],
       "hidden": false
     },
@@ -682,10 +682,10 @@
       "category": "miasto_duze",
       "x": 1424,
       "z": 1591,
-      "description": "Woj.: Międzyrzeckie, Typ: large",
+      "description": "Woj.: Międzywódzkie, Typ: large",
       "tags": [
         "type:large",
-        "woj:Międzyrzeckie"
+        "woj:Międzywódzkie"
       ],
       "hidden": false
     },
@@ -695,10 +695,10 @@
       "category": "miasto_duze",
       "x": 284,
       "z": 2088,
-      "description": "Woj.: Międzyrzeckie, Typ: large",
+      "description": "Woj.: Międzywódzkie, Typ: large",
       "tags": [
         "type:large",
-        "woj:Międzyrzeckie"
+        "woj:Międzywódzkie"
       ],
       "hidden": false
     },
@@ -708,10 +708,10 @@
       "category": "miasto_duze",
       "x": 727,
       "z": 1646,
-      "description": "Woj.: Międzyrzeckie, Typ: large",
+      "description": "Woj.: Międzywódzkie, Typ: large",
       "tags": [
         "type:large",
-        "woj:Międzyrzeckie"
+        "woj:Międzywódzkie"
       ],
       "hidden": false
     },
@@ -721,10 +721,10 @@
       "category": "miasto_duze",
       "x": 1456,
       "z": 1330,
-      "description": "Woj.: Międzyrzeckie, Typ: large",
+      "description": "Woj.: Międzywódzkie, Typ: large",
       "tags": [
         "type:large",
-        "woj:Międzyrzeckie"
+        "woj:Międzywódzkie"
       ],
       "hidden": false
     },
@@ -825,9 +825,10 @@
       "category": "miasto_duze",
       "x": 2490,
       "z": 930,
-      "description": "Typ: large",
+      "description": "Woj.: WNW, Typ: large",
       "tags": [
-        "type:large"
+        "type:large",
+        "woj:WNW"
       ],
       "hidden": false
     },

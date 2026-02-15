@@ -71,10 +71,10 @@
       "category": "miasto_male",
       "x": 857,
       "z": 1090,
-      "description": "Woj.: Międzyrzeckie, Typ: small",
+      "description": "Woj.: Międzywódzkie, Typ: small",
       "tags": [
         "type:small",
-        "woj:Międzyrzeckie"
+        "woj:Międzywódzkie"
       ],
       "hidden": false
     },
@@ -500,10 +500,10 @@
       "category": "miasto_male",
       "x": 1441,
       "z": -732,
-      "description": "Woj.: Somsiedzkie, Typ: small",
+      "description": "Woj.: Suchomeskie, Typ: small",
       "tags": [
         "type:small",
-        "woj:Somsiedzkie"
+        "woj:Suchomeskie"
       ],
       "hidden": false
     },
@@ -669,10 +669,10 @@
       "category": "miasto_male",
       "x": 707,
       "z": 2106,
-      "description": "Woj.: Międzyrzeckie, Typ: small",
+      "description": "Woj.: Międzywódzkie, Typ: small",
       "tags": [
         "type:small",
-        "woj:Międzyrzeckie"
+        "woj:Międzywódzkie"
       ],
       "hidden": false
     },
@@ -682,10 +682,10 @@
       "category": "miasto_male",
       "x": 897,
       "z": 1546,
-      "description": "Woj.: Międzyrzeckie, Typ: small",
+      "description": "Woj.: Międzywódzkie, Typ: small",
       "tags": [
         "type:small",
-        "woj:Międzyrzeckie"
+        "woj:Międzywódzkie"
       ],
       "hidden": false
     },

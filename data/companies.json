@@ -121,5 +121,25 @@
                 "voivodeship": "Międzyrzeckie"
             }
         }
+    },
+    {
+        "name": "Znaksus meueueueueu JDG",
+        "symbols": [
+            "F",
+            "M"
+        ],
+        "knip": 20150226019,
+        "registrar_kesel": 13911364,
+        "location": {
+            "coordinates": {
+                "x": 360,
+                "z": -540
+            },
+            "address": {
+                "street": "-",
+                "city": "-",
+                "voivodeship": "WNW"
+            }
+        }
     }
 ]
