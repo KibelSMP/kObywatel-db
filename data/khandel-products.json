@@ -78,7 +78,6 @@
     "product": {
       "item": "villager_spawn_egg",
       "qty": 1,
-      "enchanted": true,
       "name": "Jajo przyzywające osadnika",
       "nameEn": "Villager Spawn Egg"
     },
@@ -4155,6 +4154,7 @@
       "name": "D1",
       "nameEn": "D1"
     },
+    "villageName": "Zdzisiek",
     "price1": {
       "item": "emerald",
       "qty": 1,
@@ -4170,7 +4170,6 @@
     "storeName": "Znakeks",
     "storeLocation": "Susy",
     "storeOwner": "Ketrab",
-    "notes": "Kasjer Zdzisiek",
     "x": -233,
     "y": 66,
     "z": 315
@@ -4183,6 +4182,7 @@
       "name": "D2",
       "nameEn": "D2"
     },
+    "villageName": "Zdzisiek",
     "price1": {
       "item": "emerald",
       "qty": 1,
@@ -4198,7 +4198,6 @@
     "storeName": "Znakeks",
     "storeLocation": "Susy",
     "storeOwner": "Ketrab",
-    "notes": "Kasjer Zdzisiek",
     "x": -233,
     "y": 66,
     "z": 315
@@ -4211,6 +4210,7 @@
       "name": "B20",
       "nameEn": "B20"
     },
+    "villageName": "Zdzisiek",
     "price1": {
       "item": "emerald",
       "qty": 1,
@@ -4226,7 +4226,6 @@
     "storeName": "Znakeks",
     "storeLocation": "Susy",
     "storeOwner": "Ketrab",
-    "notes": "Kasjer Zdzisiek",
     "x": -233,
     "y": 66,
     "z": 315
@@ -4239,6 +4238,7 @@
       "name": "A7",
       "nameEn": "A7"
     },
+    "villageName": "Zdzisiek",
     "price1": {
       "item": "emerald",
       "qty": 1,
@@ -4254,7 +4254,6 @@
     "storeName": "Znakeks",
     "storeLocation": "Susy",
     "storeOwner": "Ketrab",
-    "notes": "Kasjer Zdzisiek",
     "x": -233,
     "y": 66,
     "z": 315
@@ -4267,6 +4266,7 @@
       "name": "G3",
       "nameEn": "G3"
     },
+    "villageName": "Zdzisiek",
     "price1": {
       "item": "emerald",
       "qty": 1,
@@ -4282,7 +4282,6 @@
     "storeName": "Znakeks",
     "storeLocation": "Susy",
     "storeOwner": "Ketrab",
-    "notes": "Kasjer Zdzisiek",
     "x": -233,
     "y": 66,
     "z": 315
@@ -4295,6 +4294,7 @@
       "name": "A9",
       "nameEn": "A9"
     },
+    "villageName": "Zdzisiek",
     "price1": {
       "item": "emerald",
       "qty": 1,
@@ -4310,7 +4310,6 @@
     "storeName": "Znakeks",
     "storeLocation": "Susy",
     "storeOwner": "Ketrab",
-    "notes": "Kasjer Zdzisiek",
     "x": -233,
     "y": 66,
     "z": 315
@@ -4323,6 +4322,7 @@
       "name": "A10",
       "nameEn": "A10"
     },
+    "villageName": "Zdzisiek",
     "price1": {
       "item": "emerald",
       "qty": 1,
@@ -4338,7 +4338,6 @@
     "storeName": "Znakeks",
     "storeLocation": "Susy",
     "storeOwner": "Ketrab",
-    "notes": "Kasjer Zdzisiek",
     "x": -233,
     "y": 66,
     "z": 315
@@ -4351,6 +4350,7 @@
       "name": "A30",
       "nameEn": "A30"
     },
+    "villageName": "Zdzisiek",
     "price1": {
       "item": "emerald",
       "qty": 1,
@@ -4366,7 +4366,6 @@
     "storeName": "Znakeks",
     "storeLocation": "Susy",
     "storeOwner": "Ketrab",
-    "notes": "Kasjer Zdzisiek",
     "x": -233,
     "y": 66,
     "z": 315
@@ -4379,6 +4378,7 @@
       "name": ":flushed:",
       "nameEn": ":flushed:"
     },
+    "villageName": "Zygmunt",
     "price1": {
       "item": "emerald",
       "qty": 1,
@@ -4394,7 +4394,6 @@
     "storeName": "Znakeks",
     "storeLocation": "Susy",
     "storeOwner": "Ketrab",
-    "notes": "Kasjer Zygmunt",
     "x": -229,
     "y": 66,
     "z": 315
@@ -4407,6 +4406,7 @@
       "name": "Frogszop™",
       "nameEn": "Frogszop™"
     },
+    "villageName": "Zygmunt",
     "price1": {
       "item": "emerald",
       "qty": 1,
@@ -4422,7 +4422,6 @@
     "storeName": "Znakeks",
     "storeLocation": "Susy",
     "storeOwner": "Ketrab",
-    "notes": "Kasjer Zygmunt",
     "x": -229,
     "y": 66,
     "z": 315
@@ -4435,6 +4434,7 @@
       "name": "Papież Pat (1/4)",
       "nameEn": "Papież Pat (1/4)"
     },
+    "villageName": "Zygmunt",
     "price1": {
       "item": "emerald",
       "qty": 1,
@@ -4450,7 +4450,6 @@
     "storeName": "Znakeks",
     "storeLocation": "Susy",
     "storeOwner": "Ketrab",
-    "notes": "Kasjer Zygmunt",
     "x": -229,
     "y": 66,
     "z": 315
@@ -4463,6 +4462,7 @@
       "name": "Papież Pat (2/4)",
       "nameEn": "Papież Pat (2/4)"
     },
+    "villageName": "Zygmunt",
     "price1": {
       "item": "emerald",
       "qty": 1,
@@ -4478,7 +4478,6 @@
     "storeName": "Znakeks",
     "storeLocation": "Susy",
     "storeOwner": "Ketrab",
-    "notes": "Kasjer Zygmunt",
     "x": -229,
     "y": 66,
     "z": 315
@@ -4491,6 +4490,7 @@
       "name": "Papież Pat (3/4)",
       "nameEn": "Papież Pat (3/4)"
     },
+    "villageName": "Zygmunt",
     "price1": {
       "item": "emerald",
       "qty": 1,
@@ -4506,7 +4506,6 @@
     "storeName": "Znakeks",
     "storeLocation": "Susy",
     "storeOwner": "Ketrab",
-    "notes": "Kasjer Zygmunt",
     "x": -229,
     "y": 66,
     "z": 315
@@ -4519,6 +4518,7 @@
       "name": "Papież Pat (4/4)",
       "nameEn": "Papież Pat (4/4)"
     },
+    "villageName": "Zygmunt",
     "price1": {
       "item": "emerald",
       "qty": 1,
@@ -4534,7 +4534,6 @@
     "storeName": "Znakeks",
     "storeLocation": "Susy",
     "storeOwner": "Ketrab",
-    "notes": "Kasjer Zygmunt",
     "x": -229,
     "y": 66,
     "z": 315
@@ -4547,6 +4546,7 @@
       "name": "Włócznia Niepokoju",
       "nameEn": "Włócznia Niepokoju"
     },
+    "villageName": "Zygmunt",
     "price1": {
       "item": "emerald",
       "qty": 1,
@@ -4562,7 +4562,6 @@
     "storeName": "Znakeks",
     "storeLocation": "Susy",
     "storeOwner": "Ketrab",
-    "notes": "Kasjer Zygmunt",
     "x": -229,
     "y": 66,
     "z": 315
@@ -4575,6 +4574,7 @@
       "name": "Zegar tarczowy (biały)",
       "nameEn": "Zegar tarczowy (biały)"
     },
+    "villageName": "Zygmunt",
     "price1": {
       "item": "emerald",
       "qty": 1,
@@ -4590,7 +4590,6 @@
     "storeName": "Znakeks",
     "storeLocation": "Susy",
     "storeOwner": "Ketrab",
-    "notes": "Kasjer Zygmunt",
     "x": -229,
     "y": 66,
     "z": 315
@@ -4603,6 +4602,7 @@
       "name": "Zakaz fotografowania",
       "nameEn": "Zakaz fotografowania"
     },
+    "villageName": "Zygmunt",
     "price1": {
       "item": "emerald",
       "qty": 1,
@@ -4618,7 +4618,6 @@
     "storeName": "Znakeks",
     "storeLocation": "Susy",
     "storeOwner": "Ketrab",
-    "notes": "Kasjer Zygmunt",
     "x": -229,
     "y": 66,
     "z": 315
@@ -9119,5 +9118,397 @@
     "x": -3070,
     "y": 65,
     "z": -120
+  },
+  {
+    "id": "susy_zdzisiek_9",
+    "product": {
+      "item": "sign_tl1_bottom",
+      "qty": 1,
+      "name": "TL1 (1/2)",
+      "nameEn": "TL1 (1/2)"
+    },
+    "villageName": "Zdzisiek",
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "map",
+      "qty": 1,
+      "name": "Pusta mapa",
+      "nameEn": "Empty Map"
+    },
+    "storeName": "Znakeks",
+    "storeLocation": "Susy",
+    "storeOwner": "Ketrab",
+    "x": -233,
+    "y": 66,
+    "z": 315
+  },
+  {
+    "id": "susy_zdzisiek_10",
+    "product": {
+      "item": "sign_tl1_top",
+      "qty": 1,
+      "name": "TL1 Bideckie (2/2)",
+      "nameEn": "TL1 Bideckie (2/2)"
+    },
+    "villageName": "Zdzisiek",
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "map",
+      "qty": 1,
+      "name": "Pusta mapa",
+      "nameEn": "Empty Map"
+    },
+    "storeName": "Znakeks",
+    "storeLocation": "Susy",
+    "storeOwner": "Ketrab",
+    "x": -233,
+    "y": 66,
+    "z": 315
+  },
+  {
+    "id": "susy_zdzisiek_11",
+    "product": {
+      "item": "sign_tl1_top",
+      "qty": 1,
+      "name": "TL1 Brzóskie (2/2)",
+      "nameEn": "TL1 Brzóskie (2/2)"
+    },
+    "villageName": "Zdzisiek",
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "map",
+      "qty": 1,
+      "name": "Pusta mapa",
+      "nameEn": "Empty Map"
+    },
+    "storeName": "Znakeks",
+    "storeLocation": "Susy",
+    "storeOwner": "Ketrab",
+    "x": -233,
+    "y": 66,
+    "z": 315
+  },
+  {
+    "id": "susy_zdzisiek_12",
+    "product": {
+      "item": "sign_tl1_top",
+      "qty": 1,
+      "name": "TL1 Grzegórzeckie (2/2)",
+      "nameEn": "TL1 Grzegórzeckie (2/2)"
+    },
+    "villageName": "Zdzisiek",
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "map",
+      "qty": 1,
+      "name": "Pusta mapa",
+      "nameEn": "Empty Map"
+    },
+    "storeName": "Znakeks",
+    "storeLocation": "Susy",
+    "storeOwner": "Ketrab",
+    "x": -233,
+    "y": 66,
+    "z": 315
+  },
+  {
+    "id": "susy_zdzisiek_13",
+    "product": {
+      "item": "sign_tl1_top",
+      "qty": 1,
+      "name": "TL1 Kampinowskie (2/2)",
+      "nameEn": "TL1 Kampinowskie (2/2)"
+    },
+    "villageName": "Zdzisiek",
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "map",
+      "qty": 1,
+      "name": "Pusta mapa",
+      "nameEn": "Empty Map"
+    },
+    "storeName": "Znakeks",
+    "storeLocation": "Susy",
+    "storeOwner": "Ketrab",
+    "x": -233,
+    "y": 66,
+    "z": 315
+  },
+  {
+    "id": "susy_zdzisiek_14",
+    "product": {
+      "item": "sign_tl1_top",
+      "qty": 1,
+      "name": "TL1 Kresowickie (2/2)",
+      "nameEn": "TL1 Kresowickie (2/2)"
+    },
+    "villageName": "Zdzisiek",
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "map",
+      "qty": 1,
+      "name": "Pusta mapa",
+      "nameEn": "Empty Map"
+    },
+    "storeName": "Znakeks",
+    "storeLocation": "Susy",
+    "storeOwner": "Ketrab",
+    "x": -233,
+    "y": 66,
+    "z": 315
+  },
+  {
+    "id": "susy_zdzisiek_15",
+    "product": {
+      "item": "sign_tl1_top",
+      "qty": 1,
+      "name": "TL1 Międzyrzeckie (2/2)",
+      "nameEn": "TL1 Międzyrzeckie (2/2)"
+    },
+    "villageName": "Zdzisiek",
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "map",
+      "qty": 1,
+      "name": "Pusta mapa",
+      "nameEn": "Empty Map"
+    },
+    "storeName": "Znakeks",
+    "storeLocation": "Susy",
+    "storeOwner": "Ketrab",
+    "x": -233,
+    "y": 66,
+    "z": 315
+  },
+  {
+    "id": "susy_zdzisiek_16",
+    "product": {
+      "item": "sign_tl1_top",
+      "qty": 1,
+      "name": "TL1 Międzywódzkie (2/2)",
+      "nameEn": "TL1 Międzywódzkie (2/2)"
+    },
+    "villageName": "Zdzisiek",
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "map",
+      "qty": 1,
+      "name": "Pusta mapa",
+      "nameEn": "Empty Map"
+    },
+    "storeName": "Znakeks",
+    "storeLocation": "Susy",
+    "storeOwner": "Ketrab",
+    "x": -233,
+    "y": 66,
+    "z": 315
+  },
+  {
+    "id": "susy_zdzisiek_17",
+    "product": {
+      "item": "sign_tl1_top",
+      "qty": 1,
+      "name": "TL1 Pyrskie (2/2)",
+      "nameEn": "TL1 Pyrskie (2/2)"
+    },
+    "villageName": "Zdzisiek",
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "map",
+      "qty": 1,
+      "name": "Pusta mapa",
+      "nameEn": "Empty Map"
+    },
+    "storeName": "Znakeks",
+    "storeLocation": "Susy",
+    "storeOwner": "Ketrab",
+    "x": -233,
+    "y": 66,
+    "z": 315
+  },
+  {
+    "id": "susy_zdzisiek_18",
+    "product": {
+      "item": "sign_tl1_top",
+      "qty": 1,
+      "name": "TL1 Somsiedzkie (2/2)",
+      "nameEn": "TL1 Somsiedzkie (2/2)"
+    },
+    "villageName": "Zdzisiek",
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "map",
+      "qty": 1,
+      "name": "Pusta mapa",
+      "nameEn": "Empty Map"
+    },
+    "storeName": "Znakeks",
+    "storeLocation": "Susy",
+    "storeOwner": "Ketrab",
+    "x": -233,
+    "y": 66,
+    "z": 315
+  },
+  {
+    "id": "susy_zdzisiek_19",
+    "product": {
+      "item": "sign_tl1_top",
+      "qty": 1,
+      "name": "TL1 Suchomeskie (2/2)",
+      "nameEn": "TL1 Suchomeskie (2/2)"
+    },
+    "villageName": "Zdzisiek",
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "map",
+      "qty": 1,
+      "name": "Pusta mapa",
+      "nameEn": "Empty Map"
+    },
+    "storeName": "Znakeks",
+    "storeLocation": "Susy",
+    "storeOwner": "Ketrab",
+    "x": -233,
+    "y": 66,
+    "z": 315
+  },
+  {
+    "id": "susy_zdzisiek_20",
+    "product": {
+      "item": "sign_tl1_top",
+      "qty": 1,
+      "name": "TL1 Wielkokabaczckie (2/2)",
+      "nameEn": "TL1 Wielkokabaczckie (2/2)"
+    },
+    "villageName": "Zdzisiek",
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "map",
+      "qty": 1,
+      "name": "Pusta mapa",
+      "nameEn": "Empty Map"
+    },
+    "storeName": "Znakeks",
+    "storeLocation": "Susy",
+    "storeOwner": "Ketrab",
+    "x": -233,
+    "y": 66,
+    "z": 315
+  },
+  {
+    "id": "susy_zdzisiek_21",
+    "product": {
+      "item": "sign_tl1_top",
+      "qty": 1,
+      "name": "TL1 Zasiedmiogórskie (2/2)",
+      "nameEn": "TL1 Zasiedmiogórskie (2/2)"
+    },
+    "villageName": "Zdzisiek",
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "map",
+      "qty": 1,
+      "name": "Pusta mapa",
+      "nameEn": "Empty Map"
+    },
+    "storeName": "Znakeks",
+    "storeLocation": "Susy",
+    "storeOwner": "Ketrab",
+    "x": -233,
+    "y": 66,
+    "z": 315
+  },
+  {
+    "id": "susy_zdzisiek_22",
+    "product": {
+      "item": "sign_tl1_top",
+      "qty": 1,
+      "name": "TL1 Złowieckie (2/2)",
+      "nameEn": "TL1 Złowieckie (2/2)"
+    },
+    "villageName": "Zdzisiek",
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "price2": {
+      "item": "map",
+      "qty": 1,
+      "name": "Pusta mapa",
+      "nameEn": "Empty Map"
+    },
+    "storeName": "Znakeks",
+    "storeLocation": "Susy",
+    "storeOwner": "Ketrab",
+    "x": -233,
+    "y": 66,
+    "z": 315
   }
 ]
