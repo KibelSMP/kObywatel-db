@@ -141,5 +141,63 @@
                 "voivodeship": "WNW"
             }
         }
+    },
+    {
+        "name": "ZTK",
+        "symbols": [
+            "H"
+        ],
+        "knip": 20170226011,
+        "registrar_kesel": 55667447,
+        "location": {
+            "coordinates": {
+                "x": -1004,
+                "z": -1353
+            },
+            "address": {
+                "street": "Dworcowa 1/4",
+                "city": "Jusznica",
+                "voivodeship": "Wielkokabaczckie"
+            }
+        }
+    },
+    {
+        "name": "Nilplep Atique",
+        "symbols": [
+            "G"
+        ],
+        "knip": 20170226022,
+        "registrar_kesel": 55667447,
+        "location": {
+            "coordinates": {
+                "x": -1004,
+                "z": -1353
+            },
+            "address": {
+                "street": "Willowa 1",
+                "city": "Nilplep",
+                "voivodeship": "Międzyrzeckie"
+            }
+        }
+    },
+    {
+        "name": "Znakeks",
+        "symbols": [
+            "G",
+            "J"
+        ],
+        "knip": 20170226033,
+        "registrar_kesel": 55667447,
+        "location": {
+            "coordinates": {
+                "x": -234,
+                "z": 309
+            },
+            "address": {
+                "street": "Kolejowa 3",
+                "city": "Susy",
+                "voivodeship": "Międzyrzeckie"
+            }
+        }
     }
 ]
