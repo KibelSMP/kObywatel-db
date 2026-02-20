@@ -220,5 +220,29 @@
                 "voivodeship": "-"
             }
         }
+    },
+    {
+        "version": "1.1",
+        "name": "Ośrodek Sportu i Rekreacji Yuriowice",
+        "symbols": [
+            "A",
+            "N",
+            "R",
+            "S"
+        ],
+        "knip": 20200226015,
+        "registrar_kesel": 45186622,
+        "location": {
+            "dimension": "Overworld",
+            "coordinates": {
+                "x": -1873,
+                "z": 4250
+            },
+            "address": {
+                "street": "ul. Sportowa 1",
+                "city": "Yuriowice",
+                "voivodeship": "Zasiedmiogórskie"
+            }
+        }
     }
 ]
