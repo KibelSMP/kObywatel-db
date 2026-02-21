@@ -1,130 +1,1720 @@
 {
   "points": [
-    {"id":"st-ABN","name":"Bida z Nędzą","category":"metro","x":2160,"z":1707,"description":"Woj.: Bideckie","tags":["ztk","metro"],"hidden":false},
-    {"id":"st-AKG","name":"Krowodrza Górka","category":"metro","x":1538,"z":1772,"description":"Woj.: Bideckie","tags":["ztk","metro"],"hidden":false},
-    {"id":"st-AKA","name":"Kanarowice","category":"kolej","x":1762,"z":1725,"description":"Woj.: Bideckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-APC","name":"Perkelin Centrum Handlowe","category":"kolej","x":1512,"z":1940,"description":"Woj.: Bideckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-APG","name":"Perkelin Główny","category":"kolej","x":1442,"z":2015,"description":"Woj.: Bideckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-ATA","name":"Tasmańsk","category":"kolej","x":1679,"z":1179,"description":"Woj.: Bideckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-ARE","name":"Różewo","category":"kolej","x":2744,"z":1836,"description":"Woj.: Bideckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-ANI","name":"Bida Nikiszowiec","category":"kolej","x":2336,"z":1854,"description":"Woj.: Bideckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-ABC","name":"Bida Centrum","category":"kolej","x":2262,"z":1744,"description":"Woj.: Bideckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-APM","name":"Perkelin Miasto","category":"kolej","x":1378,"z":1975,"description":"Woj.: Bideckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-APP","name":"Perkelin Port Lotniczy","category":"kolej","x":1252,"z":2058,"description":"Woj.: Bideckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-BBL","name":"Brzozowy Las","category":"kolej","x":1928,"z":835,"description":"Woj.: Brzóskie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-BCH","name":"Chodorów","category":"kolej","x":1826,"z":-832,"description":"Woj.: Brzóskie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-BDR","name":"Draków","category":"kolej","x":1947,"z":409,"description":"Woj.: Brzóskie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-BFL","name":"Fluszewo","category":"kolej","x":2123,"z":-379,"description":"Woj.: Brzóskie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-DBO","name":"Bordalowice","category":"kolej","x":789,"z":1669,"description":"Woj.: Międzyrzeckie","tags":["ztk","end"],"hidden":false},
-    {"id":"st-DGF","name":"Górka Flaterska","category":"kolej","x":789,"z":2095,"description":"Woj.: Międzyrzeckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-DKO","name":"Kotkowice","category":"kolej","x":1549,"z":1447,"description":"Woj.: Międzyrzeckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-DPR","name":"Przedbagnie","category":"kolej","x":1188,"z":1891,"description":"Woj.: Międzyrzeckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-DRY","name":"Ryśkowice Miasto","category":"kolej","x":344,"z":2049,"description":"Woj.: Międzyrzeckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-DWY","name":"Wyścigi","category":"kolej","x":826,"z":2225,"description":"Woj.: Międzyrzeckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-GBA","name":"Baraharad","category":"kolej","x":-2611,"z":131,"description":"Woj.: Grzegórzeckie","tags":["ztk","hub"],"hidden":false},
-    {"id":"st-GBB","name":"Baraharad Bór","category":"kolej","x":-2694,"z":307,"description":"Woj.: Grzegórzeckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-GBC","name":"Baraharad Centrum","category":"kolej","x":-2991,"z":131,"description":"Woj.: Grzegórzeckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-GBL","name":"Baraharad Leśniowice","category":"kolej","x":-3250,"z":11,"description":"Woj.: Grzegórzeckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-GBO","name":"Brzozewo","category":"kolej","x":-3538,"z":-304,"description":"Woj.: Grzegórzeckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-GPA","name":"Pandziochowo","category":"kolej","x":-3945,"z":-221,"description":"Woj.: Grzegórzeckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-GSD","name":"Śróddżungle Dżungli","category":"kolej","x":-4335,"z":-128,"description":"Woj.: Grzegórzeckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-GPN","name":"Przylądek Nadziei","category":"kolej","x":-4575,"z":-54,"description":"Woj.: Grzegórzeckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-GBS","name":"Bagnisko Schrecksa","category":"kolej","x":-4205,"z":1493,"description":"Woj.: Grzegórzeckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-GWK","name":"Wysoki Kącik","category":"kolej","x":-3945,"z":1428,"description":"Woj.: Grzegórzeckie","tags":["ztk","hub"],"hidden":false},
-    {"id":"st-GBZ","name":"Bliski Zachód","category":"kolej","x":-4482,"z":1512,"description":"Woj.: Grzegórzeckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-GSZ","name":"Śpiulkowice-Zdrój","category":"kolej","x":-2407,"z":-184,"description":"Woj.: Grzegórzeckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-GWI","name":"Wilkowyje","category":"kolej","x":-2444,"z":-453,"description":"Woj.: Grzegórzeckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-KBC","name":"Borg Cube","category":"kolej","x":2929,"z":-1629,"description":"Woj.: Kresowickie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-KKU","name":"Kuktosów","category":"kolej","x":2142,"z":-1240,"description":"Woj.: Kresowickie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-KNT","name":"Nowy Tasmańsk","category":"kolej","x":2447,"z":-1063,"description":"Woj.: Kresowickie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-KWS","name":"Wschodzie","category":"kolej","x":2614,"z":-990,"description":"Woj.: Kresowickie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-KZG","name":"Zgagóra","category":"kolej","x":2938,"z":-1258,"description":"Woj.: Kresowickie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-LZK","name":"Zakład Karyny","category":"kolej","x":-3000,"z":-2833,"description":"Woj.: Złowieckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-LZI","name":"Ziemiokoty","category":"kolej","x":-2398,"z":-2259,"description":"Woj.: Złowieckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-LNI","name":"Niewiedź","category":"kolej","x":-1490,"z":-2102,"description":"Woj.: Złowieckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-LCD","name":"Codochujowice","category":"kolej","x":-3658,"z":-3000,"description":"Woj.: Złowieckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-LDE","name":"Dedgierz","category":"kolej","x":-3621,"z":-3667,"description":"Woj.: Złowieckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-LPM","name":"Przedmorze","category":"kolej","x":-3742,"z":-4028,"description":"Woj.: Złowieckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-LPO","name":"Północnik","category":"kolej","x":-3824,"z":-4325,"description":"Woj.: Złowieckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-MCP","name":"Ciechocinek Północ","category":"kolej","x":-1101,"z":1540,"description":"Woj.: Międzyrzeckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-MGS","name":"Góra Skryciulska","category":"kolej","x":-1851,"z":1382,"description":"Woj.: Międzyrzeckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-MKZ","name":"Kawarda Zdrój","category":"kolej","x":-193,"z":623,"description":"Woj.: Międzyrzeckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-MKT","name":"Kuria Toruńska","category":"kolej","x":-1518,"z":1475,"description":"Woj.: Międzyrzeckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-MML","name":"Międzylesie","category":"kolej","x":-54,"z":1021,"description":"Woj.: Międzyrzeckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-MMZ","name":"Międzyrzecze Zachód","category":"kolej","x":-1926,"z":205,"description":"Woj.: Międzyrzeckie","tags":["ztk","end"],"hidden":false},
-    {"id":"st-MNI","name":"Nilplep","category":"kolej","x":-740,"z":196,"description":"Woj.: Międzyrzeckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-MPO","name":"Podgórze","category":"kolej","x":-981,"z":205,"description":"Woj.: Międzyrzeckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-MKI","name":"Kisusy","category":"kolej","x":316,"z":1826,"description":"Woj.: Międzyrzeckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-MPR","name":"Przemytnica","category":"kolej","x":242,"z":1614,"description":"Woj.: Międzyrzeckie","tags":["ztk","hub"],"hidden":false},
-    {"id":"st-MSP","name":"Spawnowice","category":"kolej","x":-212,"z":-26,"description":"Woj.: Międzyrzeckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-MSU","name":"Susy","category":"kolej","x":-202,"z":326,"description":"Woj.: Międzyrzeckie","tags":["ztk","hub"],"hidden":false},
-    {"id":"st-MWI","name":"Plac Wilsona","category":"kolej","x":-563,"z":1577,"description":"Woj.: Międzyrzeckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-PWO","name":"Wolvenhol","category":"kolej","x":2077,"z":2179,"description":"Woj.: Pyrskie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-PHE","name":"Hertzburg","category":"kolej","x":2290,"z":2401,"description":"Woj.: Pyrskie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-PDO","name":"Dolina Szwajcarska","category":"kolej","x":2272,"z":2707,"description":"Woj.: Pyrskie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-PKL","name":"Krzywy Las","category":"kolej","x":1993,"z":3356,"description":"Woj.: Pyrskie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-PFD","name":"Fartodolina","category":"kolej","x":2447,"z":3670,"description":"Woj.: Pyrskie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-PSM","name":"Smreków","category":"kolej","x":2919,"z":3726,"description":"Woj.: Pyrskie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-PDZ","name":"Dentgino Zachodnie","category":"kolej","x":3161,"z":3661,"description":"Woj.: Pyrskie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-PDW","name":"Dentgino Wschodnie","category":"kolej","x":3438,"z":3735,"description":"Woj.: Pyrskie","tags":["ztk","hub"],"hidden":false},
-    {"id":"st-PNA","name":"Narządnik","category":"kolej","x":3680,"z":3782,"description":"Woj.: Pyrskie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-PRO","name":"Równica","category":"kolej","x":4161,"z":3698,"description":"Woj.: Pyrskie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-PWP","name":"Wyspa Puci","category":"kolej","x":4356,"z":4152,"description":"Woj.: Pyrskie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-PDL","name":"Dziady Leśne","category":"kolej","x":4393,"z":4505,"description":"Woj.: Pyrskie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-PPS","name":"Prawdopodobieństwo Stoczniowców","category":"kolej","x":2984,"z":1845,"description":"Woj.: Pyrskie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-PES","name":"Endownice - Sucharowice","category":"kolej","x":4152,"z":2123,"description":"Woj.: Pyrskie","tags":["ztk","end"],"hidden":false},
-    {"id":"st-PZM","name":"Żwirownia \"Żwirow & Muchomorow\"","category":"kolej","x":2077,"z":3670,"description":"Woj.: Pyrskie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-SSO","name":"Savannah Osada","category":"kolej","x":307,"z":-2935,"description":"Woj.: Somsiedzkie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-SSP","name":"Stara Paqownia","category":"kolej","x":1095,"z":-2796,"description":"Woj.: Somsiedzkie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-STG","name":"Tomhetowo Górne","category":"kolej","x":1938,"z":-3047,"description":"Woj.: Somsiedzkie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-STW","name":"Tomhetowo Wookskie","category":"kolej","x":1780,"z":-2815,"description":"Woj.: Somsiedzkie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-SWI","name":"Wiśniówka","category":"kolej","x":3726,"z":-4279,"description":"Woj.: Somsiedzkie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-SCB","name":"Czarny Brzeg","category":"kolej","x":3328,"z":-4028,"description":"Woj.: Somsiedzkie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-SLE","name":"Leoben","category":"kolej","x":2345,"z":-3742,"description":"Woj.: Somsiedzkie","tags":["ztk","hub"],"hidden":false},
-    {"id":"st-SGR","name":"Grzybolandia","category":"kolej","x":1151,"z":-3973,"description":"Woj.: Somsiedzkie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-SBL","name":"Blabno","category":"kolej","x":122,"z":-4121,"description":"Woj.: Somsiedzkie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-SNI","name":"Niemogusin","category":"kolej","x":-304,"z":-4047,"description":"Woj.: Somsiedzkie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-SLD","name":"Leśny Dwór","category":"kolej","x":-730,"z":-4427,"description":"Woj.: Somsiedzkie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-SWZ","name":"Wzgórzyn","category":"kolej","x":2364,"z":-3186,"description":"Woj.: Somsiedzkie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-SBO","name":"Bromberg","category":"kolej","x":2207,"z":-4233,"description":"Woj.: Somsiedzkie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-SBF","name":"Bromberg Fabryczny","category":"kolej","x":2300,"z":-4344,"description":"Woj.: Somsiedzkie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-SGK","name":"Granicznik Kolonia Wybudowanie B","category":"kolej","x":2438,"z":-4482,"description":"Woj.: Somsiedzkie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-SZA","name":"Zamesie","category":"kolej","x":11,"z":-2861,"description":"Woj.: Somsiedzkie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-UFA","name":"Farmownica","category":"kolej","x":1707,"z":-2093,"description":"Woj.: Suchomeskie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-UNP","name":"Nowa Paqownia","category":"kolej","x":1669,"z":-1360,"description":"Woj.: Suchomeskie","tags":["ztk","hub"],"hidden":false},
-    {"id":"st-UPS","name":"Piaszczyna","category":"kolej","x":1132,"z":-1388,"description":"Woj.: Suchomeskie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-UPI","name":"Piramidowiec","category":"kolej","x":1512,"z":-2175,"description":"Woj.: Suchomeskie","tags":["ztk","end"],"hidden":false},
-    {"id":"st-USD","name":"Śmieszna Dziura","category":"kolej","x":-26,"z":-2611,"description":"Woj.: Suchomeskie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-WBA","name":"Łachowo","category":"kolej","x":-573,"z":-1916,"description":"Woj.: Wielkokabaczckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-WBU","name":"Busz","category":"kolej","x":-230,"z":-2259,"description":"Woj.: Wielkokabaczckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-WDG","name":"Dzika Górka","category":"kolej","x":-1333,"z":-1619,"description":"Woj.: Wielkokabaczckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-WGP","name":"Gorzyca","category":"kolej","x":-360,"z":-304,"description":"Woj.: Wielkokabaczckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-WJJ","name":"Jajecznica","category":"kolej","x":-2074,"z":-1184,"description":"Woj.: Wielkokabaczckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-WJU","name":"Jusznica","category":"kolej","x":-999,"z":-1342,"description":"Woj.: Wielkokabaczckie","tags":["ztk","hub"],"hidden":false},
-    {"id":"st-WMZ","name":"Mirczyce-Zdrój","category":"kolej","x":-586,"z":-754,"description":"Woj.: Wielkokabaczckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-WPA","name":"Pawiański Gaj","category":"kolej","x":187,"z":-1351,"description":"Woj.: Wielkokabaczckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-WPD","name":"Przeddżungle Dżungli","category":"kolej","x":-26,"z":-1379,"description":"Woj.: Wielkokabaczckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-WRO","name":"Rokietownik","category":"kolej","x":-342,"z":-1305,"description":"Woj.: Wielkokabaczckie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-ZBA","name":"Bagno","category":"kolej","x":-2556,"z":1030,"description":"Woj.: Zasiedmiogórskie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-ZGZ","name":"Granice Zachodnie","category":"kolej","x":-2917,"z":1308,"description":"Woj.: Zasiedmiogórskie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-ZKD","name":"Kaźmirz Dolny","category":"kolej","x":-2574,"z":1863,"description":"Woj.: Zasiedmiogórskie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-ZPO","name":"Podkazie","category":"kolej","x":-2305,"z":1595,"description":"Woj.: Zasiedmiogórskie","tags":["ztk","hub"],"hidden":false},
-    {"id":"st-ZWI","name":"Wioksal","category":"kolej","x":-2630,"z":2809,"description":"Woj.: Zasiedmiogórskie","tags":["ztk","hub"],"hidden":false},
-    {"id":"st-ZWK","name":"Wklejalin","category":"kolej","x":-3398,"z":2781,"description":"Woj.: Zasiedmiogórskie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-ZWP","name":"Wklejalin Przystanek","category":"kolej","x":-3195,"z":2828,"description":"Woj.: Zasiedmiogórskie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-ZWL","name":"Wklejalin Plaża","category":"kolej","x":-3686,"z":2753,"description":"Woj.: Zasiedmiogórskie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-ZZD","name":"Zagłębie Dziury","category":"kolej","x":-2703,"z":1447,"description":"Woj.: Zasiedmiogórskie","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-ZDZ","name":"Dzikie","category":"kolej","x":-2128,"z":3436,"description":"","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-ZZA","name":"Zapora","category":"kolej","x":-1558,"z":3456,"description":"","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-CPA","name":"Paciulów","category":"kolej","x":-940,"z":3726,"description":"","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-CSM","name":"Śmiechowice","category":"kolej","x":-77,"z":3704,"description":"","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-CSW","name":"Sucha Wyspa","category":"kolej","x":626,"z":3952,"description":"","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-CST","name":"Stawowice","category":"kolej","x":1243,"z":3706,"description":"","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-ZPE","name":"Pęknina","category":"kolej","x":-1959,"z":4061,"description":"","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-ZYU","name":"Yuriowice","category":"kolej","x":-1732,"z":4420,"description":"","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-ZMI","name":"Mierzyce","category":"kolej","x":-2650,"z":2272,"description":"","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-CDZ","name":"Dzbanszynek","category":"kolej","x":1082,"z":4017,"description":"","tags":["ztk","passenger"],"hidden":false},
-    {"id":"st-GEN","name":"Endzin","category":"kolej","x":-3952,"z":2519,"description":"","tags":["ztk","end"],"hidden":false},
-    {"id":"st-MCM","name":"Spawnowice Czerwone Maki P+R","category":"kolej","x":-290,"z":194,"description":"","tags":["ztk","station"],"hidden":false}
+    {
+      "id": "st-ABC",
+      "name": "Bida Centrum",
+      "category": "kolej",
+      "x": 2262,
+      "z": 1744,
+      "description": "Woj.: Bideckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-ABN",
+      "name": "Bida z Nędzą",
+      "category": "metro",
+      "x": 2160,
+      "z": 1707,
+      "description": "Woj.: Bideckie",
+      "tags": [
+        "ztk",
+        "metro"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-AKA",
+      "name": "Kanarowice",
+      "category": "kolej",
+      "x": 1762,
+      "z": 1725,
+      "description": "Woj.: Bideckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-AKG",
+      "name": "Krowodrza Górka",
+      "category": "metro",
+      "x": 1538,
+      "z": 1772,
+      "description": "Woj.: Bideckie",
+      "tags": [
+        "ztk",
+        "metro"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-ANI",
+      "name": "Bida Nikiszowiec",
+      "category": "kolej",
+      "x": 2336,
+      "z": 1854,
+      "description": "Woj.: Bideckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-APC",
+      "name": "Perkelin Centrum Handlowe",
+      "category": "kolej",
+      "x": 1512,
+      "z": 1940,
+      "description": "Woj.: Bideckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-APG",
+      "name": "Perkelin Główny",
+      "category": "kolej",
+      "x": 1442,
+      "z": 2015,
+      "description": "Woj.: Bideckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-APM",
+      "name": "Perkelin Miasto",
+      "category": "kolej",
+      "x": 1378,
+      "z": 1975,
+      "description": "Woj.: Bideckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-APP",
+      "name": "Perkelin Port Lotniczy",
+      "category": "kolej",
+      "x": 1252,
+      "z": 2058,
+      "description": "Woj.: Bideckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-ARE",
+      "name": "Różewo",
+      "category": "kolej",
+      "x": 2744,
+      "z": 1836,
+      "description": "Woj.: Bideckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-ATA",
+      "name": "Tasmańsk",
+      "category": "kolej",
+      "x": 1679,
+      "z": 1179,
+      "description": "Woj.: Bideckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-BBL",
+      "name": "Brzozowy Las",
+      "category": "kolej",
+      "x": 1928,
+      "z": 835,
+      "description": "Woj.: Brzóskie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-BCH",
+      "name": "Chodorów",
+      "category": "kolej",
+      "x": 1826,
+      "z": -832,
+      "description": "Woj.: Brzóskie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-BDR",
+      "name": "Draków",
+      "category": "kolej",
+      "x": 1947,
+      "z": 409,
+      "description": "Woj.: Brzóskie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-BFL",
+      "name": "Fluszewo",
+      "category": "kolej",
+      "x": 2123,
+      "z": -379,
+      "description": "Woj.: Brzóskie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-CDZ",
+      "name": "Dzbanszynek",
+      "category": "kolej",
+      "x": 1082,
+      "z": 4017,
+      "description": "",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-CPA",
+      "name": "Paciulów",
+      "category": "kolej",
+      "x": -940,
+      "z": 3726,
+      "description": "",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-CSM",
+      "name": "Śmiechowice",
+      "category": "kolej",
+      "x": -77,
+      "z": 3704,
+      "description": "",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-CST",
+      "name": "Stawowice",
+      "category": "kolej",
+      "x": 1243,
+      "z": 3706,
+      "description": "",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-CSW",
+      "name": "Sucha Wyspa",
+      "category": "kolej",
+      "x": 626,
+      "z": 3952,
+      "description": "",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-DBO",
+      "name": "Bordalowice",
+      "category": "kolej",
+      "x": 789,
+      "z": 1669,
+      "description": "Woj.: Międzyrzeckie",
+      "tags": [
+        "ztk",
+        "end"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-DGF",
+      "name": "Górka Flaterska",
+      "category": "kolej",
+      "x": 789,
+      "z": 2095,
+      "description": "Woj.: Międzyrzeckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-DKO",
+      "name": "Kotkowice",
+      "category": "kolej",
+      "x": 1549,
+      "z": 1447,
+      "description": "Woj.: Międzyrzeckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-DPR",
+      "name": "Przedbagnie",
+      "category": "kolej",
+      "x": 1188,
+      "z": 1891,
+      "description": "Woj.: Międzyrzeckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-DRY",
+      "name": "Ryśkowice Miasto",
+      "category": "kolej",
+      "x": 344,
+      "z": 2049,
+      "description": "Woj.: Międzyrzeckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-DWY",
+      "name": "Wyścigi",
+      "category": "kolej",
+      "x": 826,
+      "z": 2225,
+      "description": "Woj.: Międzyrzeckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-GBA",
+      "name": "Baraharad",
+      "category": "kolej",
+      "x": -2611,
+      "z": 131,
+      "description": "Woj.: Grzegórzeckie",
+      "tags": [
+        "ztk",
+        "hub"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-GBB",
+      "name": "Baraharad Bór",
+      "category": "kolej",
+      "x": -2694,
+      "z": 307,
+      "description": "Woj.: Grzegórzeckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-GBC",
+      "name": "Baraharad Centrum",
+      "category": "kolej",
+      "x": -2991,
+      "z": 131,
+      "description": "Woj.: Grzegórzeckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-GBL",
+      "name": "Baraharad Leśniowice",
+      "category": "kolej",
+      "x": -3250,
+      "z": 11,
+      "description": "Woj.: Grzegórzeckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-GBO",
+      "name": "Brzozewo",
+      "category": "kolej",
+      "x": -3538,
+      "z": -304,
+      "description": "Woj.: Grzegórzeckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-GBS",
+      "name": "Bagnisko Schrecksa",
+      "category": "kolej",
+      "x": -4205,
+      "z": 1493,
+      "description": "Woj.: Grzegórzeckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-GBZ",
+      "name": "Bliski Zachód",
+      "category": "kolej",
+      "x": -4482,
+      "z": 1512,
+      "description": "Woj.: Grzegórzeckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-GEN",
+      "name": "Endzin",
+      "category": "kolej",
+      "x": -3957,
+      "z": 2537,
+      "description": "",
+      "tags": [
+        "ztk",
+        "end"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-GNA",
+      "name": "Nambork",
+      "category": "kolej",
+      "x": -4006,
+      "z": 1876,
+      "description": "",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-GPA",
+      "name": "Pandziochowo",
+      "category": "kolej",
+      "x": -3945,
+      "z": -221,
+      "description": "Woj.: Grzegórzeckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-GPN",
+      "name": "Przylądek Nadziei",
+      "category": "kolej",
+      "x": -4575,
+      "z": -54,
+      "description": "Woj.: Grzegórzeckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-GSD",
+      "name": "Śróddżungle Dżungli",
+      "category": "kolej",
+      "x": -4335,
+      "z": -128,
+      "description": "Woj.: Grzegórzeckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-GSZ",
+      "name": "Śpiulkowice-Zdrój",
+      "category": "kolej",
+      "x": -2407,
+      "z": -184,
+      "description": "Woj.: Grzegórzeckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-GWI",
+      "name": "Wilkowyje",
+      "category": "kolej",
+      "x": -2444,
+      "z": -453,
+      "description": "Woj.: Grzegórzeckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-GWK",
+      "name": "Wysoki Kącik",
+      "category": "kolej",
+      "x": -3945,
+      "z": 1428,
+      "description": "Woj.: Grzegórzeckie",
+      "tags": [
+        "ztk",
+        "hub"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-KBC",
+      "name": "Borg Cube",
+      "category": "kolej",
+      "x": 2929,
+      "z": -1629,
+      "description": "Woj.: Kresowickie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-KKU",
+      "name": "Kuktosów",
+      "category": "kolej",
+      "x": 2142,
+      "z": -1240,
+      "description": "Woj.: Kresowickie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-KNT",
+      "name": "Nowy Tasmańsk",
+      "category": "kolej",
+      "x": 2447,
+      "z": -1063,
+      "description": "Woj.: Kresowickie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-KWS",
+      "name": "Wschodzie",
+      "category": "kolej",
+      "x": 2614,
+      "z": -990,
+      "description": "Woj.: Kresowickie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-KZG",
+      "name": "Zgagóra",
+      "category": "kolej",
+      "x": 2938,
+      "z": -1258,
+      "description": "Woj.: Kresowickie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-LCD",
+      "name": "Codochujowice",
+      "category": "kolej",
+      "x": -3658,
+      "z": -3000,
+      "description": "Woj.: Złowieckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-LDE",
+      "name": "Dedgierz",
+      "category": "kolej",
+      "x": -3621,
+      "z": -3667,
+      "description": "Woj.: Złowieckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-LNI",
+      "name": "Niewiedź",
+      "category": "kolej",
+      "x": -1490,
+      "z": -2102,
+      "description": "Woj.: Złowieckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-LPM",
+      "name": "Przedmorze",
+      "category": "kolej",
+      "x": -3742,
+      "z": -4028,
+      "description": "Woj.: Złowieckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-LPO",
+      "name": "Północnik",
+      "category": "kolej",
+      "x": -3824,
+      "z": -4325,
+      "description": "Woj.: Złowieckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-LZI",
+      "name": "Ziemiokoty",
+      "category": "kolej",
+      "x": -2398,
+      "z": -2259,
+      "description": "Woj.: Złowieckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-LZK",
+      "name": "Zakład Karyny",
+      "category": "kolej",
+      "x": -3000,
+      "z": -2833,
+      "description": "Woj.: Złowieckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-MCM",
+      "name": "Spawnowice Czerwone Maki P+R",
+      "category": "kolej",
+      "x": -290,
+      "z": 194,
+      "description": "",
+      "tags": [
+        "ztk",
+        "station"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-MCP",
+      "name": "Ciechocinek Północ",
+      "category": "kolej",
+      "x": -1101,
+      "z": 1540,
+      "description": "Woj.: Międzyrzeckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-MGS",
+      "name": "Góra Skryciulska",
+      "category": "kolej",
+      "x": -1851,
+      "z": 1382,
+      "description": "Woj.: Międzyrzeckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-MKI",
+      "name": "Kisusy",
+      "category": "kolej",
+      "x": 316,
+      "z": 1826,
+      "description": "Woj.: Międzyrzeckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-MKT",
+      "name": "Kuria Toruńska",
+      "category": "kolej",
+      "x": -1518,
+      "z": 1475,
+      "description": "Woj.: Międzyrzeckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-MKZ",
+      "name": "Kawarda Zdrój",
+      "category": "kolej",
+      "x": -193,
+      "z": 623,
+      "description": "Woj.: Międzyrzeckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-MML",
+      "name": "Międzylesie",
+      "category": "kolej",
+      "x": -54,
+      "z": 1021,
+      "description": "Woj.: Międzyrzeckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-MMZ",
+      "name": "Międzyrzecze Zachód",
+      "category": "kolej",
+      "x": -1926,
+      "z": 205,
+      "description": "Woj.: Międzyrzeckie",
+      "tags": [
+        "ztk",
+        "end"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-MNI",
+      "name": "Nilplep",
+      "category": "kolej",
+      "x": -740,
+      "z": 196,
+      "description": "Woj.: Międzyrzeckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-MPO",
+      "name": "Podgórze",
+      "category": "kolej",
+      "x": -981,
+      "z": 205,
+      "description": "Woj.: Międzyrzeckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-MPR",
+      "name": "Przemytnica",
+      "category": "kolej",
+      "x": 242,
+      "z": 1614,
+      "description": "Woj.: Międzyrzeckie",
+      "tags": [
+        "ztk",
+        "hub"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-MSP",
+      "name": "Spawnowice",
+      "category": "kolej",
+      "x": -212,
+      "z": -26,
+      "description": "Woj.: Międzyrzeckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-MSU",
+      "name": "Susy",
+      "category": "kolej",
+      "x": -202,
+      "z": 326,
+      "description": "Woj.: Międzyrzeckie",
+      "tags": [
+        "ztk",
+        "hub"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-MWI",
+      "name": "Plac Wilsona",
+      "category": "kolej",
+      "x": -563,
+      "z": 1577,
+      "description": "Woj.: Międzyrzeckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-PDD",
+      "name": "Dentgino Dolne",
+      "category": "kolej",
+      "x": 3518,
+      "z": 3848,
+      "description": "Woj.: Pyrskie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-PDL",
+      "name": "Dziady Leśne",
+      "category": "kolej",
+      "x": 4393,
+      "z": 4505,
+      "description": "Woj.: Pyrskie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-PDO",
+      "name": "Dolina Szwajcarska",
+      "category": "kolej",
+      "x": 2272,
+      "z": 2707,
+      "description": "Woj.: Pyrskie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-PDP",
+      "name": "Dentgino Podlasie",
+      "category": "kolej",
+      "x": 3507,
+      "z": 4142,
+      "description": "Woj.: Pyrskie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-PDS",
+      "name": "Dentgino Lotnisko",
+      "category": "kolej",
+      "x": 3531,
+      "z": 4007,
+      "description": "Woj.: Pyrskie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-PDW",
+      "name": "Dentgino Wschodnie",
+      "category": "kolej",
+      "x": 3438,
+      "z": 3735,
+      "description": "Woj.: Pyrskie",
+      "tags": [
+        "ztk",
+        "hub"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-PDZ",
+      "name": "Dentgino Zachodnie",
+      "category": "kolej",
+      "x": 3161,
+      "z": 3661,
+      "description": "Woj.: Pyrskie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-PES",
+      "name": "Endownice - Sucharowice",
+      "category": "kolej",
+      "x": 4152,
+      "z": 2123,
+      "description": "Woj.: Pyrskie",
+      "tags": [
+        "ztk",
+        "end"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-PFD",
+      "name": "Fartodolina",
+      "category": "kolej",
+      "x": 2447,
+      "z": 3670,
+      "description": "Woj.: Pyrskie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-PHE",
+      "name": "Hertzburg",
+      "category": "kolej",
+      "x": 2290,
+      "z": 2401,
+      "description": "Woj.: Pyrskie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-PKL",
+      "name": "Krzywy Las",
+      "category": "kolej",
+      "x": 1993,
+      "z": 3356,
+      "description": "Woj.: Pyrskie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-PNA",
+      "name": "Narządnik",
+      "category": "kolej",
+      "x": 3680,
+      "z": 3782,
+      "description": "Woj.: Pyrskie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-PPS",
+      "name": "Prawdopodobieństwo Stoczniowców",
+      "category": "kolej",
+      "x": 2984,
+      "z": 1845,
+      "description": "Woj.: Pyrskie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-PRO",
+      "name": "Równica",
+      "category": "kolej",
+      "x": 4161,
+      "z": 3698,
+      "description": "Woj.: Pyrskie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-PSM",
+      "name": "Smreków",
+      "category": "kolej",
+      "x": 2919,
+      "z": 3726,
+      "description": "Woj.: Pyrskie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-PWC",
+      "name": "Wąbrzeźno Cegielnia",
+      "category": "kolej",
+      "x": 3246,
+      "z": 4255,
+      "description": "Woj.: Pyrskie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-PWO",
+      "name": "Wolvenhol",
+      "category": "kolej",
+      "x": 2077,
+      "z": 2179,
+      "description": "Woj.: Pyrskie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-PWP",
+      "name": "Wyspa Puci",
+      "category": "kolej",
+      "x": 4356,
+      "z": 4152,
+      "description": "Woj.: Pyrskie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-PZM",
+      "name": "Żwirownia \"Żwirow & Muchomorow\"",
+      "category": "kolej",
+      "x": 2077,
+      "z": 3670,
+      "description": "Woj.: Pyrskie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-SBF",
+      "name": "Bromberg Fabryczny",
+      "category": "kolej",
+      "x": 2300,
+      "z": -4344,
+      "description": "Woj.: Somsiedzkie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-SBL",
+      "name": "Blabno",
+      "category": "kolej",
+      "x": 122,
+      "z": -4121,
+      "description": "Woj.: Somsiedzkie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-SBO",
+      "name": "Bromberg",
+      "category": "kolej",
+      "x": 2207,
+      "z": -4233,
+      "description": "Woj.: Somsiedzkie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-SCB",
+      "name": "Czarny Brzeg",
+      "category": "kolej",
+      "x": 3328,
+      "z": -4028,
+      "description": "Woj.: Somsiedzkie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-SGK",
+      "name": "Granicznik Kolonia Wybudowanie B",
+      "category": "kolej",
+      "x": 2438,
+      "z": -4482,
+      "description": "Woj.: Somsiedzkie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-SGR",
+      "name": "Grzybolandia",
+      "category": "kolej",
+      "x": 1151,
+      "z": -3973,
+      "description": "Woj.: Somsiedzkie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-SLD",
+      "name": "Leśny Dwór",
+      "category": "kolej",
+      "x": -730,
+      "z": -4427,
+      "description": "Woj.: Somsiedzkie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-SLE",
+      "name": "Leoben",
+      "category": "kolej",
+      "x": 2345,
+      "z": -3742,
+      "description": "Woj.: Somsiedzkie",
+      "tags": [
+        "ztk",
+        "hub"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-SNI",
+      "name": "Niemogusin",
+      "category": "kolej",
+      "x": -304,
+      "z": -4047,
+      "description": "Woj.: Somsiedzkie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-SSO",
+      "name": "Savannah Osada",
+      "category": "kolej",
+      "x": 307,
+      "z": -2935,
+      "description": "Woj.: Somsiedzkie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-SSP",
+      "name": "Stara Paqownia",
+      "category": "kolej",
+      "x": 1095,
+      "z": -2796,
+      "description": "Woj.: Somsiedzkie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-STG",
+      "name": "Tomhetowo Górne",
+      "category": "kolej",
+      "x": 1938,
+      "z": -3047,
+      "description": "Woj.: Somsiedzkie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-STW",
+      "name": "Tomhetowo Wookskie",
+      "category": "kolej",
+      "x": 1780,
+      "z": -2815,
+      "description": "Woj.: Somsiedzkie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-SWI",
+      "name": "Wiśniówka",
+      "category": "kolej",
+      "x": 3726,
+      "z": -4279,
+      "description": "Woj.: Somsiedzkie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-SWZ",
+      "name": "Wzgórzyn",
+      "category": "kolej",
+      "x": 2364,
+      "z": -3186,
+      "description": "Woj.: Somsiedzkie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-SZA",
+      "name": "Zamesie",
+      "category": "kolej",
+      "x": 11,
+      "z": -2861,
+      "description": "Woj.: Somsiedzkie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-UFA",
+      "name": "Farmownica",
+      "category": "kolej",
+      "x": 1707,
+      "z": -2093,
+      "description": "Woj.: Suchomeskie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-UKE",
+      "name": "Kekałtów",
+      "category": "kolej",
+      "x": 1071,
+      "z": -1111,
+      "description": "",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-UNP",
+      "name": "Nowa Paqownia",
+      "category": "kolej",
+      "x": 1669,
+      "z": -1360,
+      "description": "Woj.: Suchomeskie",
+      "tags": [
+        "ztk",
+        "hub"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-UPI",
+      "name": "Piramidowiec",
+      "category": "kolej",
+      "x": 1512,
+      "z": -2175,
+      "description": "Woj.: Suchomeskie",
+      "tags": [
+        "ztk",
+        "end"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-UPS",
+      "name": "Piaszczyna",
+      "category": "kolej",
+      "x": 1132,
+      "z": -1388,
+      "description": "Woj.: Suchomeskie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-USD",
+      "name": "Śmieszna Dziura",
+      "category": "kolej",
+      "x": -26,
+      "z": -2611,
+      "description": "Woj.: Suchomeskie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-WBA",
+      "name": "Łachowo",
+      "category": "kolej",
+      "x": -573,
+      "z": -1916,
+      "description": "Woj.: Wielkokabaczckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-WBU",
+      "name": "Busz",
+      "category": "kolej",
+      "x": -230,
+      "z": -2259,
+      "description": "Woj.: Wielkokabaczckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-WDG",
+      "name": "Dzika Górka",
+      "category": "kolej",
+      "x": -1333,
+      "z": -1619,
+      "description": "Woj.: Wielkokabaczckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-WGP",
+      "name": "Gorzyca",
+      "category": "kolej",
+      "x": -360,
+      "z": -304,
+      "description": "Woj.: Wielkokabaczckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-WJJ",
+      "name": "Jajecznica",
+      "category": "kolej",
+      "x": -2074,
+      "z": -1184,
+      "description": "Woj.: Wielkokabaczckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-WJU",
+      "name": "Jusznica",
+      "category": "kolej",
+      "x": -999,
+      "z": -1342,
+      "description": "Woj.: Wielkokabaczckie",
+      "tags": [
+        "ztk",
+        "hub"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-WMZ",
+      "name": "Mirczyce-Zdrój",
+      "category": "kolej",
+      "x": -586,
+      "z": -754,
+      "description": "Woj.: Wielkokabaczckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-WPA",
+      "name": "Pawiański Gaj",
+      "category": "kolej",
+      "x": 187,
+      "z": -1351,
+      "description": "Woj.: Wielkokabaczckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-WPD",
+      "name": "Przeddżungle Dżungli",
+      "category": "kolej",
+      "x": -26,
+      "z": -1379,
+      "description": "Woj.: Wielkokabaczckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-WRO",
+      "name": "Rokietownik",
+      "category": "kolej",
+      "x": -342,
+      "z": -1305,
+      "description": "Woj.: Wielkokabaczckie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-ZBA",
+      "name": "Bagno",
+      "category": "kolej",
+      "x": -2556,
+      "z": 1030,
+      "description": "Woj.: Zasiedmiogórskie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-ZDZ",
+      "name": "Dzikie",
+      "category": "kolej",
+      "x": -2128,
+      "z": 3436,
+      "description": "",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-ZGZ",
+      "name": "Granice Zachodnie",
+      "category": "kolej",
+      "x": -2917,
+      "z": 1308,
+      "description": "Woj.: Zasiedmiogórskie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-ZKD",
+      "name": "Kaźmirz Dolny",
+      "category": "kolej",
+      "x": -2574,
+      "z": 1863,
+      "description": "Woj.: Zasiedmiogórskie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-ZMI",
+      "name": "Mierzyce",
+      "category": "kolej",
+      "x": -2650,
+      "z": 2272,
+      "description": "",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-ZPE",
+      "name": "Pęknina",
+      "category": "kolej",
+      "x": -1959,
+      "z": 4061,
+      "description": "",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-ZPO",
+      "name": "Podkazie",
+      "category": "kolej",
+      "x": -2305,
+      "z": 1595,
+      "description": "Woj.: Zasiedmiogórskie",
+      "tags": [
+        "ztk",
+        "hub"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-ZWI",
+      "name": "Wioksal",
+      "category": "kolej",
+      "x": -2630,
+      "z": 2809,
+      "description": "Woj.: Zasiedmiogórskie",
+      "tags": [
+        "ztk",
+        "hub"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-ZWK",
+      "name": "Wklejalin",
+      "category": "kolej",
+      "x": -3398,
+      "z": 2781,
+      "description": "Woj.: Zasiedmiogórskie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-ZWL",
+      "name": "Wklejalin Plaża",
+      "category": "kolej",
+      "x": -3686,
+      "z": 2753,
+      "description": "Woj.: Zasiedmiogórskie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-ZWP",
+      "name": "Wklejalin Przystanek",
+      "category": "kolej",
+      "x": -3195,
+      "z": 2828,
+      "description": "Woj.: Zasiedmiogórskie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-ZYU",
+      "name": "Yuriowice",
+      "category": "kolej",
+      "x": -1732,
+      "z": 4420,
+      "description": "",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-ZZA",
+      "name": "Zapora",
+      "category": "kolej",
+      "x": -1558,
+      "z": 3456,
+      "description": "",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "st-ZZD",
+      "name": "Zagłębie Dziury",
+      "category": "kolej",
+      "x": -2703,
+      "z": 1447,
+      "description": "Woj.: Zasiedmiogórskie",
+      "tags": [
+        "ztk",
+        "passenger"
+      ],
+      "hidden": false
+    }
   ]
 }
