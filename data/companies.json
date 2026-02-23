@@ -244,5 +244,29 @@
                 "voivodeship": "Zasiedmiogórskie"
             }
         }
+    },
+    {
+        "version": "1.1",
+        "name": "R.T. Pulsar Sp. z o.o.",
+        "symbols": [
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "knip": 20230226018,
+        "registrar_kesel": 37921439,
+        "location": {
+            "dimension": "Overworld",
+            "coordinates": {
+                "x": -2956,
+                "z": 1086
+            },
+            "address": {
+                "street": "Sekcja 5",
+                "city": "Area 18",
+                "voivodeship": "WNW"
+            }
+        }
     }
 ]

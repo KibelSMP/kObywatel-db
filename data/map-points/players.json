@@ -694,7 +694,7 @@
     },
     {
       "id": "player-33388511",
-      "name": "33388511",
+      "name": "nxdt_",
       "category": "gracz",
       "x": 2233,
       "z": 1684,
@@ -702,6 +702,19 @@
       "tags": [
         "woj:Bideckie",
         "miasto:Bida z Nędzą"
+      ],
+      "hidden": false
+    },
+    {
+      "id": "player-33388511-2",
+      "name": "nxdt_",
+      "category": "gracz",
+      "x": -3856,
+      "z": 1933,
+      "description": "Woj.: Grzegórzeckie, Miasto: Nambork",
+      "tags": [
+        "woj:Grzegórzeckie",
+        "miasto:Nambork"
       ],
       "hidden": false
     },
@@ -952,14 +965,14 @@
     },
     {
       "id": "player-45186622",
-      "name": "maxineevee",
+      "name": "MaxineVi",
       "category": "gracz",
-      "x": -1848,
-      "z": -1279,
-      "description": "Woj.: Wielkokabaczckie, Miasto: Góra Duji",
+      "x": -1861,
+      "z": 4409,
+      "description": "Woj.: Zasiedmiogórskie, Miasto: Yuriowice",
       "tags": [
-        "woj:Wielkokabaczckie",
-        "miasto:Góra Duji"
+        "woj:Zasiedmiogórskie",
+        "miasto:Yuriowice"
       ],
       "hidden": false
     },

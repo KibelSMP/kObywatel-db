@@ -895,6 +895,19 @@
         "woj:Złowieckie"
       ],
       "hidden": false
+    },
+    {
+      "id": "loc-Gesty-las",
+      "name": "Gęsty Las",
+      "category": "miasto_male",
+      "x": 1100,
+      "z": 1500,
+      "description": "Woj.: Międzywódzkie, Typ: small",
+      "tags": [
+        "type:small",
+        "woj:Międzywódzkie"
+      ],
+      "hidden": false
     }
   ]
 }
