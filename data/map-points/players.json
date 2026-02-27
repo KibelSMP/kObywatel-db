@@ -1001,6 +1001,18 @@
       "hidden": false
     },
     {
+      "id": "player-45627510",
+      "name": "Camposspl",
+      "category": "gracz",
+      "x": 605,
+      "z": -3320,
+      "description": "Woj.: Somsiedzkie",
+      "tags": [
+        "woj:Somsiedzkie"
+      ],
+      "hidden": false
+    },
+    {
       "id": "player-45711660",
       "name": "45711660",
       "category": "gracz",

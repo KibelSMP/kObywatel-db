@@ -267,5 +267,62 @@
                 "voivodeship": "WNW"
             }
         }
+    },
+    {
+        "version": "1.1",
+        "name": "Baraharad Holdings Group - BHG",
+        "symbols": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J",
+            "K",
+            "L",
+            "M",
+            "N",
+            "R",
+            "S",
+            "U"
+        ],
+        "knip": 20270226012,
+        "registrar_kesel": 58682447,
+        "location": {
+            "dimension": "Overworld",
+            "coordinates": {
+                "x": -2726,
+                "z": 90
+            },
+            "address": {
+                "street": "Aleja Zwycięstwa 1",
+                "city": "Barharad",
+                "voivodeship": "Grzegórzeckie"
+            }
+        }
+    },
+    {
+        "version": "1.1",
+        "name": "Urząd Marszałkowski/Wojewódzki w Baraharadzie",
+        "symbols": [
+            "O"
+        ],
+        "knip": 20270226023,
+        "registrar_kesel": 58682447,
+        "location": {
+            "dimension": "Overworld",
+            "coordinates": {
+                "x": -3000,
+                "z": -80
+            },
+            "address": {
+                "street": "Plac Wolności 1",
+                "city": "Barharad",
+                "voivodeship": "Grzegórzeckie"
+            }
+        }
     }
 ]
