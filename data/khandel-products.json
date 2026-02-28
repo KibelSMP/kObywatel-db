@@ -2100,6 +2100,7 @@
       "name": "Kibelion",
       "nameEn": "Kibelion"
     },
+    "villageName": "Pracownik banku",
     "price1": {
       "item": "paper",
       "qty": 1,
@@ -2123,6 +2124,7 @@
       "name": "50 Kibelionów",
       "nameEn": "50 Kibelionów"
     },
+    "villageName": "Pracownik banku",
     "price1": {
       "item": "paper",
       "qty": 50,
@@ -2146,6 +2148,7 @@
       "name": "Kibelion",
       "nameEn": "Kibelion"
     },
+    "villageName": "Pracownik banku",
     "price1": {
       "item": "paper",
       "qty": 1,
@@ -2169,6 +2172,7 @@
       "name": "1000 Kibelionów",
       "nameEn": "1000 Kibelionów"
     },
+    "villageName": "Pracownik banku",
     "price1": {
       "item": "paper",
       "qty": 20,
@@ -2192,6 +2196,7 @@
       "name": "50 Kibelionów",
       "nameEn": "50 Kibelionów"
     },
+    "villageName": "Pracownik banku",
     "price1": {
       "item": "paper",
       "qty": 1,
@@ -2214,6 +2219,7 @@
       "name": "Blok złota",
       "nameEn": "Block of Gold"
     },
+    "villageName": "Pracownik banku",
     "price1": {
       "item": "skull_banner_pattern",
       "qty": 1,
@@ -2238,6 +2244,7 @@
       "name": "McZestaw Powiększony",
       "nameEn": "McZestaw Powiększony"
     },
+    "villageName": "Pracownik Maka",
     "price1": {
       "item": "emerald",
       "qty": 2,
@@ -2260,6 +2267,7 @@
       "name": "Coca-Cola",
       "nameEn": "Coca-Cola"
     },
+    "villageName": "Pracownik Maka",
     "price1": {
       "item": "emerald",
       "qty": 1,
@@ -2282,6 +2290,7 @@
       "name": "Frytki",
       "nameEn": "Frytki"
     },
+    "villageName": "Pracownik Maka",
     "price1": {
       "item": "emerald",
       "qty": 1,
@@ -2304,6 +2313,7 @@
       "name": "BigMac",
       "nameEn": "Bigmac"
     },
+    "villageName": "Pracownik Maka",
     "price1": {
       "item": "emerald",
       "qty": 1,
@@ -2326,6 +2336,7 @@
       "name": "McZestaw Drwala",
       "nameEn": "McZestaw Drwala"
     },
+    "villageName": "Pracownik Maka",
     "price1": {
       "item": "emerald",
       "qty": 4,
@@ -2348,6 +2359,7 @@
       "name": "Kawa",
       "nameEn": "Kawa"
     },
+    "villageName": "Pracownik Maka",
     "price1": {
       "item": "emerald",
       "qty": 2,
@@ -2369,6 +2381,7 @@
       "name": "Pieczony kurczak",
       "nameEn": "Cooked Chicken"
     },
+    "villageName": "Pracownik GFCI",
     "price1": {
       "item": "emerald",
       "qty": 1,
@@ -2391,6 +2404,7 @@
       "name": "Kurczak GFCI",
       "nameEn": "Kurczak GFCI"
     },
+    "villageName": "Pracownik GFCI",
     "price1": {
       "item": "emerald",
       "qty": 2,
@@ -2413,6 +2427,7 @@
       "name": "Zwęglony kurczak",
       "nameEn": "Zwęglony kurczak"
     },
+    "villageName": "Pracownik GFCI",
     "price1": {
       "item": "emerald",
       "qty": 1,
@@ -2435,6 +2450,7 @@
       "name": "Frytki",
       "nameEn": "Frytki"
     },
+    "villageName": "Pracownik GFCI",
     "price1": {
       "item": "emerald",
       "qty": 1,
@@ -2457,6 +2473,7 @@
       "name": "Pepsi",
       "nameEn": "Pepsi"
     },
+    "villageName": "Pracownik GFCI",
     "price1": {
       "item": "emerald",
       "qty": 1,
@@ -2479,6 +2496,7 @@
       "name": "Fanta",
       "nameEn": "Fanta"
     },
+    "villageName": "Pracownik GFCI",
     "price1": {
       "item": "emerald",
       "qty": 1,
@@ -2501,6 +2519,7 @@
       "name": "Kawa",
       "nameEn": "Kawa"
     },
+    "villageName": "Pracownik GFCI",
     "price1": {
       "item": "emerald",
       "qty": 2,
@@ -2523,6 +2542,7 @@
       "name": "Sos musztardowy",
       "nameEn": "Sos musztardowy"
     },
+    "villageName": "Pracownik GFCI",
     "price1": {
       "item": "emerald",
       "qty": 1,
@@ -2545,6 +2565,7 @@
       "name": "Zastanawiające piórko",
       "nameEn": "Zastanawiające piórko"
     },
+    "villageName": "Pracownik GFCI",
     "price1": {
       "item": "emerald",
       "qty": 8,
@@ -2567,6 +2588,7 @@
       "name": "Wyłącznik różnicoprądowy",
       "nameEn": "Wyłącznik różnicoprądowy"
     },
+    "villageName": "Pracownik GFCI",
     "price1": {
       "item": "emerald",
       "qty": 2,
@@ -4151,8 +4173,8 @@
     "product": {
       "item": "sign_d1",
       "qty": 1,
-      "name": "D1",
-      "nameEn": "D1"
+      "name": "D-1",
+      "nameEn": "D-1"
     },
     "villageName": "Zdzisiek",
     "price1": {
@@ -4179,8 +4201,8 @@
     "product": {
       "item": "sign_d2",
       "qty": 1,
-      "name": "D2",
-      "nameEn": "D2"
+      "name": "D-2",
+      "nameEn": "D-2"
     },
     "villageName": "Zdzisiek",
     "price1": {
@@ -4207,8 +4229,8 @@
     "product": {
       "item": "sign_b20",
       "qty": 1,
-      "name": "B20",
-      "nameEn": "B20"
+      "name": "B-20",
+      "nameEn": "B-20"
     },
     "villageName": "Zdzisiek",
     "price1": {
@@ -4235,8 +4257,8 @@
     "product": {
       "item": "sign_a7",
       "qty": 1,
-      "name": "A7",
-      "nameEn": "A7"
+      "name": "A-7",
+      "nameEn": "A-7"
     },
     "villageName": "Zdzisiek",
     "price1": {
@@ -4263,8 +4285,8 @@
     "product": {
       "item": "sign_g3",
       "qty": 1,
-      "name": "G3",
-      "nameEn": "G3"
+      "name": "G-3",
+      "nameEn": "G-3"
     },
     "villageName": "Zdzisiek",
     "price1": {
@@ -4291,8 +4313,8 @@
     "product": {
       "item": "sign_a9",
       "qty": 1,
-      "name": "A9",
-      "nameEn": "A9"
+      "name": "A-9",
+      "nameEn": "A-9"
     },
     "villageName": "Zdzisiek",
     "price1": {
@@ -4319,8 +4341,8 @@
     "product": {
       "item": "sign_a10",
       "qty": 1,
-      "name": "A10",
-      "nameEn": "A10"
+      "name": "A-10",
+      "nameEn": "A-10"
     },
     "villageName": "Zdzisiek",
     "price1": {
@@ -4347,8 +4369,8 @@
     "product": {
       "item": "sign_a30",
       "qty": 1,
-      "name": "A30",
-      "nameEn": "A30"
+      "name": "A-30",
+      "nameEn": "A-30"
     },
     "villageName": "Zdzisiek",
     "price1": {
@@ -4701,6 +4723,7 @@
       "name": "McRoyal",
       "nameEn": "McRoyal"
     },
+    "villageName": "Pracownik Maka",
     "price1": {
       "item": "paper",
       "qty": 1,
@@ -4724,6 +4747,7 @@
       "name": "Kubełek gorących skrzydełek i frytki",
       "nameEn": "Kubełek gorących skrzydełek i frytki"
     },
+    "villageName": "Pracownik GFCI",
     "price1": {
       "item": "paper",
       "qty": 1,
@@ -4749,7 +4773,7 @@
     "villageName": "Ździchu",
     "price1": {
       "item": "paper",
-      "qty": 3,
+      "qty": 4,
       "customItem": true,
       "name": "Kibelion",
       "nameEn": "Kibelion"
@@ -4772,7 +4796,7 @@
     "villageName": "Ździchu",
     "price1": {
       "item": "paper",
-      "qty": 4,
+      "qty": 5,
       "customItem": true,
       "name": "Kibelion",
       "nameEn": "Kibelion"
@@ -4795,7 +4819,7 @@
     "villageName": "Ździchu",
     "price1": {
       "item": "paper",
-      "qty": 5,
+      "qty": 6,
       "customItem": true,
       "name": "Kibelion",
       "nameEn": "Kibelion"
@@ -4818,7 +4842,7 @@
     "villageName": "Ździchu",
     "price1": {
       "item": "paper",
-      "qty": 10,
+      "qty": 12,
       "customItem": true,
       "name": "Kibelion",
       "nameEn": "Kibelion"
@@ -4839,6 +4863,7 @@
       "name": "Brechtaceum",
       "nameEn": "Brechtaceum"
     },
+    "villageName": "Farmaceutka Fryderyka",
     "price1": {
       "item": "paper",
       "qty": 1,
@@ -4846,7 +4871,7 @@
       "name": "Kibelion",
       "nameEn": "Kibelion"
     },
-    "storeName": "Farmaceutka Fryderyka",
+    "storeName": "Apteka",
     "storeLocation": "Spawnowice",
     "storeOwner": "AdminShop",
     "x": -312,
@@ -4862,6 +4887,7 @@
       "name": "Pawulonik",
       "nameEn": "Pawulonik"
     },
+    "villageName": "Farmaceutka Fryderyka",
     "price1": {
       "item": "paper",
       "qty": 1,
@@ -4869,7 +4895,7 @@
       "name": "Kibelion",
       "nameEn": "Kibelion"
     },
-    "storeName": "Farmaceutka Fryderyka",
+    "storeName": "Apteka",
     "storeLocation": "Spawnowice",
     "storeOwner": "AdminShop",
     "x": -312,
@@ -4885,6 +4911,7 @@
       "name": "Rutinoskurwysyn",
       "nameEn": "Rutinoskurwysyn"
     },
+    "villageName": "Farmaceutka Fryderyka",
     "price1": {
       "item": "paper",
       "qty": 1,
@@ -4892,7 +4919,7 @@
       "name": "Kibelion",
       "nameEn": "Kibelion"
     },
-    "storeName": "Farmaceutka Fryderyka",
+    "storeName": "Apteka",
     "storeLocation": "Spawnowice",
     "storeOwner": "AdminShop",
     "x": -312,
@@ -4908,6 +4935,7 @@
       "name": "Brecht-X",
       "nameEn": "Brecht-X"
     },
+    "villageName": "Farmaceutka Fryderyka",
     "price1": {
       "item": "paper",
       "qty": 2,
@@ -4915,7 +4943,7 @@
       "name": "Kibelion",
       "nameEn": "Kibelion"
     },
-    "storeName": "Farmaceutka Fryderyka",
+    "storeName": "Apteka",
     "storeLocation": "Spawnowice",
     "storeOwner": "AdminShop",
     "x": -312,
@@ -9096,36 +9124,12 @@
     "z": -120
   },
   {
-    "id": "baraharad_bank_6",
-    "product": {
-      "item": "gold_block",
-      "qty": 34,
-      "name": "Blok złota",
-      "nameEn": "Block of Gold"
-    },
-    "villageName": "Pracownik Banku",
-    "price1": {
-      "item": "skull_banner_pattern",
-      "qty": 1,
-      "enchanted": true,
-      "customItem": true,
-      "name": "Obligacje skarbowe",
-      "nameEn": "Obligacje skarbowe"
-    },
-    "storeName": "Wojewódzki Bank Centralny",
-    "storeLocation": "Baraharad",
-    "storeOwner": "AdminShop",
-    "x": -3070,
-    "y": 65,
-    "z": -120
-  },
-  {
     "id": "susy_zdzisiek_9",
     "product": {
       "item": "sign_tl1_bottom",
       "qty": 1,
-      "name": "TL1 (1/2)",
-      "nameEn": "TL1 (1/2)"
+      "name": "TL-1 (1/2)",
+      "nameEn": "TL-1 (1/2)"
     },
     "villageName": "Zdzisiek",
     "price1": {
@@ -9152,8 +9156,8 @@
     "product": {
       "item": "sign_tl1_top",
       "qty": 1,
-      "name": "TL1 Bideckie (2/2)",
-      "nameEn": "TL1 Bideckie (2/2)"
+      "name": "TL-1 Bideckie (2/2)",
+      "nameEn": "TL-1 Bideckie (2/2)"
     },
     "villageName": "Zdzisiek",
     "price1": {
@@ -9180,8 +9184,8 @@
     "product": {
       "item": "sign_tl1_top",
       "qty": 1,
-      "name": "TL1 Brzóskie (2/2)",
-      "nameEn": "TL1 Brzóskie (2/2)"
+      "name": "TL-1 Brzóskie (2/2)",
+      "nameEn": "TL-1 Brzóskie (2/2)"
     },
     "villageName": "Zdzisiek",
     "price1": {
@@ -9208,8 +9212,8 @@
     "product": {
       "item": "sign_tl1_top",
       "qty": 1,
-      "name": "TL1 Grzegórzeckie (2/2)",
-      "nameEn": "TL1 Grzegórzeckie (2/2)"
+      "name": "TL-1 Grzegórzeckie (2/2)",
+      "nameEn": "TL-1 Grzegórzeckie (2/2)"
     },
     "villageName": "Zdzisiek",
     "price1": {
@@ -9236,8 +9240,8 @@
     "product": {
       "item": "sign_tl1_top",
       "qty": 1,
-      "name": "TL1 Kampinowskie (2/2)",
-      "nameEn": "TL1 Kampinowskie (2/2)"
+      "name": "TL-1 Kampinowskie (2/2)",
+      "nameEn": "TL-1 Kampinowskie (2/2)"
     },
     "villageName": "Zdzisiek",
     "price1": {
@@ -9264,8 +9268,8 @@
     "product": {
       "item": "sign_tl1_top",
       "qty": 1,
-      "name": "TL1 Kresowickie (2/2)",
-      "nameEn": "TL1 Kresowickie (2/2)"
+      "name": "TL-1 Kresowickie (2/2)",
+      "nameEn": "TL-1 Kresowickie (2/2)"
     },
     "villageName": "Zdzisiek",
     "price1": {
@@ -9292,8 +9296,8 @@
     "product": {
       "item": "sign_tl1_top",
       "qty": 1,
-      "name": "TL1 Międzyrzeckie (2/2)",
-      "nameEn": "TL1 Międzyrzeckie (2/2)"
+      "name": "TL-1 Międzyrzeckie (2/2)",
+      "nameEn": "TL-1 Międzyrzeckie (2/2)"
     },
     "villageName": "Zdzisiek",
     "price1": {
@@ -9320,8 +9324,8 @@
     "product": {
       "item": "sign_tl1_top",
       "qty": 1,
-      "name": "TL1 Międzywódzkie (2/2)",
-      "nameEn": "TL1 Międzywódzkie (2/2)"
+      "name": "TL-1 Międzywódzkie (2/2)",
+      "nameEn": "TL-1 Międzywódzkie (2/2)"
     },
     "villageName": "Zdzisiek",
     "price1": {
@@ -9348,8 +9352,8 @@
     "product": {
       "item": "sign_tl1_top",
       "qty": 1,
-      "name": "TL1 Pyrskie (2/2)",
-      "nameEn": "TL1 Pyrskie (2/2)"
+      "name": "TL-1 Pyrskie (2/2)",
+      "nameEn": "TL-1 Pyrskie (2/2)"
     },
     "villageName": "Zdzisiek",
     "price1": {
@@ -9376,8 +9380,8 @@
     "product": {
       "item": "sign_tl1_top",
       "qty": 1,
-      "name": "TL1 Somsiedzkie (2/2)",
-      "nameEn": "TL1 Somsiedzkie (2/2)"
+      "name": "TL-1 Somsiedzkie (2/2)",
+      "nameEn": "TL-1 Somsiedzkie (2/2)"
     },
     "villageName": "Zdzisiek",
     "price1": {
@@ -9404,8 +9408,8 @@
     "product": {
       "item": "sign_tl1_top",
       "qty": 1,
-      "name": "TL1 Suchomeskie (2/2)",
-      "nameEn": "TL1 Suchomeskie (2/2)"
+      "name": "TL-1 Suchomeskie (2/2)",
+      "nameEn": "TL-1 Suchomeskie (2/2)"
     },
     "villageName": "Zdzisiek",
     "price1": {
@@ -9432,8 +9436,8 @@
     "product": {
       "item": "sign_tl1_top",
       "qty": 1,
-      "name": "TL1 Wielkokabaczckie (2/2)",
-      "nameEn": "TL1 Wielkokabaczckie (2/2)"
+      "name": "TL-1 Wielkokabaczckie (2/2)",
+      "nameEn": "TL-1 Wielkokabaczckie (2/2)"
     },
     "villageName": "Zdzisiek",
     "price1": {
@@ -9460,8 +9464,8 @@
     "product": {
       "item": "sign_tl1_top",
       "qty": 1,
-      "name": "TL1 Zasiedmiogórskie (2/2)",
-      "nameEn": "TL1 Zasiedmiogórskie (2/2)"
+      "name": "TL-1 Zasiedmiogórskie (2/2)",
+      "nameEn": "TL-1 Zasiedmiogórskie (2/2)"
     },
     "villageName": "Zdzisiek",
     "price1": {
@@ -9488,8 +9492,8 @@
     "product": {
       "item": "sign_tl1_top",
       "qty": 1,
-      "name": "TL1 Złowieckie (2/2)",
-      "nameEn": "TL1 Złowieckie (2/2)"
+      "name": "TL-1 Złowieckie (2/2)",
+      "nameEn": "TL-1 Złowieckie (2/2)"
     },
     "villageName": "Zdzisiek",
     "price1": {
@@ -9510,5 +9514,522 @@
     "x": -233,
     "y": 66,
     "z": 315
+  },
+  {
+    "id": "wabrzezno_glina_1",
+    "product": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "Pozwolenie na wydobycie 320m3 gliny - Cegielnia Wąbrzeźno",
+      "nameEn": "Pozwolenie na wydobycie 320m3 gliny - Cegielnia Wąbrzeźno"
+    },
+    "villageName": "Gabriel Gliniarz",
+    "price1": {
+      "item": "paper",
+      "qty": 4,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "Cegielnia",
+    "storeLocation": "Wąbrzeźno",
+    "storeOwner": "AdminShop",
+    "x": 3225,
+    "y": 67,
+    "z": 4234
+  },
+  {
+    "id": "wabrzezno_cegly_1",
+    "product": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "WZ - Cegła zwykła 64m3 - Cegielnia Wąbrzeźno",
+      "nameEn": "WZ - Cegła zwykła 64m3 - Cegielnia Wąbrzeźno"
+    },
+    "villageName": "Cyryl Ceglarski",
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "Cegielnia",
+    "storeLocation": "Wąbrzeźno",
+    "storeOwner": "AdminShop",
+    "x": 3219,
+    "y": 67,
+    "z": 4231
+  },
+  {
+    "id": "wabrzezno_cegly_2",
+    "product": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "WZ - Cegła błotna 64m3 - Cegielnia Wąbrzeźno",
+      "nameEn": "WZ - Cegła błotna 64m3 - Cegielnia Wąbrzeźno"
+    },
+    "villageName": "Cyryl Ceglarski",
+    "price1": {
+      "item": "paper",
+      "qty": 2,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "Cegielnia",
+    "storeLocation": "Wąbrzeźno",
+    "storeOwner": "AdminShop",
+    "x": 3219,
+    "y": 67,
+    "z": 4231
+  },
+  {
+    "id": "wabrzezno_cegly_3",
+    "product": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "WZ - Cegła niderlandzka 64m3 - Cegielnia Wąbrzeźno",
+      "nameEn": "WZ - Cegła niderlandzka 64m3 - Cegielnia Wąbrzeźno"
+    },
+    "villageName": "Cyryl Ceglarski",
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "Cegielnia",
+    "storeLocation": "Wąbrzeźno",
+    "storeOwner": "AdminShop",
+    "x": 3219,
+    "y": 67,
+    "z": 4231
+  },
+  {
+    "id": "wabrzezno_cegly_4",
+    "product": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "WZ - Cegła niderlandzka czerwona 64m3 - Cegielnia Wąbrzeźno",
+      "nameEn": "WZ - Cegła niderlandzka czerwona 64m3 - Cegielnia Wąbrzeźno"
+    },
+    "villageName": "Cyryl Ceglarski",
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "Cegielnia",
+    "storeLocation": "Wąbrzeźno",
+    "storeOwner": "AdminShop",
+    "x": 3219,
+    "y": 67,
+    "z": 4231
+  },
+  {
+    "id": "end_bigbiznis_1",
+    "product": {
+      "item": "wither_skeleton_skull",
+      "qty": 1,
+      "name": "Czaszka witherowego szkieleta",
+      "nameEn": "Wither Skeleton Skull"
+    },
+    "villageName": "Boguslaw Boner",
+    "price1": {
+      "item": "paper",
+      "qty": 10,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "BIG BIZNIS",
+    "storeLocation": "End",
+    "storeOwner": "Kamil7x"
+  },
+  {
+    "id": "end_bigbiznis_2",
+    "product": {
+      "item": "bone_block",
+      "qty": 64,
+      "name": "Blok kości",
+      "nameEn": "Bone Block"
+    },
+    "villageName": "Boguslaw Boner",
+    "price1": {
+      "item": "paper",
+      "qty": 3,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "BIG BIZNIS",
+    "storeLocation": "End",
+    "storeOwner": "Kamil7x"
+  },
+  {
+    "id": "spawnowice_szostka_5",
+    "product": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "villageName": "Mieciu",
+    "price1": {
+      "item": "emerald_block",
+      "qty": 14,
+      "name": "Blok szmaragdu",
+      "nameEn": "Block of Emerald"
+    },
+    "storeName": "Szóstka",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "Miersetnik",
+    "x": -230,
+    "y": 68,
+    "z": -80
+  },
+  {
+    "id": "spawnowice_szostka_6",
+    "product": {
+      "item": "emerald_block",
+      "qty": 10,
+      "name": "Blok szmaragdu",
+      "nameEn": "Block of Emerald"
+    },
+    "villageName": "Mieciu",
+    "price1": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "Szóstka",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "Miersetnik",
+    "x": -230,
+    "y": 68,
+    "z": -80
+  },
+  {
+    "id": "nilplep_jadlodajnia_1",
+    "product": {
+      "item": "cooked_chicken",
+      "qty": 16,
+      "name": "Pieczony kurczak",
+      "nameEn": "Cooked Chicken"
+    },
+    "villageName": "Ulrich",
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Pod Ulem",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "x": -764,
+    "y": 64,
+    "z": 100
+  },
+  {
+    "id": "nilplep_jadlodajnia_2",
+    "product": {
+      "item": "cooked_rabbit",
+      "qty": 16,
+      "name": "Pieczony królik",
+      "nameEn": "Cooked Rabbit"
+    },
+    "villageName": "Ulrich",
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Pod Ulem",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "x": -764,
+    "y": 64,
+    "z": 100
+  },
+  {
+    "id": "nilplep_jadlodajnia_3",
+    "product": {
+      "item": "baked_potato",
+      "qty": 16,
+      "name": "Pieczony ziemniak",
+      "nameEn": "Baked Potato"
+    },
+    "villageName": "Ulrich",
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Pod Ulem",
+    "storeLocation": "Nilplep",
+    "storeOwner": "Ketrab",
+    "x": -764,
+    "y": 64,
+    "z": 100
+  },
+  {
+    "id": "laskus_beton_1",
+    "product": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "Faktura z betoniarni Laskus (300m3 betonu w dowolnym kolorze)",
+      "nameEn": "Faktura z betoniarni Laskus (300m3 betonu w dowolnym kolorze)"
+    },
+    "villageName": "Leonid Laskus",
+    "price1": {
+      "item": "paper",
+      "qty": 10,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "Betonownia Laskus",
+    "storeLocation": "Laskus",
+    "storeOwner": "AdminShop",
+    "x": 98,
+    "y": 75,
+    "z": -448
+  },
+  {
+    "id": "laskus_beton_2",
+    "product": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "Faktura z betoniarni Laskus (300m3 betonu w dowolnym kolorze)",
+      "nameEn": "Faktura z betoniarni Laskus (300m3 betonu w dowolnym kolorze)"
+    },
+    "villageName": "Leonid Laskus",
+    "price1": {
+      "item": "gold_nugget",
+      "qty": 10,
+      "customItem": true,
+      "name": "Żeton promocyjny Laskus",
+      "nameEn": "Żeton promocyjny Laskus"
+    },
+    "storeName": "Betonownia Laskus",
+    "storeLocation": "Laskus",
+    "storeOwner": "AdminShop",
+    "x": 98,
+    "y": 75,
+    "z": -448
+  },
+  {
+    "id": "spawnowice_kiosk_1",
+    "product": {
+      "item": "paper",
+      "qty": 1,
+      "customItem": true,
+      "name": "Świerszczyk",
+      "nameEn": "Świerszczyk"
+    },
+    "villageName": "Pan z kiosku",
+    "price1": {
+      "item": "paper",
+      "qty": 2,
+      "customItem": true,
+      "name": "Kibelion",
+      "nameEn": "Kibelion"
+    },
+    "storeName": "Kiosk",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -100,
+    "y": 67,
+    "z": -262
+  },
+  {
+    "id": "spawnowice_brecht_1",
+    "product": {
+      "item": "brechtpizza",
+      "qty": 1,
+      "customItem": true,
+      "name": "Pizza z extra Brechtem",
+      "nameEn": "Pizza z extra Brechtem"
+    },
+    "villageName": "Brecht Pizza",
+    "price1": {
+      "item": "emerald",
+      "qty": 2
+    },
+    "storeName": "BRECHT Pizza",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -138,
+    "y": 67,
+    "z": -222
+  },
+  {
+    "id": "spawnowice_brecht_2",
+    "product": {
+      "item": "potion_harming",
+      "qty": 1,
+      "customItem": true,
+      "name": "Coca-Cola",
+      "nameEn": "Coca-Cola"
+    },
+    "villageName": "Brecht Pizza",
+    "price1": {
+      "item": "emerald",
+      "qty": 1
+    },
+    "storeName": "BRECHT Pizza",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -138,
+    "y": 67,
+    "z": -222
+  },
+  {
+    "id": "spawnowice_brecht_3",
+    "product": {
+      "item": "potion_weaving",
+      "qty": 1,
+      "customItem": true,
+      "name": "Kawa",
+      "nameEn": "Kawa"
+    },
+    "villageName": "Brecht Pizza",
+    "price1": {
+      "item": "emerald",
+      "qty": 2
+    },
+    "storeName": "BRECHT Pizza",
+    "storeLocation": "Spawnowice",
+    "storeOwner": "AdminShop",
+    "x": -138,
+    "y": 67,
+    "z": -222
+  },
+  {
+    "id": "gorzyca_drobiopol_1",
+    "product": {
+      "item": "cooked_chicken",
+      "qty": 16,
+      "name": "Pieczony kurczak",
+      "nameEn": "Cooked Chicken"
+    },
+    "villageName": "Jerzy Jajeczny",
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Drobiopol",
+    "storeLocation": "Gorzyca",
+    "storeOwner": "AdminShop",
+    "x": -497,
+    "y": 70,
+    "z": -89
+  },
+  {
+    "id": "gorzyca_drobiopol_2",
+    "product": {
+      "item": "feather",
+      "qty": 32,
+      "name": "Pióro",
+      "nameEn": "Feather"
+    },
+    "villageName": "Jerzy Jajeczny",
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Drobiopol",
+    "storeLocation": "Gorzyca",
+    "storeOwner": "AdminShop",
+    "x": -497,
+    "y": 70,
+    "z": -89
+  },
+  {
+    "id": "gorzyca_drobiopol_3",
+    "product": {
+      "item": "egg",
+      "qty": 16,
+      "name": "Jajko",
+      "nameEn": "Egg"
+    },
+    "villageName": "Jerzy Jajeczny",
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Drobiopol",
+    "storeLocation": "Gorzyca",
+    "storeOwner": "AdminShop",
+    "x": -497,
+    "y": 70,
+    "z": -89
+  },
+  {
+    "id": "gorzyca_drobiopol_4",
+    "product": {
+      "item": "blue_egg",
+      "qty": 16,
+      "name": "Niebieskie jajko",
+      "nameEn": "Blue Egg"
+    },
+    "villageName": "Jerzy Jajeczny",
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Drobiopol",
+    "storeLocation": "Gorzyca",
+    "storeOwner": "AdminShop",
+    "x": -497,
+    "y": 70,
+    "z": -89
+  },
+  {
+    "id": "gorzyca_drobiopol_5",
+    "product": {
+      "item": "brown_egg",
+      "qty": 16,
+      "name": "Brązowe jajko",
+      "nameEn": "Brown Egg"
+    },
+    "villageName": "Jerzy Jajeczny",
+    "price1": {
+      "item": "emerald",
+      "qty": 1,
+      "name": "Szmaragd",
+      "nameEn": "Emerald"
+    },
+    "storeName": "Drobiopol",
+    "storeLocation": "Gorzyca",
+    "storeOwner": "AdminShop",
+    "x": -497,
+    "y": 70,
+    "z": -89
   }
 ]
