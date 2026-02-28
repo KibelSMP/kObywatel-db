@@ -324,5 +324,27 @@
                 "voivodeship": "Grzegórzeckie"
             }
         }
+    },
+    {
+        "version": "1.1",
+        "name": "SADEKS.SA",
+        "symbols": [
+            "A",
+            "F"
+        ],
+        "knip": 20280226013,
+        "registrar_kesel": 25466148,
+        "location": {
+            "dimension": "Overworld",
+            "coordinates": {
+                "x": 3350,
+                "z": 3816
+            },
+            "address": {
+                "street": "Wklęsła 4",
+                "city": "Dentgino",
+                "voivodeship": "Pyrskie"
+            }
+        }
     }
 ]
