@@ -367,5 +367,26 @@
                 "voivodeship": "Międzyrzeckie"
             }
         }
+    },
+    {
+        "version": "1.1",
+        "name": "Kancelaria Sejmu",
+        "symbols": [
+            "O"
+        ],
+        "knip": 100000000000,
+        "registrar_kesel": 0,
+        "location": {
+            "dimension": "Overworld",
+            "coordinates": {
+                "x": -30,
+                "z": -100
+            },
+            "address": {
+                "street": "Plac Racjonalnego Prawodawcy 1",
+                "city": "Spawnowice",
+                "voivodeship": "Międzyrzeckie"
+            }
+        }
     }
 ]
