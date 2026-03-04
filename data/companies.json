@@ -346,5 +346,26 @@
                 "voivodeship": "Pyrskie"
             }
         }
+    },
+    {
+        "version": "1.1",
+        "name": "CBŚ - Centralne Biuro Śledcze PSK",
+        "symbols": [
+            "O"
+        ],
+        "knip": 21376942004,
+        "registrar_kesel": 76120309,
+        "location": {
+            "dimension": "Overworld",
+            "coordinates": {
+                "x": -290,
+                "z": -59
+            },
+            "address": {
+                "street": "ul. Bankowa 4",
+                "city": "Spawnowice",
+                "voivodeship": "Międzyrzeckie"
+            }
+        }
     }
 ]
