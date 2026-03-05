@@ -1,0 +1,187 @@
+{
+  "ABN-MSU": {
+    "lineNumber": "R01",
+    "category": "REGIO",
+    "connection": "Bida z Nędzą - Susy"
+  },
+  "APP-PES": {
+    "lineNumber": "M02",
+    "category": "METRO",
+    "connection": "Perkelin Port Lotniczy - Endowice Sucharowice"
+  },
+  "C_MNL-MCP": {
+    "lineNumber": "S02",
+    "category": "CARGO",
+    "connection": "Nilplep Las - Ciechocinek Tartak"
+  },
+  "C_UKT-WBL": {
+    "lineNumber": "S03",
+    "category": "CARGO",
+    "connection": "Kekałtów Towarowy - Betonownia Laskus"
+  },
+  "FUNGI": {
+    "lineNumber": "S01",
+    "category": "GRZYB",
+    "connection": "Las - Grzybiarz"
+  },
+  "GBA-GPN": {
+    "lineNumber": "R14",
+    "category": "REGIO",
+    "connection": "Baraharad - Przylądek Nadziei"
+  },
+  "GWK-GEN": {
+    "lineNumber": "NŻ01",
+    "category": "REGIO",
+    "connection": "Wysoki Kącik - Endzin"
+  },
+  "IC_ABN-GWK": {
+    "lineNumber": "IC03",
+    "category": "IC",
+    "connection": "Bida z Nędzą - Wysoki Kącik"
+  },
+  "IC_WJU-PDW": {
+    "lineNumber": "IC01",
+    "category": "IC",
+    "connection": "Jusznica - Dentgino"
+  },
+  "IC_WJU-PKL": {
+    "lineNumber": "IC04",
+    "category": "IC",
+    "connection": "Jusznica - Podkazie - Krzywy Las"
+  },
+  "KKL2": {
+    "lineNumber": "-",
+    "category": "KKL",
+    "connection": "Niskie Postaranie Górne - Kopalnia Kałcytu"
+  },
+  "MPR-AKG": {
+    "lineNumber": "R08",
+    "category": "REGIO",
+    "connection": "Przemytnica - Wyścigi - Krowodrza Górka"
+  },
+  "MPR-ZPO": {
+    "lineNumber": "R07",
+    "category": "REGIO",
+    "connection": "Przemytnica - Podkazie"
+  },
+  "MSB-MSC": {
+    "lineNumber": "[1]",
+    "category": "TRAMWAJ",
+    "connection": "Spawnowice Bronowice - Czerwone Maki P+R"
+  },
+  "MSC-MSB": {
+    "lineNumber": "[1]",
+    "category": "TRAMWAJ",
+    "connection": "Spawnowice Czerwone Maki P+R - Bronowice"
+  },
+  "MSU-GBM": {
+    "lineNumber": "M01",
+    "category": "METRO",
+    "connection": "Susy - Baraharad"
+  },
+  "MSU-WJU": {
+    "lineNumber": "R04",
+    "category": "REGIO",
+    "connection": "Susy - Jusznica"
+  },
+  "PDW-ABN": {
+    "lineNumber": "R02",
+    "category": "REGIO",
+    "connection": "Dentgino - Bida z Nędzą"
+  },
+  "PDW-PDL": {
+    "lineNumber": "R15",
+    "category": "REGIO",
+    "connection": "Dentgino - Dziady Leśne"
+  },
+  "PDW-PWC": {
+    "lineNumber": "NŻ05",
+    "category": "REGIO",
+    "connection": "Dentgino - Wąbrzeźno Cegielnia"
+  },
+  "PROM": {
+    "lineNumber": "-",
+    "category": "PROM",
+    "connection": "Brzozowy Las - Płaszki"
+  },
+  "SLE-AKG": {
+    "lineNumber": "R11",
+    "category": "REGIO",
+    "connection": "Leoben - Krowodrza Górka"
+  },
+  "SLE-SGK": {
+    "lineNumber": "R17",
+    "category": "REGIO",
+    "connection": "Leoben - Granicznik Kolonia Wybudowanie B"
+  },
+  "SWI-SLD": {
+    "lineNumber": "R16",
+    "category": "REGIO",
+    "connection": "Wiśniówka - Leśny Dwór"
+  },
+  "UKE-UPS": {
+    "lineNumber": "NŻ03",
+    "category": "REGIO",
+    "connection": "Kekałtów - Piaszczyna"
+  },
+  "WJU-KBC": {
+    "lineNumber": "R06",
+    "category": "REGIO",
+    "connection": "Jusznica - Nowa Paqownia - Borg Cube"
+  },
+  "WJU-LPO": {
+    "lineNumber": "R12",
+    "category": "REGIO",
+    "connection": "Jusznica - Północnik"
+  },
+  "WJU-SLE": {
+    "lineNumber": "R05",
+    "category": "REGIO",
+    "connection": "Jusznica - Leoben"
+  },
+  "ZDZ-PKL": {
+    "lineNumber": "R03",
+    "category": "REGIO",
+    "connection": "Dzikie - Krzywy Las"
+  },
+  "ZDZ-ZYU": {
+    "lineNumber": "NŻ04",
+    "category": "REGIO",
+    "connection": "Dzikie - Yuriowice"
+  },
+  "ZPO-GBZ": {
+    "lineNumber": "R13",
+    "category": "REGIO",
+    "connection": "Podkazie - Bliski Zachód"
+  },
+  "ZPO-WJU": {
+    "lineNumber": "R09",
+    "category": "REGIO",
+    "connection": "Podkazie - Jusznica"
+  },
+  "ZPO-ZDZ": {
+    "lineNumber": "R10",
+    "category": "REGIO",
+    "connection": "Podkazie - Dzikie"
+  },
+  "ZWI-ZWL": {
+    "lineNumber": "NŻ02",
+    "category": "REGIO",
+    "connection": "Wioksal - Wklejalin Plaża"
+  },
+  "ZWL-ZWI": {
+    "lineNumber": "NŻ02",
+    "category": "REGIO",
+    "connection": "Wklejalin Plaża - Wioksal"
+  },
+  "ZYU-ZDZ": {
+    "lineNumber": "NŻ04",
+    "category": "REGIO",
+    "connection": "Yuriowice - Dzikie"
+  },
+  "machajkaKTZ": {
+    "lineNumber": "-",
+    "category": "KG",
+    "connection": "Ziemiokoty - Kopalnia Terakoty"
+  }
+}
